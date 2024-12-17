@@ -226,7 +226,7 @@ The Lightning Network is **a protocol and a network** that facilitates Bitcoin t
 - **Initial setup:** Funds are locked (escrowed) on the main blockchain to establish a payment channel between 2 parties.
 - **Payment network:** A web of payment channels between multiple parties forms a payment network (routing and interconnection).
 - **Off-chain transactions:** Transactions occur between parties but are **not immediately published** on Bitcoin's main blockchain (**"off-chain"**).
-- **On-chain settlements:** Only **the final balance** of a channel's transactions is published on the Bitcoin main blockchain (**"on-chain**"), allowing numerous transactions to occur in the meantime.
+- **On-chain settlements:** Only **the final balance** of a channel's transactions is published on the Bitcoin main blockchain (**"on-chain**"), allowing numerous transactions to occur in the meantime. This bundling of multiple payments reduces congestion and thus lowers fees compared to make many on-chain transactions.
 - **Channel closure:** A user can close their channel at any time and reclaim their Bitcoin by publishing the latest transaction state. This is the principle of transactions being **"publishable" at any moment but "unpublished"** until necessary. The exit (channel closure) can be unilateral (decided by any of the 2 parties at anytime) or mutually decided (resulting in lower on-chain fees)
 
 This approach avoids the slowness and complexity of performing every transaction directly on Bitcoin's main blockchain, recording only final balances and retaining its security. The Lightning Network is a layer "on top" of Bitcoin but remains anchored to it.
