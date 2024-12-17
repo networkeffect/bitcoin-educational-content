@@ -665,7 +665,7 @@ Please note that the table below is a simplified representation, as the range of
 ## Evolutions
 <chapterId>59ff43a1-98e2-4a81-af3e-9654bdd60952</chapterId>
 
-## Solutions
+### Solutions
 <chapterId>eb8e068b-2782-4dd1-9f11-67d42362b8aa</chapterId>
 
 There are always trade-offs for each category of solution. For example, in the initial "trial phase," the suggested wallets are designed to be as simple as possible in terms of user interface, but they are hosted (**custodial**). This means that the funds are controlled by the app provider. However, the ethos of Bitcoin encourages moving toward full ownership of funds by the user (**self-custodial**). In this case, it is recommended to upgrade to the next category as soon as the first sales are made—essentially, once it’s confirmed that you have customers willing to pay in Bitcoin.
@@ -844,9 +844,6 @@ Bitcoin’s classification in financial statements varies by jurisdiction and de
 
 
 
-
-
-
 #### Methods of Valuation
 
 Valuation methods are accounting techniques used to determine the cost basis of Bitcoin, which is essential for accurately calculating gains or losses during transactions. In general, it is best to **maintain an always updated value of current Bitcoin holdings’ costs** in the accounting system. This ensures transparency, compliance with tax regulations, and prevents falling behind when calculations need to be performed.
@@ -1022,19 +1019,21 @@ However, **for a small business owner or shop**, all that’s often needed is a 
 ## Conclusion
 <chapterId>5503c23e-3a90-4a23-8d89-75e3cc1ee53e</chapterId>
 
-*We have reached the end of the CYP201 training. I hope it has been useful in your Bitcoin learning journey and has helped you better understand how the HD wallets you use daily work. Thank you for following this course to its completion!*
+*We have now reached the end of the  BIZ101 training : "Kickstart your Company’s Journey on the Bitcoin Network". We hope it has provided valuable insights into how Bitcoin and the Lightning Network can transform your business operations. From understanding the nature of money and currency networks, to grasping the strategic importance of holding Bitcoin in treasury, and exploring the practical solutions for accepting Bitcoin payments, you’ve gained knowledge that connects fundamental theory with real-world application.
 
-*In my opinion, this knowledge about wallets is fundamental, as it connects a theoretical aspect of Bitcoin to its practical use. Indeed, if you use Bitcoin, you necessarily handle wallet software. Understanding their inner workings allows you to implement effective security strategies while mastering the underlying mechanisms, risks, and potential weaknesses. Thus, you can use Bitcoin more safely and with confidence.*
+*If you use Bitcoin as part of your business, comprehension of these mechanisms enables you to confidently adopt best practices, leverage cost savings, improve your payment infrastructure, and strengthen financial resilience. By understanding how Bitcoin and Lightning payments work, you ensure that your company remains competitive in a rapidly evolving global marketplace.
 
-*If you haven't already, I invite you to rate and comment on this training. It would help me enormously. You can also share this training on your social networks to spread this knowledge to as many people as possible.*
+*If you found this training helpful, we’d greatly appreciate your feedback. **Please consider rating and commenting on this course**, and feel free to share it within your professional network. Your support helps this knowledge reach more entrepreneurs and managers looking to benefit from Bitcoin’s capabilities.
 
-*To continue your journey down the rabbit hole, I highly recommend the **BTC204** training, which I also produced on Plan ₿ Network. It is dedicated to Bitcoin privacy and explores key themes: What is the privacy model? How does chain analysis work? How to use Bitcoin optimally to maximize your privacy? A logical next step to deepen your skills!o continue deepening your knowledge in the Bitcoin universe, we invite you to explore other courses available on Plan ₿ Network such as:
+*Ready to go further? To continue your journey, you might consider exploring additional courses on Plan ₿ Network. For instance, if you wish to deepen your understanding of the Bitcoin ecosystem, check out **BIZ102** in which you will go more in depth about Bitcoin fundamentals and practical applications, specifically tailored for future startup-builders, business students and professionals willing to work in the growing Bitcoin ecosystem in non-technical roles.
 
-#### *Learn to create your Bitcoin community with*
-*https://planb.network/courses/btc302*
+*We also invite you to explore other courses available on Plan ₿ Network such as:
 
-#### *Discover the Lightning Network with*
-*https://planb.network/courses/lnp201*
+#### *The Bitcoin Journey
+https://planb.network/en/courses/btc101*
+
+#### *Getting your first Bitcoins
+https://planb.network/en/courses/btc102*
 
 #### *Discover the economic thought of the Austrian School with*
 *https://planb.network/courses/eco201*
