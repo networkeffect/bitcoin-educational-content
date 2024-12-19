@@ -1,18 +1,18 @@
 id: 958d8ddc-11ed-4945-a752-6ccdab643a38
 chapterId: 84063061-ffdb-4b1f-b20b-588ffb146877
-difficulty: easy
+difficulty: intermediate
 duration: 30
-author: elie-sader
+author: network-pill
 tags:
-  - business
-  - traditional-payment-systems
+  - guides
+  - finance
 
 # Proofreading metadata
-original_language: fr
+original_language: en
 proofreading:
-  - language: fr
-    last_contribution_date: 2024-11-16
+  - language: en
+    last_contribution_date: 2024-12-18
     urgency: 1
     contributors_id:
-      - LoicPandul
+      - NetworkEffect
     reward:
