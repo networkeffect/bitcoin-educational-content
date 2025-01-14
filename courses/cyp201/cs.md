@@ -78,10 +78,10 @@ Například hašovací funkce SHA256 produkuje hash pevné délky 256 bitů. Tak
 
 Tyto kryptografické hašovací funkce mají několik zásadních charakteristik, které je činí obzvláště užitečnými v kontextu Bitcoinu a dalších počítačových systémů:
 
-1. Nezvratnost (nebo odolnost proti zpětnému zjištění)
-2. Odolnost proti manipulaci (lavina efekt)
-3. Odolnost proti kolizím
-4. Odolnost proti druhému zpětnému zjištění
+- Nezvratnost (nebo odolnost proti zpětnému zjištění)
+- Odolnost proti manipulaci (lavina efekt)
+- Odolnost proti kolizím
+- Odolnost proti druhému zpětnému zjištění
 
 #### 1. Nezvratnost (odolnost proti zpětnému zjištění):
 
@@ -136,6 +136,8 @@ $$
 $$
 
 Tedy odolnost proti druhému preobrazu je do jisté míry podobná odolnosti proti kolizím, kromě toho, že zde je útok obtížnější, protože útočník nemůže volně vybírat $m_1$.
+
+![CYP201](assets/fr/005.webp) 
 
 ### Aplikace hašovacích funkcí v Bitcoinu
 
@@ -223,9 +225,9 @@ Pokud se vrátíme k našemu příkladu s počáteční zprávou o 950 bitech, p
 
 Tato velikost doplnění je přidána podle pravidel doplnění bitů. Proto zpráva po našem předzpracování se skládá ze tří částí:
 
-1. Původní zpráva $M$;
-2. Bit `1` následovaný několika bity `0` pro formování doplnění bitů;
-3. 64-bitová reprezentace délky $M$ pro formování doplnění s velikostí.
+- Původní zpráva $M$;
+- Bit `1` následovaný několika bity `0` pro formování doplnění bitů;
+- 64-bitová reprezentace délky $M$ pro formování doplnění s velikostí.
 
 ![CYP201](assets/fr/006.webp)
 
@@ -522,8 +524,8 @@ V Bitcoinu na aplikační úrovni, kromě hašovacích funkcí, se používají 
 
 V peněženkách Bitcoinu se hlavně používají 2 algoritmy derivace:
 
-1. **HMAC (_Hash-based Message Authentication Code_)**
-2. **PBKDF2 (_Password-Based Key Derivation Function 2_)**
+- **HMAC (_Hash-based Message Authentication Code_)**
+- **PBKDF2 (_Password-Based Key Derivation Function 2_)**
 
 Společně prozkoumáme fungování a roli každého z nich.
 
@@ -560,12 +562,12 @@ $$
 
 Tato rovnice je rozložena na následující kroky:
 
-1. XOR upraveného klíče $K'$ s $\text{ipad}$ pro získání $\text{iKpad}$;
-2. XOR upraveného klíče $K'$ s $\text{opad}$ pro získání $\text{oKpad}$;
-3. Konkatenace $\text{iKpad}$ s zprávou $m$.
-4. Hashování tohoto výsledku pomocí SHA512 pro získání mezivýsledku $H_1$.
-5. Konkatenace $\text{oKpad}$ s $H_1$.
-6. Hashování tohoto výsledku pomocí SHA512 pro získání konečného výsledku $H_2$.
+- XOR upraveného klíče $K'$ s $\text{ipad}$ pro získání $\text{iKpad}$;
+- XOR upraveného klíče $K'$ s $\text{opad}$ pro získání $\text{oKpad}$;
+- Konkatenace $\text{iKpad}$ s zprávou $m$.
+- Hashování tohoto výsledku pomocí SHA512 pro získání mezivýsledku $H_1$.
+- Konkatenace $\text{oKpad}$ s $H_1$.
+- Hashování tohoto výsledku pomocí SHA512 pro získání konečného výsledku $H_2$.
 
 Tyto kroky lze shrnout schématicky následovně:
 
@@ -723,6 +725,8 @@ Fakt, že tento bod $G$ je společný pro všechny veřejné klíče na Bitcoinu
 ![CYP201](assets/fr/017.webp)
 
 Hlavní charakteristikou této operace je, že jde o jednosměrnou funkci. Je snadné vypočítat veřejný klíč $K$ znalostí soukromého klíče $k$ a generátorového bodu $G$, ale je prakticky nemožné vypočítat soukromý klíč $k$ znalostí pouze veřejného klíče $K$ a generátorového bodu $G$. Najít $k$ z $K$ a $G$ znamená řešit problém diskrétního logaritmu na eliptických křivkách, matematicky obtížný problém, pro který není znám žádný efektivní algoritmus. Ani nejsilnější současné kalkulačky nejsou schopny tento problém vyřešit v rozumném čase.
+
+![CYP201](assets/fr/018.webp)
 
 ### Sčítání a zdvojení bodů na eliptických křivkách
 
@@ -1431,24 +1435,24 @@ xpub6CTNzMUkzpurBWaT4HQoYzLP4uBbGJuWY358Rj7rauiw4rMHCyq3Rfy9w4kyJXJzeFfyrKLUar2r
 
 Tento rozšířený klíč se rozkládá na několik odlišných prvků:
 
-1. **Verze**: `0488B21E`
+- **Verze**: `0488B21E`
 
 První 4 bajty jsou verze. Zde odpovídá rozšířenému veřejnému klíči na Mainnetu s účelem derivace buď *Legacy* nebo *SegWit v1*.
 
-2. **Hloubka**: `03`
+- **Hloubka**: `03`
 
 Toto pole udává hierarchickou úroveň klíče v rámci HD peněženky. V tomto případě hloubka `03` znamená, že tento klíč je tři úrovně derivace pod hlavním klíčem.
 
-3. **Otisk rodiče**: `6D5601AD`
+- **Otisk rodiče**: `6D5601AD`
 Tyto jsou první 4 bajty HASH160 hashe rodičovského veřejného klíče, který byl použit k odvození tohoto `xpub`.
 
-4. **Číslo indexu**: `80000000`
+- **Číslo indexu**: `80000000`
 
 Tento index označuje pozici klíče mezi jeho rodičovskými potomky. Předpona `0x80` naznačuje, že klíč je odvozen tvrdě (hardened způsobem), a protože zbytek je vyplněn nulami, naznačuje to, že tento klíč je první mezi jeho možnými sourozenci.
 
-5. **Chain code**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
-6. **Veřejný klíč**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
-7. **Kontrolní součet**: `1F067C3A`
+- **Chain code**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
+- **Veřejný klíč**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
+- **Kontrolní součet**: `1F067C3A`
 
 Kontrolní součet odpovídá prvním 4 bajtům hashe (dvojitý SHA256) všeho ostatního.
 
@@ -1468,8 +1472,8 @@ Pojďme prozkoumat, jak toto deterministické odvození funguje.
 ### Různé Typy Odvození Dětských Klíčů
 
 Jak jsme se již dotkli v předchozí kapitole: dětské klíče jsou rozděleny do dvou hlavních typů:
-1. **Normální dětské klíče** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Tyto jsou odvozeny z rozšířeného veřejného klíče ($K_{\text{PAR}}$), nebo rozšířeného soukromého klíče ($k_{\text{PAR}}$), nejprve odvozením veřejného klíče.
-2. **Tvrdě odvozené dětské klíče** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Tyto mohou být odvozeny pouze z rozšířeného soukromého klíče ($k_{\text{PAR}}$) a jsou proto neviditelné pro pozorovatele, kteří mají pouze rozšířený veřejný klíč.
+- **Normální dětské klíče** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Tyto jsou odvozeny z rozšířeného veřejného klíče ($K_{\text{PAR}}$), nebo rozšířeného soukromého klíče ($k_{\text{PAR}}$), nejprve odvozením veřejného klíče.
+- **Tvrdě odvozené dětské klíče** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Tyto mohou být odvozeny pouze z rozšířeného soukromého klíče ($k_{\text{PAR}}$) a jsou proto neviditelné pro pozorovatele, kteří mají pouze rozšířený veřejný klíč.
 Každý dětský klíčový pár je identifikován 32-bitovým **indexem** (v našich výpočtech označeným jako $i$). Indexy pro normální klíče se pohybují od $0$ do $2^{31}-1$, zatímco ty pro zpevněné (hardened) klíče se pohybují od $2^{31}$ do $2^{32}-1$. Tyto čísla se používají k rozlišení sourozeneckých klíčových párů během derivace. Skutečně, každý rodičovský klíčový pár musí být schopen derivovat několik dětských klíčových párů. Pokud bychom aplikovali stejný výpočet systematicky od rodičovských klíčů, všechny získané sourozenecké klíče by byly identické, což není žádoucí. Index tedy zavádí proměnnou, která modifikuje výpočet derivace, což umožňuje rozlišit každý pár sourozenců. Kromě specifického použití v určitých protokolech a standardech derivace obvykle začínáme derivací prvního dětského klíče s indexem `0`, druhého s indexem `1` a tak dále.
 ### Proces derivace s HMAC-SHA512
 
@@ -1869,6 +1873,8 @@ Technicky skript P2TR zamyká bitcoiny na unikátním veřejném klíči Schnorr
 - Splněním jednoho ze skriptů obsažených v Merkleově stromu (*script path*).
 P2TR tedy nabízí velkou flexibilitu, protože umožňuje uzamknout bitcoiny buď s unikátním veřejným klíčem, s několika vybranými skripty, nebo s obojím současně. Výhodou této struktury Merkleova stromu je, že během transakce je odhalen pouze použitý výdajový skript, ale všechny ostatní alternativní skripty zůstávají tajné.
 
+![CYP201](assets/fr/063.webp)
+
 P2TR odpovídá výstupům SegWit verze 1, což znamená, že podpisy pro vstupy P2TR jsou uloženy v sekci *Witness* transakce, a ne v *scriptSig*. Adresy P2TR používají kódování *bech32m* a začínají na `bc1p`, ale jsou poměrně unikátní tím, že pro jejich konstrukci nepoužívají hashovací funkci. Skutečně přímo reprezentují veřejný klíč $Q$, který je jednoduše formátován s metadaty. Je to tedy model skriptu blízký P2PK.
 
 Nyní, když jsme probrali teorii, pojďme přejít k praxi! V následující kapitole navrhuji odvození jak adresy SegWit v0, tak adresy SegWit v1 z páru klíčů.
@@ -1887,6 +1893,9 @@ Po provedení všech kroků odvození od hlavního klíče k hloubce 5 pomocí v
 Prvním krokem je komprese veřejného klíče $K$. Abychom tento proces dobře pochopili, připomeňme si nejprve některé základy, které byly pokryty v části 3.
 Veřejný klíč v Bitcoinu je bod $K$ umístěný na eliptické křivce. Je reprezentován ve formě $(x, y)$, kde $x$ a $y$ jsou souřadnice bodu. Ve své neskomprimované formě má tento veřejný klíč 520 bitů: 8 bitů pro prefix (počáteční hodnota `0x04`), 256 bitů pro souřadnici $x$ a 256 bitů pro souřadnici $y$.
 Eliptické křivky však mají vlastnost symetrie vzhledem k ose x: pro danou souřadnici $x$ existují pouze dvě možné hodnoty pro $y$: $y$ a $-y$. Tyto dva body se nacházejí na obou stranách osy x. Jinými slovy, pokud známe $x$, stačí specifikovat, zda je $y$ sudé nebo liché, abychom identifikovali přesný bod na křivce.
+
+![CYP201](assets/fr/064.webp)
+
 Pro kompresi veřejného klíče se kóduje pouze $x$, které zabírá 256 bitů, a přidá se prefix, který specifikuje paritu $y$. Tato metoda redukuje velikost veřejného klíče na 264 bitů namísto původních 520. Prefix `0x02` indikuje, že $y$ je sudé, a prefix `0x03` indikuje, že $y$ je liché.
 Pojďme si vzít příklad pro lepší pochopení, s nekomprimovanou reprezentací veřejného klíče:
 

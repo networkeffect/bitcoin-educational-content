@@ -80,10 +80,10 @@ Ví dụ, hàm băm SHA256 tạo ra một băm có độ dài cố định 256 b
 
 Những hàm băm mật mã này có một số đặc điểm thiết yếu làm cho chúng đặc biệt hữu ích trong bối cảnh của Bitcoin và các hệ thống máy tính khác:
 
-1. Khả năng không thể đảo ngược (hoặc kháng ảnh trước)
-2. Kháng thay đổi (hiệu ứng tuyết lở)
-3. Kháng va chạm
-4. Kháng ảnh trước thứ hai
+- Khả năng không thể đảo ngược (hoặc kháng ảnh trước)
+- Kháng thay đổi (hiệu ứng tuyết lở)
+- Kháng va chạm
+- Kháng ảnh trước thứ hai
 
 #### 1. Khả năng không thể đảo ngược (kháng ảnh trước):
 
@@ -138,6 +138,8 @@ $$
 $$
 
 Do đó, khả năng chống preimage thứ hai tương tự như khả năng chống va chạm, ngoại trừ ở đây, cuộc tấn công khó hơn bởi vì kẻ tấn công không thể tự do chọn $m_1$.
+
+![CYP201](assets/fr/005.webp)
 
 ### Ứng Dụng của Hàm Băm trong Bitcoin
 
@@ -226,9 +228,9 @@ Nếu quay lại ví dụ của chúng ta với thông điệp ban đầu là 95
 
 Kích thước đệm này được thêm vào theo sau phần đệm bit. Do đó, thông điệp sau quá trình tiền xử lý của chúng ta bao gồm ba phần:
 
-1. Thông điệp gốc $M$;
-2. Một bit `1` theo sau bởi nhiều bit `0` để tạo thành phần đệm bit;
-3. Một biểu diễn 64-bit của độ dài của $M$ để tạo thành phần đệm với kích thước.
+- Thông điệp gốc $M$;
+- Một bit `1` theo sau bởi nhiều bit `0` để tạo thành phần đệm bit;
+- Một biểu diễn 64-bit của độ dài của $M$ để tạo thành phần đệm với kích thước.
 
 ![CYP201](assets/fr/006.webp)
 
@@ -529,8 +531,8 @@ Bây giờ chúng ta đã xem xét chi tiết về cách hoạt động của c�
 Trong Bitcoin ở cấp độ ứng dụng, ngoài các hàm băm, các thuật toán dẫn xuất mật mã cũng được sử dụng để tạo ra dữ liệu an toàn từ các đầu vào ban đầu. Mặc dù các thuật toán này dựa trên hàm băm, chúng phục vụ các mục đích khác nhau, đặc biệt là về xác thực và tạo khóa. Các thuật toán này giữ lại một số đặc điểm của hàm băm, như không thể đảo ngược, kháng thay đổi, và kháng va chạm.
 
 Trên ví Bitcoin, chủ yếu có 2 thuật toán dẫn xuất được sử dụng:
-1. **HMAC (*Hash-based Message Authentication Code*)**
-2. **PBKDF2 (*Password-Based Key Derivation Function 2*)**
+- **HMAC (*Hash-based Message Authentication Code*)**
+- **PBKDF2 (*Password-Based Key Derivation Function 2*)**
 
 Chúng ta sẽ cùng khám phá cách hoạt động và vai trò của mỗi thuật toán.
 
@@ -571,12 +573,12 @@ $$
 $$
 
 Phương trình này được chia thành các bước sau:
-1. XOR khóa điều chỉnh $K'$ với $\text{ipad}$ để thu được $\text{iKpad}$;
-2. XOR khóa điều chỉnh $K'$ với $\text{opad}$ để thu được $\text{oKpad}$;
-3. Nối $\text{iKpad}$ với thông điệp $m$.
-4. Băm kết quả này với SHA512 để thu được băm trung gian $H_1$.
-5. Nối $\text{oKpad}$ với $H_1$.
-6. Băm kết quả này với SHA512 để thu được kết quả cuối cùng $H_2$.
+- XOR khóa điều chỉnh $K'$ với $\text{ipad}$ để thu được $\text{iKpad}$;
+- XOR khóa điều chỉnh $K'$ với $\text{opad}$ để thu được $\text{oKpad}$;
+- Nối $\text{iKpad}$ với thông điệp $m$.
+- Băm kết quả này với SHA512 để thu được băm trung gian $H_1$.
+- Nối $\text{oKpad}$ với $H_1$.
+- Băm kết quả này với SHA512 để thu được kết quả cuối cùng $H_2$.
 
 Các bước này có thể được tóm tắt một cách sơ đồ như sau:
 
@@ -744,6 +746,9 @@ Việc điểm $G$ này chung cho tất cả các khóa công khai trên Bitcoin
 ![CYP201](assets/fr/017.webp)
 
 Đặc điểm chính của phép toán này là nó là một hàm một chiều. Việc tính toán khóa công khai $K$ khi biết khóa riêng $k$ và điểm sinh $G$ là dễ dàng, nhưng việc tính toán khóa riêng $k$ khi chỉ biết khóa công khai $K$ và điểm sinh $G$ là gần như không thể. Tìm $k$ từ $K$ và $G$ tương đương với việc giải quyết vấn đề logarit rời rạc trên đường cong elliptic, một vấn đề toán học khó mà không có thuật toán hiệu quả nào được biết đến. Ngay cả những máy tính mạnh mẽ nhất hiện nay cũng không thể giải quyết vấn đề này trong một khoảng thời gian hợp lý.
+
+![CYP201](assets/fr/018.webp)
+
 ### Phép Cộng và Nhân Đôi Điểm trên Đường Cong Elliptic
 
 Khái niệm về phép cộng trên đường cong elliptic được định nghĩa một cách hình học. Nếu chúng ta có hai điểm $P$ và $Q$ trên đường cong, phép toán $P + Q$ được tính bằng cách vẽ một đường thẳng đi qua $P$ và $Q$. Đường thẳng này sẽ nhất thiết cắt đường cong tại một điểm thứ ba $R'$. Sau đó, chúng ta lấy ảnh phản chiếu của điểm này qua trục x để thu được điểm $R$, là kết quả của phép cộng:
@@ -1473,23 +1478,23 @@ xpub6CTNzMUkzpurBWaT4HQoYzLP4uBbGJuWY358Rj7rauiw4rMHCyq3Rfy9w4kyJXJzeFfyrKLUar2r
 
 Khóa mở rộng này được phân tích thành nhiều yếu tố riêng biệt:
 
-1. **Phiên bản**: `0488B21E`
+- **Phiên bản**: `0488B21E`
 
 4 byte đầu tiên là phiên bản. Ở đây, nó tương ứng với một khóa công khai mở rộng trên Mainnet với mục đích phát sinh là *Legacy* hoặc *SegWit v1*.
 
-2. **Độ sâu**: `03`
+- **Độ sâu**: `03`
 
 Trường này chỉ ra mức độ phân cấp của khóa trong ví HD. Trong trường hợp này, một độ sâu của `03` có nghĩa là khóa này là ba cấp độ phát sinh dưới khóa chính.
 
-3. **Dấu vân tay của cha mẹ**: `6D5601AD`
+- **Dấu vân tay của cha mẹ**: `6D5601AD`
 Đây là 4 byte đầu tiên của băm HASH160 của khóa công khai cha mẹ được sử dụng để tạo ra `xpub` này.
-4. **Số chỉ mục**: `80000000`
+- **Số chỉ mục**: `80000000`
 
 Chỉ số này chỉ vị trí của khóa trong số các con của khóa cha mẹ. Tiền tố `0x80` chỉ ra rằng khóa được tạo ra theo cách cứng cáp, và vì phần còn lại được điền bằng số không, nó chỉ ra rằng khóa này là khóa đầu tiên trong số các khóa anh em có thể có.
 
-5. **Mã chuỗi**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
-6. **Khóa Công Khai**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
-7. **Checksum**: `1F067C3A`
+- **Mã chuỗi**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
+- **Khóa Công Khai**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
+- **Checksum**: `1F067C3A`
 
 Checksum tương ứng với 4 byte đầu tiên của băm (SHA256 kép) của tất cả những thứ khác.
 
@@ -1509,8 +1514,8 @@ Hãy khám phá cách hoạt động xác định này.
 ### Các Loại Tạo ra Khóa Con Khác Nhau
 
 Như chúng ta đã đề cập sơ lược trong chương trước: khóa con được chia thành hai loại chính:
-1. **Khóa con bình thường** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Những khóa này được tạo ra từ khóa công khai mở rộng ($K_{\text{PAR}}$), hoặc khóa riêng tư mở rộng ($k_{\text{PAR}}$), bằng cách đầu tiên tạo ra khóa công khai.
-2. **Khóa con cứng cáp** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Những khóa này chỉ có thể được tạo ra từ khóa riêng tư mở rộng ($k_{\text{PAR}}$) và do đó không thể nhìn thấy bởi những người quan sát chỉ có khóa công khai mở rộng.
+- **Khóa con bình thường** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Những khóa này được tạo ra từ khóa công khai mở rộng ($K_{\text{PAR}}$), hoặc khóa riêng tư mở rộng ($k_{\text{PAR}}$), bằng cách đầu tiên tạo ra khóa công khai.
+- **Khóa con cứng cáp** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Những khóa này chỉ có thể được tạo ra từ khóa riêng tư mở rộng ($k_{\text{PAR}}$) và do đó không thể nhìn thấy bởi những người quan sát chỉ có khóa công khai mở rộng.
 Mỗi cặp khóa con được xác định bởi một **chỉ số** 32-bit (được gọi là $i$ trong các phép tính của chúng tôi). Các chỉ số cho khóa thông thường nằm trong khoảng từ $0$ đến $2^{31}-1$, trong khi đó các chỉ số cho khóa cứng nằm trong khoảng từ $2^{31}$ đến $2^{32}-1$. Những con số này được sử dụng để phân biệt các cặp khóa anh em trong quá trình suy rộng. Thực tế, mỗi cặp khóa cha mẹ phải có khả năng suy rộng ra nhiều cặp khóa con. Nếu chúng ta áp dụng cùng một phép tính một cách hệ thống từ khóa cha mẹ, tất cả các khóa anh em thu được sẽ giống hệt nhau, điều này không mong muốn. Chỉ số do đó giới thiệu một biến số thay đổi phép tính suy rộng, cho phép phân biệt mỗi cặp anh em. Ngoại trừ việc sử dụng cụ thể trong một số giao thức và tiêu chuẩn suy rộng, chúng tôi thường bắt đầu bằng cách suy rộng khóa con đầu tiên với chỉ số `0`, khóa thứ hai với chỉ số `1`, và cứ thế tiếp tục.
 ### Quy Trình Suy Rộng với HMAC-SHA512
 
@@ -1937,6 +1942,8 @@ Về mặt kỹ thuật, một kịch bản P2TR khóa bitcoins trên một khó
 - Bằng cách thỏa mãn một trong các kịch bản chứa trong cây Merkle (*script path*).
 P2TR do đó mang lại sự linh hoạt lớn, khi nó cho phép khóa bitcoin bằng một khóa công khai duy nhất, với nhiều script tùy chọn, hoặc cả hai cùng một lúc. Lợi ích của cấu trúc cây Merkle này là chỉ có script sử dụng để chi tiêu được tiết lộ trong giao dịch, nhưng tất cả các script thay thế khác vẫn được giữ bí mật.
 
+![CYP201](assets/fr/063.webp)
+
 P2TR tương ứng với đầu ra SegWit phiên bản 1, điều này có nghĩa là chữ ký cho các đầu vào P2TR được lưu trữ trong phần *Witness* của giao dịch, và không phải trong *scriptSig*. Địa chỉ P2TR sử dụng mã hóa *bech32m* và bắt đầu với `bc1p`, nhưng chúng khá đặc biệt vì không sử dụng hàm băm cho việc xây dựng của chúng. Thực tế, chúng trực tiếp đại diện cho khóa công khai $Q$ được định dạng đơn giản với metadata. Do đó, đây là một mô hình script gần với P2PK.
 
 Bây giờ chúng ta đã nắm được lý thuyết, hãy chuyển sang thực hành! Trong chương tiếp theo, tôi đề xuất việc tạo ra cả địa chỉ SegWit v0 và địa chỉ SegWit v1 từ một cặp khóa.
@@ -1955,6 +1962,9 @@ Sau khi thực hiện tất cả các bước phát sinh từ khóa chính đế
 Bước đầu tiên là nén khóa công khai $K$. Để hiểu rõ quá trình này, hãy trước hết nhớ lại một số nguyên tắc cơ bản được đề cập trong phần 3.
 Một khóa công khai trên Bitcoin là một điểm $K$ nằm trên một đường cong elliptic. Nó được biểu diễn dưới dạng $(x, y)$, nơi $x$ và $y$ là tọa độ của điểm. Trong dạng không nén, khóa công khai này có kích thước 520 bit: 8 bit cho tiền tố (giá trị ban đầu là `0x04`), 256 bit cho tọa độ $x$, và 256 bit cho tọa độ $y$.
 Tuy nhiên, đường cong elliptic có tính chất đối xứng đối với trục x: cho một tọa độ $x$ cụ thể, chỉ có hai giá trị có thể cho $y$: $y$ và $-y$. Hai điểm này nằm ở hai bên của trục x. Nói cách khác, nếu chúng ta biết $x$, chỉ cần chỉ rõ $y$ là chẵn hay lẻ để xác định chính xác điểm trên đường cong.
+
+![CYP201](assets/fr/064.webp)
+
 Để nén một khóa công khai, chỉ cần mã hóa $x$, chiếm 256 bit, và thêm một tiền tố để chỉ định tính chẵn lẻ của $y$. Phương pháp này giảm kích thước của khóa công khai xuống còn 264 bit thay vì 520 bit ban đầu. Tiền tố `0x02` chỉ ra rằng $y$ là số chẵn, và tiền tố `0x03` chỉ ra rằng $y$ là số lẻ.
 Hãy lấy một ví dụ để hiểu rõ hơn, với một khóa công khai chưa nén:
 

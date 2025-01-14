@@ -79,10 +79,10 @@ Esimerkiksi SHA256-häsäfunktio tuottaa kiinteän pituisen, 256-bittisen häsä
 
 Näillä kryptografisilla häsäfunktioilla on useita olennaisia ominaisuuksia, jotka tekevät niistä erityisen hyödyllisiä Bitcoinin ja muiden tietojärjestelmien kontekstissa:
 
-1. Palautumattomuus (tai esikuvan vastustuskyky)
-2. Muutoksenkestävyys (lumivyöryvaikutus)
-3. Kolarinkestävyys
-4. Toisen esikuvan vastustuskyky
+- Palautumattomuus (tai esikuvan vastustuskyky)
+- Muutoksenkestävyys (lumivyöryvaikutus)
+- Kolarinkestävyys
+- Toisen esikuvan vastustuskyky
 
 #### 1. Palautumattomuus (esikuvan vastustuskyky):
 
@@ -225,9 +225,9 @@ Jos palaamme esimerkkiimme, jossa alkuperäinen viesti oli 950 bittiä, muutamme
 
 Tämä täytteen koko lisätään seuraamalla bittitäytettä. Näin ollen viesti käsittelyn jälkeen koostuu kolmesta osasta:
 
-1. Alkuperäinen viesti $M$;
-2. Bitti `1` seurattuna usealla bitillä `0` muodostaakseen bittitäytteen;
-3. 64-bittinen esitys $M$:n pituudesta muodostaakseen koon täytteen.
+- Alkuperäinen viesti $M$;
+- Bitti `1` seurattuna usealla bitillä `0` muodostaakseen bittitäytteen;
+- 64-bittinen esitys $M$:n pituudesta muodostaakseen koon täytteen.
 
 ![CYP201](assets/fr/006.webp)
 
@@ -524,8 +524,8 @@ Bitcoinissa sovellustasolla, hajautusfunktioiden lisäksi, käytetään kryptogr
 
 Bitcoin-lompakoissa käytetään pääasiassa kahta johdannaisalgoritmia:
 
-1. **HMAC (_Hash-based Message Authentication Code_)**
-2. **PBKDF2 (_Password-Based Key Derivation Function 2_)**
+- **HMAC (_Hash-based Message Authentication Code_)**
+- **PBKDF2 (_Password-Based Key Derivation Function 2_)**
 
 Tutkimme yhdessä kunkin niiden toimintaa ja roolia.
 
@@ -562,12 +562,12 @@ $$
 
 Tämä yhtälö jaetaan seuraaviin vaiheisiin:
 
-1. XORaa tasapainotettu avain $K'$ $\text{ipad}$:n kanssa saadaksesi $\text{iKpad}$;
-2. XORaa tasapainotettu avain $K'$ $\text{opad}$:n kanssa saadaksesi $\text{oKpad}$;
-3. Yhdistä $\text{iKpad}$ viestin $m$ kanssa.
-4. Hashaa tämä tulos SHA512:lla saadaksesi välituloksen $H_1$.
-5. Yhdistä $\text{oKpad}$ $H_1$:n kanssa.
-6. Hashaa tämä tulos SHA512:lla saadaksesi lopputuloksen $H_2$.
+- XORaa tasapainotettu avain $K'$ $\text{ipad}$:n kanssa saadaksesi $\text{iKpad}$;
+- XORaa tasapainotettu avain $K'$ $\text{opad}$:n kanssa saadaksesi $\text{oKpad}$;
+- Yhdistä $\text{iKpad}$ viestin $m$ kanssa.
+- Hashaa tämä tulos SHA512:lla saadaksesi välituloksen $H_1$.
+- Yhdistä $\text{oKpad}$ $H_1$:n kanssa.
+- Hashaa tämä tulos SHA512:lla saadaksesi lopputuloksen $H_2$.
 
 Nämä vaiheet voidaan tiivistää kaaviona seuraavasti:
 
@@ -725,6 +725,8 @@ Se, että tämä piste $G$ on yhteinen kaikille Bitcoinin julkisille avaimille, 
 ![CYP201](assets/fr/017.webp)
 
 Tämän toiminnon pääominaisuus on, että se on yksisuuntainen funktio. Julkisen avaimen $K$ laskeminen on helppoa tietäen yksityisen avaimen $k$ ja generaattoripisteen $G$, mutta yksityisen avaimen $k$ laskeminen tietäen vain julkisen avaimen $K$ ja generaattoripisteen $G$ on käytännössä mahdotonta. $k$:n löytäminen $K$:sta ja $G$:stä tarkoittaa elliptisten käyrien diskreetin logaritmin ongelman ratkaisemista, matemaattisesti vaikeaa ongelmaa, jolle ei tunneta tehokasta algoritmia. Edes tehokkaimmat nykyiset laskimet eivät pysty ratkaisemaan tätä ongelmaa kohtuullisessa ajassa.
+
+![CYP201](assets/fr/018.webp)
 
 ### Pisteiden yhteenlasku ja kaksinkertaistaminen elliptisillä käyrillä
 
@@ -1441,23 +1443,23 @@ xpub6CTNzMUkzpurBWaT4HQoYzLP4uBbGJuWY358Rj7rauiw4rMHCyq3Rfy9w4kyJXJzeFfyrKLUar2r
 
 Tämä laajennettu avain jakautuu useisiin erillisiin elementteihin:
 
-1. **Versio**: `0488B21E`
+- **Versio**: `0488B21E`
 
 Ensimmäiset 4 tavua ovat versio. Tässä se vastaa laajennettua julkista avainta Mainnet-verkossa, jolla on joko *Legacy* tai *SegWit v1* johdannaiskäyttötarkoitus.
 
-2. **Syvyys**: `03`
+- **Syvyys**: `03`
 
 Tämä kenttä ilmaisee avaimen hierarkisen tason HD-lompakossa. Tässä tapauksessa syvyyden ollessa `03` tarkoittaa, että tämä avain on kolme johdannaistasoa pääavaimen alapuolella.
 
-3. **Vanhemman sormenjälki**: `6D5601AD`
+- **Vanhemman sormenjälki**: `6D5601AD`
 Nämä ovat ensimmäiset 4 tavua HASH160-hashista vanhemman julkisen avaimen osalta, jota käytettiin tämän `xpub`-avaimen johdannaisena.
-4. **Indeksinumero**: `80000000`
+- **Indeksinumero**: `80000000`
 
 Tämä indeksi ilmaisee avaimen sijainnin sen vanhempien lasten joukossa. `0x80`-etuliite osoittaa, että avain on johdettu kovennetulla tavalla, ja koska loput on täytetty nollilla, se osoittaa, että tämä avain on ensimmäinen mahdollisten sisarustensa joukossa.
 
-5. **Ketjukoodi**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
-6. **Julkinen avain**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
-7. **Tarkistussumma**: `1F067C3A`
+- **Ketjukoodi**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
+- **Julkinen avain**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
+- **Tarkistussumma**: `1F067C3A`
 
 Tarkistussumma vastaa kaiken muun hashin (kaksois SHA256) ensimmäisiä 4 tavua.
 
@@ -1477,8 +1479,8 @@ Tutkitaan, miten tämä deterministinen johdannainen toimii.
 ### Eri tyyppiset lasten avainjohdannaiset
 
 Kuten edellisessä luvussa lyhyesti mainitsimme: lasten avaimet jakautuvat kahteen päätyyppiin:
-1. **Normaalit lasten avaimet** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Nämä johdetaan laajennetusta julkisesta avaimesta ($K_{\text{PAR}}$), tai laajennetusta yksityisestä avaimesta ($k_{\text{PAR}}$), ensin julkisen avaimen johdannaisena.
-2. **Kovennetut lasten avaimet** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Nämä voidaan johtaa vain laajennetusta yksityisestä avaimesta ($k_{\text{PAR}}$) ja ovat siksi näkymättömissä tarkkailijoille, joilla on vain laajennettu julkinen avain.
+- **Normaalit lasten avaimet** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Nämä johdetaan laajennetusta julkisesta avaimesta ($K_{\text{PAR}}$), tai laajennetusta yksityisestä avaimesta ($k_{\text{PAR}}$), ensin julkisen avaimen johdannaisena.
+- **Kovennetut lasten avaimet** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Nämä voidaan johtaa vain laajennetusta yksityisestä avaimesta ($k_{\text{PAR}}$) ja ovat siksi näkymättömissä tarkkailijoille, joilla on vain laajennettu julkinen avain.
 
 Jokainen lapsiavainpari tunnistetaan 32-bittisellä **indeksillä** (nimetty $i$:ksi laskelmissamme). Normaalien avainten indeksit vaihtelevat välillä $0$ - $2^{31}-1$, kun taas kovennettujen avainten indeksit vaihtelevat välillä $2^{31}$ - $2^{32}-1$. Näitä numeroita käytetään erottamaan sisarusavainparit johdannan aikana. Itse asiassa jokaisen vanhemman avainparin on pystyttävä johtamaan useita lapsiavainpareja. Jos soveltaisimme samaa laskentaa järjestelmällisesti vanhemmista avaimista, kaikki saadut sisarusavaimet olisivat identtisiä, mikä ei ole toivottavaa. Indeksi tuo siis muuttujan, joka muuttaa johdannan laskentaa, mahdollistaen kunkin sisarusparin erottamisen. Lukuun ottamatta tiettyjä protokollia ja johdannan standardeja, aloitamme yleensä johdannan ensimmäisestä lapsiavaimesta indeksillä `0`, toisesta indeksillä `1`, ja niin edelleen.
 
@@ -1904,6 +1906,8 @@ Teknisesti P2TR-skripti lukitsee bitcoinit yksilölliselle Schnorrin julkiselle 
 - Tyydyttämällä yksi Merkle-puussa olevista skripteistä (*script path*).
 P2TR tarjoaa siis suuren joustavuuden, sillä se mahdollistaa bitcoinien lukitsemisen joko ainutlaatuisella julkisella avaimella, useilla valinnaisilla skripteillä tai molemmilla samanaikaisesti. Tämän Merkle-puun rakenteen etu on, että vain käytetty kulutusskripti paljastetaan transaktion aikana, mutta kaikki muut vaihtoehtoiset skriptit pysyvät salassa.
 
+![CYP201](assets/fr/063.webp)
+
 P2TR vastaa version 1 SegWit-tuloja, mikä tarkoittaa, että P2TR-syötteiden allekirjoitukset tallennetaan transaktion *Witness*-osioon, eikä *scriptSig*-osioon. P2TR-osoitteet käyttävät *bech32m*-koodausta ja alkavat `bc1p`:llä, mutta ne ovat melko ainutlaatuisia, koska niiden rakentamiseen ei käytetä hajautusfunktiota. Ne edustavat suoraan julkista avainta $Q$, joka on yksinkertaisesti muotoiltu metatiedoilla. Se on siis skriptimalli, joka on lähellä P2PK:ta.
 
 Nyt kun olemme käsitelleet teoriaa, siirrytään käytäntöön! Seuraavassa luvussa ehdotan, että johdamme sekä SegWit v0 -osoitteen että SegWit v1 -osoitteen avainparista.
@@ -1922,6 +1926,9 @@ Suoritettuamme kaikki johdantoaskeleet pääavaimesta syvyyteen 5 käyttäen asi
 Ensimmäinen askel on julkisen avaimen $K$ pakkaaminen. Ymmärtääksemme tämän prosessin hyvin, palautetaan ensin mieliin joitakin perusteita, jotka käsiteltiin osassa 3.
 Bitcoinin julkinen avain on piste $K$, joka sijaitsee elliptisellä käyrällä. Se esitetään muodossa $(x, y)$, missä $x$ ja $y$ ovat pisteen koordinaatit. Sen pakkaamattomassa muodossa tämä julkinen avain on 520 bittiä: 8 bittiä etuliitteelle (alkuarvo `0x04`), 256 bittiä $x$-koordinaatille ja 256 bittiä $y$-koordinaatille.
 Elliptisillä käyrillä on kuitenkin symmetriaominaisuus x-akselin suhteen: annetulle $x$-koordinaatille on vain kaksi mahdollista arvoa $y$:lle: $y$ ja $-y$. Nämä kaksi pistettä sijaitsevat x-akselin kummallakin puolella. Toisin sanoen, jos tiedämme $x$:n, riittää määrittää, onko $y$ parillinen vai pariton tunnistaaksemme tarkan pisteen käyrällä.
+
+![CYP201](assets/fr/064.webp)
+
 Julkisen avaimen tiivistämisessä koodataan vain $x$, joka vie 256 bittiä, ja lisätään etuliite, joka määrittää $y$:n pariteetin. Tämä menetelmä pienentää julkisen avaimen kokoa 264 bittiin alkuperäisen 520 sijaan. Etuliite `0x02` osoittaa, että $y$ on parillinen, ja etuliite `0x03` osoittaa, että $y$ on pariton.
 Otetaan esimerkki ymmärtääksemme paremmin, käyttäen raakaa julkista avainta pakkaamattomassa esitysmuodossa:
 

@@ -79,10 +79,10 @@ Näiteks SHA256 hash-funktsioon toodab 256-bitise fikseeritud pikkusega hashi. S
 
 Need krüptograafilised hash-funktsioonid omavad mitmeid olulisi omadusi, mis muudavad need eriti kasulikuks Bitcoin'i ja teiste arvutisüsteemide kontekstis:
 
-1. Pöördumatuse (või eelkujutise vastupanu)
-2. Muutmiskindlus (laviiniefekt)
-3. Kollisioonikindlus
-4. Teise eelkujutise vastupanu
+- Pöördumatuse (või eelkujutise vastupanu)
+- Muutmiskindlus (laviiniefekt)
+- Kollisioonikindlus
+- Teise eelkujutise vastupanu
 
 #### 1. Pöördumatuse (eelkujutise vastupanu):
 
@@ -225,9 +225,9 @@ Kui me pöördume tagasi meie näite juurde algse sõnumiga 950 bitti, teisendam
 
 Seda täite suurust lisatakse järgides bittäidet. Seega koosneb sõnum pärast meie eeltöötlust kolmest osast:
 
-1. Algne sõnum $M$;
-2. Bitt `1` järgneb mitmele bitile `0`, et moodustada bittäide;
-3. 64-bitine esitus $M$ pikkusest, et moodustada suurusega täide.
+- Algne sõnum $M$;
+- Bitt `1` järgneb mitmele bitile `0`, et moodustada bittäide;
+- 64-bitine esitus $M$ pikkusest, et moodustada suurusega täide.
 
 ![CYP201](assets/fr/006.webp)
 
@@ -524,8 +524,8 @@ Bitcoinis rakendustasandil kasutatakse räsifunktsioonide kõrval krüptograafil
 
 Bitcoin rahakottides kasutatakse peamiselt kahte tuletusalgoritmi:
 
-1. **HMAC (_Hash-based Message Authentication Code_)**
-2. **PBKDF2 (_Password-Based Key Derivation Function 2_)**
+- **HMAC (_Hash-based Message Authentication Code_)**
+- **PBKDF2 (_Password-Based Key Derivation Function 2_)**
 
 Uurime koos igaühe toimimist ja rolli.
 
@@ -562,12 +562,12 @@ $$
 
 See võrrand jaguneb järgmisteks sammudeks:
 
-1. Võtme $K'$ ja $\text{ipad}$ XOR, et saada $\text{iKpad}$;
-2. Võtme $K'$ ja $\text{opad}$ XOR, et saada $\text{oKpad}$;
-3. Ühenda $\text{iKpad}$ sõnumiga $m$.
-4. Hashi see tulemus SHA512-ga, et saada vahehash $H_1$.
-5. Ühenda $\text{oKpad}$ $H_1$-ga.
-6. Hashi see tulemus SHA512-ga, et saada lõplik tulemus $H_2$.
+- Võtme $K'$ ja $\text{ipad}$ XOR, et saada $\text{iKpad}$;
+- Võtme $K'$ ja $\text{opad}$ XOR, et saada $\text{oKpad}$;
+- Ühenda $\text{iKpad}$ sõnumiga $m$.
+- Hashi see tulemus SHA512-ga, et saada vahehash $H_1$.
+- Ühenda $\text{oKpad}$ $H_1$-ga.
+- Hashi see tulemus SHA512-ga, et saada lõplik tulemus $H_2$.
 
 Need sammud võib kokku võtta skeemiliselt järgmiselt:
 
@@ -725,6 +725,8 @@ Asjaolu, et see punkt $G$ on kõigile Bitcoin'i avalikele võtmetele ühine, võ
 ![CYP201](assets/fr/017.webp)
 
 Selle operatsiooni peamine omadus on see, et see on ühesuunaline funktsioon. Avaliku võtme $K$ arvutamine on lihtne, teades privaatvõtit $k$ ja generaatorpunkti $G$, kuid privaatvõtme $k$ arvutamine, teades ainult avalikku võtit $K$ ja generaatorpunkti $G$, on praktiliselt võimatu. $k$ leidmine $K$ ja $G$ põhjal tähendab diskreetse logaritmi probleemi lahendamist elliptilistel kõveratel, mis on matemaatiliselt keeruline probleem, mille jaoks ei ole teada ühtegi efektiivset algoritmi. Isegi kõige võimsamad praegused arvutid ei suuda seda probleemi mõistliku aja jooksul lahendada.
+
+![CYP201](assets/fr/018.webp)
 
 ### Punkti Lisamine ja Kahekordistamine Elliptilistel Kõveratel
 
@@ -1441,23 +1443,23 @@ xpub6CTNzMUkzpurBWaT4HQoYzLP4uBbGJuWY358Rj7rauiw4rMHCyq3Rfy9w4kyJXJzeFfyrKLUar2r
 
 See laiendatud võti jaotub mitmeks eristuvaks elemendiks:
 
-1. **Versioon**: `0488B21E`
+- **Versioon**: `0488B21E`
 
 Esimesed 4 baiti on versioon. Siin vastab see laiendatud avalikule võtmele Mainnetis tuletuse eesmärgiga kas _Legacy_ või _SegWit v1_.
 
-2. **Sügavus**: `03`
+- **Sügavus**: `03`
 
 See väli näitab võtme hierarhilist taset HD rahakotis. Sel juhul tähendab sügavus `03`, et see võti on kolm tuletustaset peavõtmest allpool.
 
-3. **Vanema sõrmejälg**: `6D5601AD`
+- **Vanema sõrmejälg**: `6D5601AD`
    Need on vanema avaliku võtme HASH160 räsi esimesed 4 baiti, millest tuletati see `xpub`.
-4. **Indeksi number**: `80000000`
+- **Indeksi number**: `80000000`
 
 See indeks näitab võtme positsiooni oma vanema laste seas. `0x80` eesliide näitab, et võti on tuletatud kõvastunud (hardened) viisil ja kuna ülejäänud osa on täidetud nullidega, näitab see, et see võti on esimene oma võimalike õdede-vendade seas.
 
-5. **Ahela kood**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
-6. **Avalik võti**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
-7. **Kontrollsumma**: `1F067C3A`
+- **Ahela kood**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
+- **Avalik võti**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
+- **Kontrollsumma**: `1F067C3A`
 
 Kontrollsumma vastab kõige muu topelt SHA256 räsi esimesele 4 baidile.
 
@@ -1479,8 +1481,8 @@ Uurime, kuidas see deterministlik tuletamine töötab.
 
 Nagu me eelmises peatükis lühidalt mainisime: alamvõtmed jagunevad kahte peamisse tüüpi:
 
-1. **Tavalised alamvõtmed** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Need on tuletatud laiendatud avalikust võtmest ($K_{\text{PAR}}$) või laiendatud privaatvõtmest ($k_{\text{PAR}}$), kõigepealt tuletades avaliku võtme.
-2. **Kõvastunud alamvõtmed** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Neid saab tuletada ainult laiendatud privaatvõtmest ($k_{\text{PAR}}$) ja seetõttu on need peidetud vaatlejate eest, kellel on ainult laiendatud avalik võti.
+- **Tavalised alamvõtmed** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Need on tuletatud laiendatud avalikust võtmest ($K_{\text{PAR}}$) või laiendatud privaatvõtmest ($k_{\text{PAR}}$), kõigepealt tuletades avaliku võtme.
+- **Kõvastunud alamvõtmed** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Neid saab tuletada ainult laiendatud privaatvõtmest ($k_{\text{PAR}}$) ja seetõttu on need peidetud vaatlejate eest, kellel on ainult laiendatud avalik võti.
    Iga lapse võtmepaari identifitseerib 32-bitine **indeks** (meie arvutustes nimetatud $i$). Tavaliste võtmete indeksid jäävad vahemikku $0$ kuni $2^{31}-1$, samas kui kõvendatud võtmete indeksid jäävad vahemikku $2^{31}$ kuni $2^{32}-1$. Neid numbreid kasutatakse tuletamisel õdede-vendade võtmepaaride eristamiseks. Tõepoolest, iga vanemvõtmepaar peab olema võimeline tuletama mitu lapse võtmepaari. Kui me rakendaksime vanemvõtmetele süstemaatiliselt sama arvutust, oleksid kõik saadud õdede-vendade võtmed identsed, mis ei ole soovitav. Indeks toob seega sisse muutuja, mis muudab tuletusarvutust, võimaldades iga õdede-vendade paari eristada. Välja arvatud spetsiifiline kasutamine teatud protokollides ja tuletusstandardites, alustame me üldiselt esimese lapse võtme tuletamist indeksiga `0`, teise indeksiga `1` ja nii edasi.
 
 ### Tuletusprotsess HMAC-SHA512 abil
@@ -1931,6 +1933,8 @@ Tehniliselt lukustab P2TR skript bitcoine unikaalse Schnorri avaliku võtmega, m
 
 P2TR pakub suurt paindlikkust, kuna see võimaldab bitcoine lukustada kas unikaalse avaliku võtmega, mitme valitud skriptiga või mõlemaga korraga. Selle Merkle puu struktuuri eelis on see, et tehingu ajal paljastatakse ainult kasutatud kulutamise skript, kuid kõik teised alternatiivsed skriptid jäävad saladuseks.
 
+![CYP201](assets/fr/063.webp)
+
 P2TR vastab versiooni 1 SegWit väljunditele, mis tähendab, et P2TR sisendite allkirjad salvestatakse tehingu _Witness_ sektsiooni, mitte _scriptSig_-i. P2TR aadressid kasutavad _bech32m_ kodeeringut ja algavad `bc1p`-ga, kuid need on üsna unikaalsed, kuna nende konstrueerimiseks ei kasutata räsi funktsiooni. Tegelikult esindavad nad otse avalikku võtit $Q$, mis on lihtsalt vormindatud metateabega. Seega on see skripti mudel lähedane P2PK-le.
 
 Nüüd, kui oleme teooria läbi käinud, liigume praktika juurde! Järgmises peatükis pakun välja nii SegWit v0 aadressi kui ka SegWit v1 aadressi tuletamise võtmepaarist.
@@ -1952,6 +1956,8 @@ Esimene samm on avaliku võtme $K$ kompressioon. Selle protsessi mõistmiseks me
 Bitcoinis on avalik võti punkt $K$, mis asub elliptilisel kõveral. See on esitatud kujul $(x, y)$, kus $x$ ja $y$ on punkti koordinaadid. Oma lahtipakitud kujul mõõdab see avalik võti 520 bitti: 8 bitti prefiksi jaoks (algväärtus `0x04`), 256 bitti $x$ koordinaadi jaoks ja 256 bitti $y$ koordinaadi jaoks.
 
 Siiski, elliptilistel kõveratel on sümmeetriaomadus x-telje suhtes: antud $x$ koordinaadi jaoks on $y$ jaoks võimalikud ainult kaks väärtust: $y$ ja $-y$. Need kaks punkti asuvad x-telje mõlemal küljel. Teisisõnu, kui me teame $x$, piisab sellest, kui määrata, kas $y$ on paaris või paaritu, et tuvastada täpne punkt kõveral.
+
+![CYP201](assets/fr/064.webp)
 
 Avaliku võtme kokkusurumiseks kodeeritakse ainult $x$, mis hõivab 256 bitti, ja lisatakse prefiks, et määrata $y$ paarsus. See meetod vähendab avaliku võtme suurust 264 bitini algse 520 asemel. Prefiks `0x02` näitab, et $y$ on paaris, ja prefiks `0x03` näitab, et $y$ on paaritu.
 Vaatame näidet, et paremini aru saada, kasutades toorest avalikku võtit kokkusurumata esituses:

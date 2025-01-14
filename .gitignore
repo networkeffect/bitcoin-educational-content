@@ -3,5 +3,8 @@ scripts/.env
 .DS_Store
 **/plan.txt
 courses/**/scripts/
-scripts/auto-translate/json_content_conversion/cache
+scripts/auto-translate/json-content-conversion/.env
 scripts/auto-translate/.env
+scripts/auto-translate/json_content_conversion/cache
+scripts/auto-translate/batch-translate/test
+

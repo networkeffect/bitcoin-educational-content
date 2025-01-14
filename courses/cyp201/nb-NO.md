@@ -79,10 +79,10 @@ For eksempel produserer SHA256-hashfunksjonen en hash av en fast lengde på 256 
 
 Disse kryptografiske hashfunksjonene har flere essensielle egenskaper som gjør dem spesielt nyttige i konteksten av Bitcoin og andre datasystemer:
 
-1. Irreversibilitet (eller preimage-motstand)
-2. Manipulasjonsmotstand (snøskredseffekt)
-3. Kollisjonsmotstand
-4. Sekundær preimage-motstand
+- Irreversibilitet (eller preimage-motstand)
+- Manipulasjonsmotstand (snøskredseffekt)
+- Kollisjonsmotstand
+- Sekundær preimage-motstand
 
 #### 1. Irreversibilitet (preimage-motstand):
 
@@ -137,6 +137,8 @@ $$
 $$
 
 Derfor er motstand mot sekundært prebilde noe lik kollisjonsresistens, bortsett fra at her er angrepet vanskeligere fordi angriperen ikke fritt kan velge $m_1$.
+
+![CYP201](assets/fr/005.webp)
 
 ### Bruk av Hashfunksjoner i Bitcoin
 
@@ -224,9 +226,9 @@ Hvis vi går tilbake til eksemplet vårt med en opprinnelig melding på 950 bits
 
 Denne padding-størrelsen legges til etter bit-paddingen. Derfor består meldingen etter vår forbehandling av tre deler:
 
-1. Den opprinnelige meldingen $M$;
-2. En bit `1` etterfulgt av flere bits `0` for å danne bit-paddingen;
-3. En 64-bits representasjon av lengden på $M$ for å danne paddingen med størrelsen.
+- Den opprinnelige meldingen $M$;
+- En bit `1` etterfulgt av flere bits `0` for å danne bit-paddingen;
+- En 64-bits representasjon av lengden på $M$ for å danne paddingen med størrelsen.
 
 ![CYP201](assets/fr/006.webp)
 
@@ -523,8 +525,8 @@ I Bitcoin på applikasjonsnivå, i tillegg til hash-funksjoner, brukes kryptogra
 
 På Bitcoin-lommebøker brukes hovedsakelig 2 derivasjonsalgoritmer:
 
-1. **HMAC (_Hash-basert meldingsautentiseringskode_)**
-2. **PBKDF2 (_Password-Based Key Derivation Function 2_)**
+- **HMAC (_Hash-basert meldingsautentiseringskode_)**
+- **PBKDF2 (_Password-Based Key Derivation Function 2_)**
 
 Vi vil utforske funksjonen og rollen til hver av dem.
 
@@ -561,12 +563,12 @@ $$
 
 Denne ligningen brytes ned i følgende trinn:
 
-1. XOR den justerte nøkkelen $K'$ med $\text{ipad}$ for å oppnå $\text{iKpad}$;
-2. XOR den justerte nøkkelen $K'$ med $\text{opad}$ for å oppnå $\text{oKpad}$;
-3. Sammenkjed $\text{iKpad}$ med meldingen $m$.
-4. Hash dette resultatet med SHA512 for å oppnå en mellomliggende hash $H_1$.
-5. Sammenkjed $\text{oKpad}$ med $H_1$.
-6. Hash dette resultatet med SHA512 for å oppnå det endelige resultatet $H_2$.
+- XOR den justerte nøkkelen $K'$ med $\text{ipad}$ for å oppnå $\text{iKpad}$;
+- XOR den justerte nøkkelen $K'$ med $\text{opad}$ for å oppnå $\text{oKpad}$;
+- Sammenkjed $\text{iKpad}$ med meldingen $m$.
+- Hash dette resultatet med SHA512 for å oppnå en mellomliggende hash $H_1$.
+- Sammenkjed $\text{oKpad}$ med $H_1$.
+- Hash dette resultatet med SHA512 for å oppnå det endelige resultatet $H_2$.
 
 Disse trinnene kan oppsummeres skjematisk som følger:
 
@@ -724,6 +726,8 @@ Det faktum at dette punktet $G$ er felles for alle offentlige nøkler på Bitcoi
 ![CYP201](assets/fr/017.webp)
 
 Hovedkarakteristikken til denne operasjonen er at det er en enveisfunksjon. Det er enkelt å beregne den offentlige nøkkelen $K$ ved å kjenne den private nøkkelen $k$ og generatorelementet $G$, men det er praktisk talt umulig å beregne den private nøkkelen $k$ ved å kun kjenne den offentlige nøkkelen $K$ og generatorelementet $G$. Å finne $k$ fra $K$ og $G$ tilsvarer å løse det diskrete logaritmeproblemet på elliptiske kurver, et matematisk vanskelig problem for hvilket det ikke er kjent noen effektiv algoritme. Selv de kraftigste nåværende kalkulatorene er ute av stand til å løse dette problemet på en rimelig tid.
+
+![CYP201](assets/fr/018.webp)
 
 ### Addisjon og Dobling av Punkter på Elliptiske Kurver
 
@@ -1434,23 +1438,23 @@ xpub6CTNzMUkzpurBWaT4HQoYzLP4uBbGJuWY358Rj7rauiw4rMHCyq3Rfy9w4kyJXJzeFfyrKLUar2r
 
 Denne utvidede nøkkelen brytes ned i flere distinkte elementer:
 
-1. **Versjon**: `0488B21E`
+- **Versjon**: `0488B21E`
 
 De første 4 bytene er versjonen. Her tilsvarer det en utvidet offentlig nøkkel på Hovednett med et avledningsformål av enten *Legacy* eller *SegWit v1*.
 
-2. **Dybde**: `03`
+- **Dybde**: `03`
 
 Dette feltet indikerer det hierarkiske nivået til nøkkelen innenfor HD-lommeboken. I dette tilfellet betyr en dybde på `03` at denne nøkkelen er tre nivåer av avledning under hovednøkkelen.
 
-3. **Foreldres fingeravtrykk**: `6D5601AD`
+- **Foreldres fingeravtrykk**: `6D5601AD`
 Disse er de første 4 bytene av HASH160-hashen av den overordnede offentlige nøkkelen som ble brukt til å utlede denne `xpub`.
-4. **Indeksnummer**: `80000000`
+- **Indeksnummer**: `80000000`
 
 Dette indeksnummeret indikerer nøkkelens posisjon blant forelderens barn. `0x80`-prefikset indikerer at nøkkelen er utledet på en hardnet måte, og siden resten er fylt med nuller, indikerer det at denne nøkkelen er den første blant sine mulige søsken.
 
-5. **Kjedekode**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
-6. **Offentlig Nøkkel**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
-7. **Kontrollsum**: `1F067C3A`
+- **Kjedekode**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
+- **Offentlig Nøkkel**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
+- **Kontrollsum**: `1F067C3A`
 
 Kontrollsummen tilsvarer de første 4 bytene av hashen (dobbel SHA256) av alt annet.
 
@@ -1470,8 +1474,8 @@ La oss utforske hvordan denne deterministiske utledningen fungerer.
 ### De Forskjellige Typene av Barne-Nøkkelutledninger
 
 Som vi kort berørte i forrige kapittel: barne-nøkler er delt inn i to hovedtyper:
-1. **Normale barne-nøkler** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Disse er utledet fra den utvidede offentlige nøkkelen ($K_{\text{PAR}}$), eller den utvidede private nøkkelen ($k_{\text{PAR}}$), ved først å utlede den offentlige nøkkelen.
-2. **Hardnede barne-nøkler** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Disse kan kun utledes fra den utvidede private nøkkelen ($k_{\text{PAR}}$) og er derfor usynlige for observatører som kun har den utvidede offentlige nøkkelen.
+- **Normale barne-nøkler** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Disse er utledet fra den utvidede offentlige nøkkelen ($K_{\text{PAR}}$), eller den utvidede private nøkkelen ($k_{\text{PAR}}$), ved først å utlede den offentlige nøkkelen.
+- **Hardnede barne-nøkler** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Disse kan kun utledes fra den utvidede private nøkkelen ($k_{\text{PAR}}$) og er derfor usynlige for observatører som kun har den utvidede offentlige nøkkelen.
 Hvert barnenøkkelpar er identifisert av en 32-biters **indeks** (kalt $i$ i våre beregninger). Indeksene for normale nøkler varierer fra $0$ til $2^{31}-1$, mens de for herdede nøkler varierer fra $2^{31}$ til $2^{32}-1$. Disse tallene brukes til å skille søsken nøkkelpar under derivasjon. Faktisk må hvert foreldrenøkkelpar være i stand til å derivere flere barnenøkkelpar. Hvis vi skulle anvende den samme beregningen systematisk fra foreldrenøklene, ville alle de oppnådde søskennøklene være identiske, noe som ikke er ønskelig. Indeksen introduserer dermed en variabel som endrer derivasjonsberegningen, slik at hvert søskenpar kan differensieres. Bortsett fra spesifikk bruk i visse protokoller og derivasjonsstandarder, starter vi generelt med å derivere det første barnenøkkelen med indeksen `0`, den andre med indeksen `1`, og så videre.
 ### Derivasjonsprosess med HMAC-SHA512
 

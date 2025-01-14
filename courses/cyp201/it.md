@@ -78,10 +78,10 @@ Ad esempio, la funzione hash SHA256 produce un hash di lunghezza fissa di 256 bi
 
 Queste funzioni hash crittografiche hanno diverse caratteristiche essenziali che le rendono particolarmente utili nel contesto di Bitcoin e altri sistemi informatici:
 
-1. Irreversibilità (o resistenza alla preimmagine)
-2. Resistenza alla manomissione (effetto valanga)
-3. Resistenza alle collisioni
-4. Resistenza alla seconda preimmagine
+- Irreversibilità (o resistenza alla preimmagine)
+- Resistenza alla manomissione (effetto valanga)
+- Resistenza alle collisioni
+- Resistenza alla seconda preimmagine
 
 #### 1. Irreversibilità (resistenza alla preimmagine):
 
@@ -137,6 +137,8 @@ $$
 $$
 
 Pertanto, la resistenza alla seconda preimmagine è in qualche modo simile alla resistenza alle collisioni, eccetto che qui, l'attacco è più difficile perché l'attaccante non può scegliere liberamente $m_1$.
+
+![CYP201](assets/fr/005.webp)
 
 ### Applicazioni delle Funzioni Hash in Bitcoin
 
@@ -224,9 +226,9 @@ Se torniamo al nostro esempio con un messaggio iniziale di 950 bit, convertiamo 
 
 Questa dimensione di riempimento viene aggiunta seguendo il riempimento bit. Pertanto, il messaggio dopo la nostra pre-elaborazione consiste di tre parti:
 
-1. Il messaggio originale $M$;
-2. Un bit `1` seguito da diversi bit `0` per formare il riempimento bit;
-3. Una rappresentazione di 64 bit della lunghezza di $M$ per formare il riempimento con la dimensione.
+- Il messaggio originale $M$;
+- Un bit `1` seguito da diversi bit `0` per formare il riempimento bit;
+- Una rappresentazione di 64 bit della lunghezza di $M$ per formare il riempimento con la dimensione.
 
 ![CYP201](assets/fr/006.webp)
 
@@ -390,6 +392,8 @@ In questo caso, $x$ è uguale a $W_{i-15}$ per $\sigma_0(x)$ e $W_{i-2}$ per $\s
 
 Una volta determinate tutte le parole $W_i$ per il nostro pezzo di 512 bit, possiamo passare alla funzione di compressione, che consiste nell'eseguire 64 round.
 
+![CYP201](assets/fr/009.webp)
+
 Per ogni round $i$ da 0 a 63, abbiamo tre diversi tipi di input. Primo, il $W_i$ che abbiamo appena determinato, in parte costituito dal nostro pezzo di messaggio $P_n$. Successivamente, le 64 costanti $K_i$. Infine, usiamo le variabili di stato $A$, $B$, $C$, $D$, $E$, $F$, $G$ e $H$, che evolveranno durante il processo di hashing e saranno modificate con ogni funzione di compressione. Tuttavia, per il primo pezzo $P_1$, usiamo le costanti iniziali date in precedenza.
 Eseguiamo quindi le seguenti operazioni sui nostri input:
 
@@ -548,8 +552,8 @@ In Bitcoin a livello applicativo, oltre alle funzioni hash, vengono utilizzati a
 
 Sui portafogli Bitcoin, principalmente vengono utilizzati 2 algoritmi di derivazione:
 
-1. **HMAC (_Hash-based Message Authentication Code_)**
-2. **PBKDF2 (_Password-Based Key Derivation Function 2_)**
+- **HMAC (_Hash-based Message Authentication Code_)**
+- **PBKDF2 (_Password-Based Key Derivation Function 2_)**
 
 Esploreremo insieme il funzionamento e il ruolo di ciascuno di essi.
 
@@ -586,12 +590,12 @@ $$
 
 Questa equazione si scompone nei seguenti passaggi:
 
-1. XOR della chiave aggiustata $K'$ con $\text{ipad}$ per ottenere $\text{iKpad}$;
-2. XOR della chiave aggiustata $K'$ con $\text{opad}$ per ottenere $\text{oKpad}$;
-3. Concatenazione di $\text{iKpad}$ con il messaggio $m$.
-4. Hash di questo risultato con SHA512 per ottenere un hash intermedio $H_1$.
-5. Concatenazione di $\text{oKpad}$ con $H_1$.
-6. Hash di questo risultato con SHA512 per ottenere il risultato finale $H_2$.
+- XOR della chiave aggiustata $K'$ con $\text{ipad}$ per ottenere $\text{iKpad}$;
+- XOR della chiave aggiustata $K'$ con $\text{opad}$ per ottenere $\text{oKpad}$;
+- Concatenazione di $\text{iKpad}$ con il messaggio $m$.
+- Hash di questo risultato con SHA512 per ottenere un hash intermedio $H_1$.
+- Concatenazione di $\text{oKpad}$ con $H_1$.
+- Hash di questo risultato con SHA512 per ottenere il risultato finale $H_2$.
 
 Questi passaggi possono essere riassunti schematicamente come segue:
 
@@ -671,6 +675,9 @@ y^2 = x^3 + 7
 $$
 
 La sua rappresentazione grafica sul campo dei numeri reali appare così:
+
+![CYP201](assets/fr/015.webp)
+
 Tuttavia, in crittografia, lavoriamo con insiemi finiti di numeri. Più specificamente, lavoriamo sul campo finito $\mathbb{F}_p$, che è il campo degli interi modulo un numero primo $p$.
 **Definizione**: Un numero primo è un intero naturale maggiore o uguale a 2 che ha solo due distinti divisori interi positivi: 1 e se stesso. Per esempio, il numero 7 è un numero primo poiché può essere diviso solo per 1 e 7. D'altra parte, il numero 8 non è primo perché può essere diviso per 1, 2, 4 e 8.
 In Bitcoin, il numero primo $p$ utilizzato per definire il campo finito è molto grande. È scelto in modo tale che l'ordine del campo (cioè, il numero di elementi in $\mathbb{F}_p$) sia sufficientemente grande da garantire la sicurezza crittografica.
@@ -749,6 +756,8 @@ Il fatto che questo punto $G$ sia comune a tutte le chiavi pubbliche su Bitcoin 
 
 La caratteristica principale di questa operazione è che si tratta di una funzione unidirezionale. È facile calcolare la chiave pubblica $K$ conoscendo la chiave privata $k$ e il punto generatore $G$, ma è praticamente impossibile calcolare la chiave privata $k$ conoscendo solo la chiave pubblica $K$ e il punto generatore $G$. Trovare $k$ a partire da $K$ e $G$ equivale a risolvere il problema del logaritmo discreto sulle curve ellittiche, un problema matematicamente difficile per il quale non è noto alcun algoritmo efficiente. Anche i calcolatori più potenti attuali non sono in grado di risolvere questo problema in un tempo ragionevole.
 
+![CYP201](assets/fr/018.webp)
+
 ### Addizione e Raddoppio dei Punti sulle Curve Ellittiche
 
 Il concetto di addizione sulle curve ellittiche è definito geometricamente. Se abbiamo due punti $P$ e $Q$ sulla curva, l'operazione $P + Q$ viene calcolata tracciando una linea che passa per $P$ e $Q$. Questa linea intersecherà necessariamente la curva in un terzo punto $R'$. Prendiamo poi l'immagine speculare di questo punto rispetto all'asse x per ottenere il punto $R$, che è il risultato dell'addizione:
@@ -799,6 +808,8 @@ $$
 $$
 
 Graficamente, ciò sarebbe rappresentato come segue:
+
+![CYP201](assets/fr/022.webp)
 
 ### Funzione Unidirezionale
 
@@ -1458,23 +1469,23 @@ xpub6CTNzMUkzpurBWaT4HQoYzLP4uBbGJuWY358Rj7rauiw4rMHCyq3Rfy9w4kyJXJzeFfyrKLUar2r
 
 Questa chiave estesa si suddivide in diversi elementi distinti:
 
-1. **Versione**: `0488B21E`
+- **Versione**: `0488B21E`
 
 I primi 4 byte sono la versione. Qui, corrisponde a una chiave pubblica estesa sul Mainnet con uno scopo di derivazione *Legacy* o *SegWit v1*.
 
-2. **Profondità**: `03`
+- **Profondità**: `03`
 
 Questo campo indica il livello gerarchico della chiave all'interno del portafoglio HD. In questo caso, una profondità di `03` significa che questa chiave è tre livelli di derivazione sotto la chiave principale.
 
-3. **Impronta del genitore**: `6D5601AD`
+- **Impronta del genitore**: `6D5601AD`
 Questi sono i primi 4 byte dell'hash HASH160 della chiave pubblica genitore che è stata utilizzata per derivare questo `xpub`.
-4. **Numero di indice**: `80000000`
+- **Numero di indice**: `80000000`
 
 Questo indice indica la posizione della chiave tra i figli del suo genitore. Il prefisso `0x80` indica che la chiave è derivata in modo protetto (hardened), e poiché il resto è riempito con zeri, indica che questa chiave è la prima tra i suoi possibili fratelli.
 
-5. **Codice catena**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
-6. **Chiave Pubblica**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
-7. **Checksum**: `1F067C3A`
+- **Codice catena**: `C605DF9FBD77FD6965BD02B77831EC5C78646AD3ACA14DC3984186F72633A893`
+- **Chiave Pubblica**: `03772CCB99F4EF346078D167065404EED8A58787DED31BFA479244824DF5065805`
+- **Checksum**: `1F067C3A`
 
 Il checksum corrisponde ai primi 4 byte dell'hash (doppio SHA256) di tutto il resto.
 
@@ -1494,8 +1505,8 @@ Esploriamo come funziona questa derivazione deterministica.
 ### I Diversi Tipi di Derivazioni di Chiavi Figlie
 
 Come abbiamo brevemente accennato nel capitolo precedente: le chiavi figlie sono divise in due tipi principali:
-1. **Chiavi figlie normali** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Queste sono derivate dalla chiave pubblica estesa ($K_{\text{PAR}}$), o dalla chiave privata estesa ($k_{\text{PAR}}$), derivando prima la chiave pubblica.
-2. **Chiavi figlie protette** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Queste possono essere derivate solo dalla chiave privata estesa ($k_{\text{PAR}}$) e sono quindi invisibili agli osservatori che hanno solo la chiave pubblica estesa.
+- **Chiavi figlie normali** ($k_{\text{CHD}}^n, K_{\text{CHD}}^n$): Queste sono derivate dalla chiave pubblica estesa ($K_{\text{PAR}}$), o dalla chiave privata estesa ($k_{\text{PAR}}$), derivando prima la chiave pubblica.
+- **Chiavi figlie protette** ($k_{\text{CHD}}^h, K_{\text{CHD}}^h$): Queste possono essere derivate solo dalla chiave privata estesa ($k_{\text{PAR}}$) e sono quindi invisibili agli osservatori che hanno solo la chiave pubblica estesa.
 Ogni coppia di chiavi figlio è identificata da un **indice** a 32 bit (denominato $i$ nei nostri calcoli). Gli indici per le chiavi normali variano da $0$ a $2^{31}-1$, mentre quelli per le chiavi potenziate (hardened) variano da $2^{31}$ a $2^{32}-1$. Questi numeri sono utilizzati per distinguere le coppie di chiavi fratello durante la derivazione. Infatti, ogni coppia di chiavi genitore deve essere in grado di derivare più coppie di chiavi figlio. Se applicassimo lo stesso calcolo sistematicamente dalle chiavi genitore, tutte le chiavi fratello ottenute sarebbero identiche, il che non è desiderabile. L'indice introduce quindi una variabile che modifica il calcolo di derivazione, permettendo di differenziare ogni coppia di chiavi fratello. Eccetto per l'uso specifico in certi protocolli e standard di derivazione, generalmente iniziamo derivando la prima chiave figlio con l'indice `0`, la seconda con l'indice `1`, e così via.
 ### Processo di Derivazione con HMAC-SHA512
 
@@ -1920,6 +1931,8 @@ Tecnicamente, uno script P2TR blocca i bitcoin su una unica chiave pubblica Schn
 - Soddisfacendo uno degli script contenuti nell'albero di Merkle (*script path*).
 P2TR offre quindi grande flessibilità, poiché consente di bloccare bitcoin sia con una chiave pubblica unica, sia con diversi script a scelta, o entrambi simultaneamente. Il vantaggio di questa struttura ad albero di Merkle è che solo lo script di spesa utilizzato viene rivelato durante la transazione, ma tutti gli altri script alternativi rimangono segreti.
 
+![CYP201](assets/fr/063.webp)
+
 P2TR corrisponde agli output di versione 1 di SegWit, il che significa che le firme per gli input P2TR sono memorizzate nella sezione *Witness* della transazione, e non nello *scriptSig*. Gli indirizzi P2TR utilizzano la codifica *bech32m* e iniziano con `bc1p`, ma sono piuttosto unici perché non utilizzano una funzione hash per la loro costruzione. Infatti, rappresentano direttamente la chiave pubblica $Q$ che è semplicemente formattata con metadati. È, quindi, un modello di script vicino a P2PK.
 
 Ora che abbiamo coperto la teoria, passiamo alla pratica! Nel capitolo seguente, propongo di derivare sia un indirizzo SegWit v0 che un indirizzo SegWit v1 da una coppia di chiavi.
@@ -1938,6 +1951,9 @@ Dopo aver eseguito tutti i passaggi di derivazione dalla chiave maestra alla pro
 Il primo passo è comprimere la chiave pubblica $K$. Per comprendere bene questo processo, ricordiamo prima alcuni fondamenti trattati nella parte 3.
 Una chiave pubblica su Bitcoin è un punto $K$ situato su una curva ellittica. È rappresentata nella forma $(x, y)$, dove $x$ e $y$ sono le coordinate del punto. Nella sua forma non compressa, questa chiave pubblica misura 520 bit: 8 bit per un prefisso (valore iniziale di `0x04`), 256 bit per la coordinata $x$ e 256 bit per la coordinata $y$.
 Tuttavia, le curve ellittiche hanno una proprietà di simmetria rispetto all'asse x: per una data coordinata $x$, ci sono solo due valori possibili per $y$: $y$ e $-y$. Questi due punti si trovano su entrambi i lati dell'asse x. In altre parole, se conosciamo $x$, è sufficiente specificare se $y$ è pari o dispari per identificare il punto esatto sulla curva.
+
+![CYP201](assets/fr/064.webp)
+
 Per comprimere una chiave pubblica, viene codificato solo $x$, che occupa 256 bit, e viene aggiunto un prefisso per specificare la parità di $y$. Questo metodo riduce la dimensione della chiave pubblica a 264 bit invece dei 520 iniziali. Il prefisso `0x02` indica che $y$ è pari, e il prefisso `0x03` indica che $y$ è dispari.
 Prendiamo un esempio per capire bene, con una chiave pubblica grezza in rappresentazione non compressa:
 
