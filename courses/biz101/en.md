@@ -393,7 +393,7 @@ The **Austrian School of Economics** is a tradition of economic thought that val
 
 - **Frédéric Bastiat**: A 19th-century French economist, Bastiat influenced the Austrian School with his works on free trade and the unseen consequences of economic policies. His essay _What Is Seen and What Is Not Seen_ is a foundational text of economic liberalism.
 
-![BIZ101](assets/en/07.webp)
+![BIZ101](assets/en/06.webp)
 
 *Attribution: The Ludwig von Mises Institute*
 
@@ -453,7 +453,7 @@ First, **past performance does not guarantee future results**. As long as Bitcoi
 
 Second, Bitcoin has so far experienced **4-year cycles**, meaning that with a time horizon of more than 4 years, the bet has always been profitable. For those who see Bitcoin as an investment, a short-term horizon (<4 years) can be risky.
 
-![BIZ101](assets/en/09.webp)
+![BIZ101](assets/en/07.webp)
 
 *MICHAEL SAYLOR: "The best Bitcon price signal  is the 4 year simple moving average."* See above chart.
 
@@ -512,7 +512,7 @@ You do not have to buy exactly 1 Bitcoin, because Bitcoin is divisible into subu
 
 Moreover, the total of 21 million bitcoins—or **2.1 quadrillion satoshis**—can be efficiently represented by a 64-bit integer. This means that despite a high price per whole bitcoin, it remains accessible to a wide range of investors thanks to its divisibility. You therefore do not need to purchase a whole bitcoin to participate in the network or invest in this digital asset.
 
-![BIZ101](assets/en/12.webp)
+![BIZ101](assets/en/08.webp)
 
 Let’s remember that its relatively low total market capitalization, compared to other assets such as stocks, gold, or real estate, leaves its capacity for appreciation intact. With still very low penetration (around 1% of the global population), we are thought to be only at the beginning of its rise. This makes it **the most asymmetric bet of our generation**: there is now a very low probability it will drop to zero at this point, and a strong probability it will continue to gain ground.
 
@@ -555,7 +555,7 @@ This involves earning rewards from operating mining machines. For non-specialize
 - **Buying Bitcoin:**
 This is by far the most common method, done either via peer-to-peer exchanges or, more typically, on specialized trading platforms.
 
-![BIZ101](assets/en/14.webp)
+![BIZ101](assets/en/09.webp)
 
 ### At What Price?
 
@@ -769,7 +769,7 @@ New infrastructures succeed because they are more efficient, and early adopters 
 
 Bitcoin and the Lightning Network are completing the **digital wallet revolution**. New web services now allow **transactions without the need to create an account**—your wallet becomes your identity! Gone are the days of account fatigue for simple purchases or subscriptions. No more need to provide personal or payment information that could end up for sale on the dark web, as we are reminded all too often by recent events.
 
-![BIZ101](assets/en/19.webp)
+![BIZ101](assets/en/10.webp)
 
 The merchants of tomorrow will embrace this innovation, offering customers a safer, more seamless (one-click) experience that also respects their privacy.
 
