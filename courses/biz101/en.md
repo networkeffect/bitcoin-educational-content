@@ -990,7 +990,7 @@ New infrastructures succeed because they are more efficient, and early adopters 
 
 **The Comeback of the Wallet**
 
-Bitcoin and the Lightning Network are completing the **digital wallet revolution**. New web services now allow **transactions without the need to create an account**—your wallet becomes your identity! With protocols like **Nostr Wallet Connect (NWC)** and **LN-URL-AUTH**, wallets can seamlessly authenticate users and enable transactions without traditional accounts. Gone are the days of account fatigue for simple purchases or subscriptions. No more need to provide personal or payment information that could end up for sale on the dark web, as we are reminded all too often by recent events.
+Bitcoin and the Lightning Network are completing the **digital wallet revolution**. New web services now allow **transactions without the need to create an account**—your wallet becomes your identity! With protocols like **Nostr Wallet Connect (NWC)** and **LN-URL-AUTH**, wallets can seamlessly authenticate users and enable transactions without traditional accounts. Gone are the days of account fatigue for simple purchases or subscriptions. No more need to provide personal or payment information that could end up being hacked and for sale on the dark web, as we are reminded all too often by recent events.
 
 ![BIZ101](assets/en/10.webp)
 
