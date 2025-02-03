@@ -963,12 +963,9 @@ New infrastructures succeed because they are more efficient, and early adopters 
 - **Enhanced Node and Channel Management:** Both individual and professional solutions have advanced. For example, BTC Pay Server now supports numerous plugins for connecting with other providers (PSPs, on/off ramps, etc.). New infrastructure providers, such as LightSpark and Alby Hub, are also entering production.
 
 - **Merchant Adoption Growth:** Merchants like BitRefill are reporting an increase in Bitcoin payments among their active users, with a clear shift toward Bitcoin over Lightning. Additionally, Lightning's ultra-low fees make it the preferred choice for small payments (average of €32 per transaction).
-<<<<<<< Updated upstream
 
 ![BIZ101-profiles](assets/en/30.webp)
 *[Source: BTC Map](https://btcmap.org/)*
-=======
->>>>>>> Stashed changes
 
 - **Network Metrics:** The total number of channels and Bitcoin locked on Lightning remains stable, with approximately 20,000 nodes, 5,200 BTC, and 60,000 channels. However, this reflects only part of the network and indicates a rotation among participants, with fewer individuals and more professionals taking part.
 
