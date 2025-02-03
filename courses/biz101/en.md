@@ -472,7 +472,7 @@ Second, Bitcoin has so far experienced **4-year cycles**, meaning that with a ti
 
 ![BIZ101](assets/en/07.webp)
 
-*MICHAEL SAYLOR: "The best Bitcon price signal  is the 4 year simple moving average."* See above chart.
+*MICHAEL SAYLOR: "The best Bitcoin price signal  is the 4 year simple moving average."* See above chart.
 
 Additionally, it is advisable to keep one’s exposure to Bitcoin **proportional** to one’s level of understanding. It’s also important not to be in a rush or to try to time the market perfectly.
 
@@ -747,7 +747,7 @@ To simplify the decision-making process, we have defined four distinct business 
 | **Business Type Examples**       | E-commerce sites with moderate volume, small marketplaces, groups of physical stores (e.g., Click & Collect), SME operations                           |
 | **Payment Type**                 | Generally ranging from a few euros/dollars to a few hundred; no set payment size limit; less than 250,000 per year                                     |
 | **Settings Complexity**          | Light to fully featured (local or cloud hosting), often requires an e-commerce storefront                                                              |
-| **Example Recommended Solution** | BTC Pay Server for e-commerce and/or physical environments; ZapRite or Musqet for checkout, Be-BOP for an integrated e-store                           |
+| **Example Recommended Solution** | BTC Pay Server for e-commerce and/or physical environments; ZapRite, Musqet or PayWithFlash for checkout, Be-BOP for an integrated e-store             |
 | **Merchant Interface**           | Website (mobile and desktop) with invoice editing, shopping cart options, and payment button creation; automated invoicing with e-commerce integration |
 | **Customer Interface**           | Bitcoin QR payment code, scanned via the customer's personal wallet                                                                                    |
 | **Fees**                         | Mix of free open-source backend and paid Lightning hosting/service fees; front-end fees include Bitcoin Lightning fees and <1.5% conversion fees       |
