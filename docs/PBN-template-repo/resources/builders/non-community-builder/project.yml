@@ -1,6 +1,5 @@
 ## Non-community Builder Characteristic
 
-
 # Complete name of the builder
 name: Builder's complete name
 
@@ -18,8 +17,7 @@ links:
 
 # tags
 # List the associated tags to the author
-# The list of tags is composed of 21 items that can be found here (list not yet available) 
+# The list of tags is composed of 21 items that can be found here (list not yet available)
 tags:
   - bitcoin
   - technology
-
