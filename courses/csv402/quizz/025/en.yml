@@ -5,5 +5,5 @@ wrong_answers:
   - Genesis, Interface, Transition and Extension
   - Genesis, Interface, Interface Implementation and Extension
 explanation: |
-  An RGB contract is made up of four distinct elements: Genesis, Schema, Interface and Interface Implementation.
+  An RGB contract is made up of four distinct elements; Genesis, Schema, Interface and Interface Implementation.
 reviewed: false
