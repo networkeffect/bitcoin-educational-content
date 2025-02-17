@@ -60,7 +60,7 @@ Plan ₿ Network was born from our belief in the transformative power of Bitcoin
 
 # How does it work?
 
-Plan ₿ Network helps communities worldwide get organized to provide better education. The platform develops the necessary tools to achieve this goal through the [online academy](https://planb.network/en/courses), the [tutorials portal](https://planb.network/en/tutorials), and the [resource portal](https://planb.network/en/resources).
+Plan ₿ Network helps communities worldwide get organized to provide better education. The platform develops the necessary tools to achieve this goal through the [online academy](https://planb.network/courses), the [tutorials portal](https://planb.network/tutorials), and the [resource portal](https://planb.network/resources).
 
 First, contents are published here, in this repository, as a central public
 place for Bitcoin Education. Any piece of content is specifically formatted to
@@ -106,7 +106,7 @@ Bitcoin is for everyone, and so is Plan ₿ Network. This means everyone has a s
 
 A first way to contribute might be to become a Plan ₿ Network Node. A node is simply a Bitcoin community that wants to move to the next step and accelerate its own local Bitcoin adoption! There is no minimum size to start with.
 
-At Plan ₿ Network, we aim to improve the educational Bitcoin ecosystem by providing the right tools to build and educate on Bitcoin. So, by becoming a node, your community will get access to a large range of resources, services, special instructive training, and more. 
+At Plan ₿ Network, we aim to improve the educational Bitcoin ecosystem by providing the right tools to build and educate on Bitcoin. So, by becoming a node, your community will get access to a large range of resources, services, special instructive training, and more.
 
 If you want your community to be a reference in the Bitcoin world, learn more about how to become a node [here](https://planb.network/en/node-network).
 
@@ -123,7 +123,7 @@ To propose your content directly, you can first reach out via the
 
 The key to making education powerful is to make it accessible to everybody in the world. Not everyone speaks English, or every other language on Earth! But we are sure that together, as a network, we can make every single piece of Bitcoin educational content as open-source as the seven seas by translating it into every language.
 
-If you are confident that you can help us translate our contents, we are eagerly looking for you! Just reach out via the [Telegram Group](https://t.me/PlanBNetwork_ContentBuilder). 
+If you are confident that you can help us translate our contents, we are eagerly looking for you! Just reach out via the [Telegram Group](https://t.me/PlanBNetwork_ContentBuilder).
 
 Literally EVERY LANGUAGE is needed!
 
@@ -134,6 +134,7 @@ Literally EVERY LANGUAGE is needed!
 ### The 8-step process to add a new language on PBN
 
 If you are enthusiastic about this initiative and you would like to help us, please add your local language to the github repo and the website. Kindly follow the following steps:
+
 1. Join the [PBN Content Builder TG group](https://t.me/PlanBNetwork_ContentBuilder) and present the languages you speak.
 2. [Add the new language](https://planb.network/tutorials/others/contribution/add-new-language-weblate-eef2f5c0-1aba-48a3-b8f0-a57feb761d86) on the Weblate app (an account on Weblate is required).
 3. [Start translating the static elements](https://planb.network/tutorials/others/contribution/translate-front-weblate-8213b931-650f-4efd-8f4e-9a8ae5ce6295) of the website.
@@ -143,7 +144,6 @@ If you are enthusiastic about this initiative and you would like to help us, ple
 7. After you finish and we merge the PR, we will send you the reward in sats.
 8. If the automatic translation is good enough, we will automatically translate all the educational content of PBN and publish it on the website.
 9. Then, anyone will be able to choose any content in that language to proofread and receive the associated reward.
-
 
 # Why do we use the value-4-value PoW model?
 

@@ -1,15 +1,14 @@
 ---
 name: A viagem do Bitcoin
 goal: Descubra os fundamentos da Bitcoin, incluindo a sua proposta de valor monetário, os mineiros, as transacções e as carteiras.
-objectives: 
-
+objectives:
   - Obter uma compreensão geral da tecnologia Bitcoin
   - Compreender como comprar e proteger bitcoins
   - Ter um conhecimento geral da tecnologia Blockchain
   - Familiarizar-se com o conceito de Lightning Network
   - Compreender o impacto geopolítico e social da Bitcoin
-
 ---
+
 # A sua primeira aventura Bitcoin
 
 Neste curso, explicaremos os conceitos básicos do Bitcoin em 25 capítulos, para que você possa entender essa tecnologia de maneira simples e eficaz. O curso explora os conceitos básicos da indústria como um todo, incluindo tópicos como mineração, carteiras, plataformas de compra / venda e muito mais. Será disponibilizado material educativo adicional ao longo da jornada e convidamo-lo também a consultar os "21 Posters" na secção de recursos depois de terminar este curso.
@@ -17,6 +16,7 @@ Neste curso, explicaremos os conceitos básicos do Bitcoin em 25 capítulos, par
 Não precisa de ter conhecimentos específicos para começar. De facto, o conteúdo que se segue é acessível a estudantes de todos os níveis e deve demorar cerca de 15 horas a ser concluído.
 
 +++
+
 # Introdução
 
 <partId>3cd2ac82-026c-53e1-874a-baf5842adc6d</partId>
@@ -39,40 +39,35 @@ Neste curso, discutiremos alguns aspectos monetários do Bitcoin, incluindo como
 
 É essencial compreender que o Bitcoin é um novo sistema monetário que altera completamente a nossa relação com o dinheiro, pelo que aprender a utilizá-lo é uma competência necessária para qualquer pessoa que queira ter o controlo dos seus próprios fundos.
 
-**Secção 1 - Dinheiro
-
+\*\*Secção 1 - Dinheiro
 
 - Capítulo 1 - O que é o dinheiro?
 - Capítulo 2 - Moeda fiduciária
 - Capítulo 3 - Hiperinflação
 - Capítulo 4 - Política monetária da Bitcoin
 
-**Secção 2 - Carteiras Bitcoin
-
+\*\*Secção 2 - Carteiras Bitcoin
 
 - Capítulo 5 - Como é que as carteiras Bitcoin funcionam?
 - Capítulo 6 - Escolher a sua segurança
 - Capítulo 7 - Configurar a sua carteira
 - Capítulo 8 - Proteção contra o tempo
 
-**Secção 3 - Caraterísticas técnicas da Bitcoin
-
+\*\*Secção 3 - Caraterísticas técnicas da Bitcoin
 
 - Capítulo 9 - O que é uma transação?
 - Capítulo 10 - Nós Bitcoin
 - Capítulo 11 - Mineiros
 - Capítulo 12 - Os mineiros e a ecologia
 
-**Secção 4 - Poupar em Bitcoin
-
+\*\*Secção 4 - Poupar em Bitcoin
 
 - Capítulo 13 - Preço da Bitcoin
 - Capítulo 14 - Como é que se compra Bitcoin?
 - Capítulo 15 - Trabalhar para a Bitcoin
 - Capítulo 16 - Hiper-bitcoinização
 
-**Secção 5 - Rede de relâmpagos
-
+\*\*Secção 5 - Rede de relâmpagos
 
 - Capítulo 17 - Introdução à rede Lightning
 - Capítulo 18 - Casos de utilização do Lightning Network
@@ -105,16 +100,13 @@ Figuras icónicas como Julian Assange, Wei Dai, Tim May e David Chaum desempenha
 
 O movimento cypherpunk, profundamente enraizado no ativismo digital e na criptografia, baseou-se em vários textos fundadores para articular os seus princípios e a sua visão do futuro. Entre esses textos, três se destacam em particular:
 
-
 - O "Manifesto Cypherpunk":
 
 escrito por Eric Hughes em 1993, o "Manifesto Cypherpunk" afirma que a privacidade é um direito fundamental. O autor argumenta que a capacidade de comunicar livre e confidencialmente é essencial para uma sociedade livre. O manifesto afirma: "Não podemos esperar que governos, corporações ou outras organizações grandes e sem rosto nos concedam privacidade [...]. Temos de defender a nossa própria privacidade se quisermos ter alguma".
 
-
 - O "Manifesto Cripto-Anarquista":
 
 escrito por Timothy C. May em 1992, este documento explica como a utilização da criptografia poderia conduzir a uma era de anarquia criptográfica em que os governos não teriam poder para interferir nos assuntos privados dos cidadãos. May imaginou um futuro em que as pessoas trocariam anonimamente informações e dinheiro sem a intervenção de terceiros.
-
 
 - A "Declaração de Independência do Ciberespaço":
 
@@ -145,6 +137,7 @@ No entanto, será a Bitcoin uma moeda "real"? Para o percebermos, precisamos pri
 Se quiser explorar a história da Bitcoin em mais pormenor, recomendamos vivamente o nosso curso HIS 201, onde descobrirá as origens e o lento aparecimento da Bitcoin, bem como os primórdios da sua história e comunidade. Este curso está totalmente documentado e tem fontes, com, claro, muitas anedotas:
 
 https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
+
 # Dinheiro
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -169,7 +162,6 @@ Assim, à medida que as civilizações avançavam e o comércio se expandia para
 
 O dinheiro é um instrumento de comunicação altamente sofisticado:
 
-
 - Permite a comunicação entre o presente e o futuro, porque transforma o nosso tempo e a nossa energia num ativo que pode ser reutilizado no futuro sem risco de desvalorização.
 - Facilita a comunicação numa língua universal: sem se conhecerem ou falarem a mesma língua, dois estranhos podem trocar, negociar e chegar a acordo sobre o valor das coisas.
 
@@ -177,10 +169,9 @@ A sua função no nosso mundo é difícil de reproduzir artificialmente. De fact
 
 Por estas razões, o ouro como moeda é o resultado de 4.000 anos de darwinismo monetário baseado nas seguintes funções aristotélicas:
 
-
-- Reserva de valor**: a moeda pode ser utilizada para transferir poder de compra para o futuro, pelo que tem de ser um material duradouro;
-- Meio de troca**: a moeda pode ser utilizada para a troca de bens e serviços em vez da troca direta, evitando assim a coincidência de desejos entre os comerciantes;
-- Unidade de conta**: a moeda também nos permite comparar os valores de diferentes bens para compreender melhor a sua conveniência relativa.
+- Reserva de valor\*\*: a moeda pode ser utilizada para transferir poder de compra para o futuro, pelo que tem de ser um material duradouro;
+- Meio de troca\*\*: a moeda pode ser utilizada para a troca de bens e serviços em vez da troca direta, evitando assim a coincidência de desejos entre os comerciantes;
+- Unidade de conta\*\*: a moeda também nos permite comparar os valores de diferentes bens para compreender melhor a sua conveniência relativa.
 
 ![image](assets/en/08.webp)
 
@@ -198,13 +189,11 @@ Para explicar melhor este conceito, vamos explorar as caraterísticas de uma moe
 
 ![image](assets/en/11.webp)
 
-
-- Fungibilidade**, o que significa que é permutável com outra unidade do mesmo tipo sem perda de valor;
-- Divisibilidade**, uma vez que pode ser dividido em unidades mais pequenas para facilitar transacções de volumes variáveis;
-- Liquidez**, o que significa que é facilmente convertível em bens ou serviços.
+- Fungibilidade\*\*, o que significa que é permutável com outra unidade do mesmo tipo sem perda de valor;
+- Divisibilidade\*\*, uma vez que pode ser dividido em unidades mais pequenas para facilitar transacções de volumes variáveis;
+- Liquidez\*\*, o que significa que é facilmente convertível em bens ou serviços.
 
 Para satisfazer estes critérios, a moeda tem evoluído historicamente através de diferentes etapas:
-
 
 - Pedra bruta -> Moeda
 - Nota de banco -> Cartão bancário
@@ -219,7 +208,7 @@ Por outro lado, a Bitcoin apresenta novas possibilidades. As suas propriedades, 
 <chapterId>25151d46-7db1-5b48-8bba-cbde1944555a</chapterId>
 
 > "Aqueles que não se lembram do passado estão condenados a repeti-lo", disse George Santayana.
-Uma verdade que ressoa bem quando se trata do atual sistema monetário.
+> Uma verdade que ressoa bem quando se trata do atual sistema monetário.
 
 ### Fiduciário = Confiança
 
@@ -266,9 +255,10 @@ Outra razão pela qual a Bitcoin tem chamado a atenção é o surgimento de moed
 Podemos concluir este capítulo com a citação do Prémio Nobel F.A Hayek em 1984:
 
 > "Não acredito que voltemos a ter um bom dinheiro antes de o tirarmos das mãos do governo. Se não conseguirmos tirá-lo violentamente das mãos do governo, tudo o que podemos fazer é, de uma forma sub-reptícia ou indireta, introduzir algo que eles não consigam impedir."
-Para saber mais sobre as falácias económicas e a liberdade, convidamo-lo a descobrir o nosso curso ECO 102, que descreve a vida e as ideias de Frédéric Bastiat, um pensador francês do século XIX que teria certamente apreciado o aparecimento da Bitcoin:
+> Para saber mais sobre as falácias económicas e a liberdade, convidamo-lo a descobrir o nosso curso ECO 102, que descreve a vida e as ideias de Frédéric Bastiat, um pensador francês do século XIX que teria certamente apreciado o aparecimento da Bitcoin:
 
 https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
+
 ## Hiperinflação
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -278,7 +268,6 @@ A hiperinflação é um fenómeno monetário específico das moedas fiduciárias
 ### Inflação à solta!
 
 Para compreender o impacto da inflação na poupança, é necessário ter em conta diferentes taxas de inflação.
-
 
 - Com uma inflação de 2%, perde anualmente 2% do seu poder de compra, o que equivale a 10% em 5 anos.
 - Com 7%, perde-se metade do dinheiro em 10 anos.
@@ -298,16 +287,13 @@ Para que a hiperinflação ocorra, é necessário que se verifiquem determinados
 
 Fase 1 - Perda de confiança
 
-
 - A centralização do poder monetário facilita a criação de moeda e os seus abusos. Neste contexto, alguns factores externos podem desencadear a hiperinflação, normalmente guerras, medidas sociais ou o aumento do preço de recursos fundamentais como o trigo ou a gasolina. Assim, pode surgir uma perda de confiança numa moeda e os indivíduos começam a questionar a origem da moeda e os benefícios da política monetária obrigatória.
 
 Fase 2 - Colapso da moeda e aumento dos preços
 
-
 - Quando os governos perdem o controlo da confiança, os indivíduos começam a trocar a sua moeda por outra mais estável, como aconteceu na Venezuela com o dólar americano. Esta circunstância leva a um aumento dos preços, criando um círculo vicioso em que os bens e serviços se tornam cada vez mais caros. Para satisfazer estas necessidades e corrigir a política monetária, o Estado imprime mais dinheiro, o que resulta numa inflação exponencial.
 
 Fase 3 - O círculo vicioso da impressão de dinheiro
-
 
 - Assim, são necessárias cada vez mais notas para comprar bens, o que resulta na escassez de papel-moeda. Em resposta, os governos recorrem à impressão de mais notas, o que alimenta ainda mais a inflação.
 
@@ -315,13 +301,11 @@ Fase 3 - O círculo vicioso da impressão de dinheiro
 
 Fase 4 - A emergência de uma nova moeda
 
-
 - É então introduzida uma nova moeda para substituir a antiga, a fim de quebrar o ciclo de inflação através da implementação de controlos mais rigorosos que não existiam com a anterior moeda com curso legal.
 
 A resolução de uma crise de hiperinflação exige frequentemente mudanças radicais, como revoluções, mudanças de governo, mudanças de banqueiros centrais, entre outras. A perda de confiança, o colapso da moeda e a reconstrução são fases essenciais para reanimar uma economia baseada na moeda fiduciária.
 
 ### Três exemplos notáveis
-
 
 - Alemanha, 1922-1923.
 
@@ -335,7 +319,6 @@ No final, as autoridades criaram uma nova moeda, apoiada nas dívidas da Alemanh
 
 ![image](assets/en/20.webp)
 
-
 - Hungria, 1945-1946
 
 O país que viveu o pior período de hiperinflação até à data foi, de longe, a Hungria, após a Segunda Guerra Mundial.
@@ -345,7 +328,6 @@ A Hungria viu-se no lado perdedor do conflito, com a maior parte da sua capacida
 A última nota a ser posta em circulação foi um Pengo de 100 milhões de milhões (100.000.000.000.000.000.000) em 1946.
 
 ![image](assets/en/21.webp)
-
 
 - Zimbabué, 2007-2008
 
@@ -366,6 +348,7 @@ Uma moeda que depende de um terceiro de confiança, como uma instituição finan
 Para aprofundar o tema das hiperinflações, recomendamos o curso ECO 204 de David St-Onge, onde ficará a saber o que são ciclos hiperinflacionários e o seu impacto real nas nossas vidas. Descobrirá também as semelhanças entre estes ciclos e, mais importante, como se pode proteger deles.
 
 https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
+
 ## 21 milhões de bitcoins
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -430,12 +413,11 @@ Depois de executarem esta tarefa com sucesso, os mineiros são recompensados com
 
 | 20 | 4,200,000 | 0.0000476837158203125 BTC | 20,999,979.973 BTC |
 
-Revisitaremos o conceito de mineração em mais pormenor no [capítulo sobre mineração] (https://planb.network/en/courses/btc101/dbb8264a-7434-57e4-9d1b-fbd1bae37fdf).
+Revisitaremos o conceito de mineração em mais pormenor no [capítulo sobre mineração] (https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/dbb8264a-7434-57e4-9d1b-fbd1bae37fdf).
 
 ### Garantir a escassez digital
 
 O limite de 21 milhões é a base da escassez de Bitcoin e é garantido por dois mecanismos fundamentais: o ajuste da dificuldade de mineração e a teoria dos jogos.
-
 
 - O ajuste da dificuldade de mineração é um processo que ocorre a cada 2016 blocos, ou cerca de duas semanas, para garantir que um novo bloco seja adicionado ao blockchain a cada dez minutos, em média. Esta frequência de criação de blocos e a quantidade total de bitcoins são ambos aspectos fixos do protocolo Bitcoin e não podem ser alterados sem um consenso geral, ao contrário das decisões arbitrárias tomadas nos sistemas monetários tradicionais.
 
@@ -446,7 +428,6 @@ A dificuldade de encontrar um hash válido segue uma espécie de ciclo: se o nú
 Sabia que os mineiros são incentivados a minerar um bloco para ganharem novos bitcoins através do subsídio do bloco, bem como das taxas de transação das transacções que incluem nesse bloco?
 
 Assim, à medida que o número de bitcoins emitidos se aproxima do limite de 21 milhões, os mineiros serão mais remunerados através das suas taxas de transação do que através do subsídio por bloco.
-
 
 - A teoria dos jogos é um conceito matemático que se baseia na racionalidade humana. Assume que os indivíduos agem logicamente, procurando maximizar os seus próprios benefícios enquanto consideram as potenciais decisões dos outros. Na Bitcoin, a teoria dos jogos ajuda a garantir que a maioria dos mineiros e utilizadores agirá no melhor interesse da rede. De facto, uma vez que as alterações ao protocolo são votadas pelos utilizadores, qualquer modificação ao protocolo Bitcoin exigiria o acordo de toda a comunidade de utilizadores, o que é altamente complexo. Assim, se alguém quisesse criar um bitcoin de 22 milhões, teria de convencer todos os utilizadores a desvalorizar voluntariamente as suas próprias poupanças, o que é improvável de acontecer porque a Bitcoin é global e não é governada por um grupo central.
 
@@ -462,14 +443,14 @@ Na verdade, qualquer pessoa pode fazer isso através de um nó Bitcoin (ou seja,
 
 ```json
 {
-"height": 710560,
-"bestblock": "0000000000000000000887384d67103412ea7f18a43953e65c8c4ac36bf42e54",
-"transactions": 473244,
-"txouts": 1018917,
-"bogosize": 2183872374,
-"hash_serialized_2": "eebb9987337700ffaacbbaa11223344",
-"disk_size": 178239584,
-"total_amount": 18745998.12345678
+  "height": 710560,
+  "bestblock": "0000000000000000000887384d67103412ea7f18a43953e65c8c4ac36bf42e54",
+  "transactions": 473244,
+  "txouts": 1018917,
+  "bogosize": 2183872374,
+  "hash_serialized_2": "eebb9987337700ffaacbbaa11223344",
+  "disk_size": 178239584,
+  "total_amount": 18745998.12345678
 }
 ```
 
@@ -493,7 +474,6 @@ Na secção 2, vamos explorar o armazenamento e a segurança da Bitcoin através
 
 Utilizamos as carteiras para interagir com a rede Bitcoin de três formas principais:
 
-
 - Para receber bitcoins
 - Para enviar bitcoins
 - Para os proteger contra tentativas de pirataria e roubo
@@ -508,7 +488,6 @@ As carteiras podem, assim, ser classificadas em grandes famílias de utilizaçã
 
 Quer seja o seu "banqueiro" Bitcoin ou você próprio, a grande maioria das carteiras Bitcoin funciona com uma tecnologia semelhante baseada em criptografia assimétrica, que envolve um sistema de pares de chaves: uma chave privada para gastar e uma chave pública para receber.
 
-
 - Chave privada
 
 Ao inicializar uma carteira, é gerada uma frase secreta de recuperação (chave privada) que lhe é apresentada sob a forma de 12 ou 24 palavras.
@@ -516,7 +495,6 @@ Ao inicializar uma carteira, é gerada uma frase secreta de recuperação (chave
 A chave privada é fundamental porque constitui a propriedade das bitcoins e, por conseguinte, o direito de as utilizar ou enviar. Por conseguinte, o detentor da chave privada é o verdadeiro proprietário dos bitcoins.
 
 Esta chave deve ser mantida em segredo e bem protegida, pois abre a tua fortuna!
-
 
 - Chave pública e endereço
 
@@ -549,6 +527,7 @@ Não se esqueça de escolher a carteira certa para as suas necessidades e utiliz
 Se, durante a sua viagem pela toca do coelho, quiser aprender mais sobre a construção de uma carteira Bitcoin, desde a entropia até à receção de endereços, recomendamos o curso CYP 201 dedicado a este tópico:
 
 https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
+
 ## Carteiras Bitcoin e segurança
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -556,7 +535,6 @@ https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ### Fazer as perguntas certas antes de começar
 
 Quando se possui bitcoins, a segurança dos seus fundos é uma preocupação importante. A melhor forma de definir um nível de segurança adequado à sua situação é colocar a si próprio uma série de questões:
-
 
 - Quem pode aceder aos seus fundos? Por outras palavras, tem acesso exclusivo aos seus bitcoins ou um terceiro (por exemplo, uma empresa) concede-lhe acesso aos seus fundos?
 - Como tenciona utilizar os bitcoins dessa carteira específica? Regularmente? Para poupanças a médio ou longo prazo?
@@ -571,19 +549,17 @@ Na verdade, não existe uma resposta ou solução universal, por isso, dedique a
 
 De seguida, definimos vários níveis de segurança:
 
-
-- Nível 0**, utiliza o chamado "serviço de custódia" em que não é o único detentor dos seus bitcoins. Esteja ciente de que este terceiro de confiança pode restringir o seu acesso aos seus fundos em qualquer altura. Neste caso, o seu nível de soberania financeira é semelhante ao de um sistema bancário tradicional com uma conta bancária.
+- Nível 0\*\*, utiliza o chamado "serviço de custódia" em que não é o único detentor dos seus bitcoins. Esteja ciente de que este terceiro de confiança pode restringir o seu acesso aos seus fundos em qualquer altura. Neste caso, o seu nível de soberania financeira é semelhante ao de um sistema bancário tradicional com uma conta bancária.
 
 ![image](assets/en/31.webp)
 
-
-- Nível 1**, utiliza uma carteira Bitcoin no seu telefone ou computador, onde é o único detentor dos seus bitcoins e pode facilmente efetuar as suas transacções. A ferramenta acima referida é designada por "hot wallet", porque a chave privada é armazenada num dispositivo com acesso à Internet. Neste caso, é fundamental fazer uma cópia de segurança da sua frase mnemónica para recuperar o acesso aos seus fundos em caso de perda do telemóvel ou do computador.
+- Nível 1\*\*, utiliza uma carteira Bitcoin no seu telefone ou computador, onde é o único detentor dos seus bitcoins e pode facilmente efetuar as suas transacções. A ferramenta acima referida é designada por "hot wallet", porque a chave privada é armazenada num dispositivo com acesso à Internet. Neste caso, é fundamental fazer uma cópia de segurança da sua frase mnemónica para recuperar o acesso aos seus fundos em caso de perda do telemóvel ou do computador.
 
 Por exemplo, pode utilizar a Sparrow Wallet como uma hot wallet:
 
 https://planb.network/tutorials/wallet/desktop/sparrow-7e9a77c0-013d-4f8e-a811-408b71dc7607
 
-- Nível 2**, utiliza uma carteira física e protegeu a sua lista de 12/24 palavras. É muitas vezes referido como "cold wallet" (carteira fria) porque as suas chaves são armazenadas num dispositivo que não está ligado à Internet. Neste caso, terá sempre de assinar cada transação com o seu dispositivo, o que torna os seus fundos menos acessíveis no dia a dia.
+- Nível 2\*\*, utiliza uma carteira física e protegeu a sua lista de 12/24 palavras. É muitas vezes referido como "cold wallet" (carteira fria) porque as suas chaves são armazenadas num dispositivo que não está ligado à Internet. Neste caso, terá sempre de assinar cada transação com o seu dispositivo, o que torna os seus fundos menos acessíveis no dia a dia.
 
 Por exemplo, pode utilizar um Ledger, um Satochip ou um Tapsigner:
 
@@ -592,16 +568,14 @@ https://planb.network/tutorials/wallet/hardware/satochip-e9bc81d9-d59b-420d-9672
 https://planb.network/tutorials/wallet/hardware/tapsigner-ab2bcdf9-9509-4908-9a4a-2f2be1e7d5d2
 ![image](assets/en/32.webp)
 
-
-- Nível 3**, utiliza uma carteira de nível 1 ou 2, mas adicionou uma frase-chave adicional. Neste caso, tenha em atenção que precisa de fazer uma cópia de segurança tanto da lista de 12/24 palavras **como** da sua frase-chave. Idealmente, estas duas informações são armazenadas em dois locais diferentes.
+- Nível 3**, utiliza uma carteira de nível 1 ou 2, mas adicionou uma frase-chave adicional. Neste caso, tenha em atenção que precisa de fazer uma cópia de segurança tanto da lista de 12/24 palavras **como\*\* da sua frase-chave. Idealmente, estas duas informações são armazenadas em dois locais diferentes.
 
 Para saber mais sobre a utilização e o funcionamento da frase-passe BIP39:
 
 https://planb.network/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14-bafdeb1adce7
 ![image](assets/en/33.webp)
 
-
-- Nível 4**, utiliza um conjunto de carteiras para criar uma carteira "multisig", o que significa que são necessárias várias assinaturas para realizar uma transação. Neste caso, tenha em atenção que cada parte do multisig deve ser armazenada em locais diferentes. Esta abordagem é frequentemente considerada uma utilização avançada da Bitcoin, principalmente para gerir grandes quantidades e para fins empresariais.
+- Nível 4\*\*, utiliza um conjunto de carteiras para criar uma carteira "multisig", o que significa que são necessárias várias assinaturas para realizar uma transação. Neste caso, tenha em atenção que cada parte do multisig deve ser armazenada em locais diferentes. Esta abordagem é frequentemente considerada uma utilização avançada da Bitcoin, principalmente para gerir grandes quantidades e para fins empresariais.
 
 ![image](assets/en/34.webp)
 
@@ -623,11 +597,11 @@ A segurança dos seus bitcoins tem uma importância crucial, e um simples erro p
 
 Tenha em atenção que o curso BTC102 guiá-lo-á nesta etapa.
 
-https://planb.network/en/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
+
 ### Este passo não é brincadeira!
 
 Quando configura uma carteira, o software cria normalmente a sua chave privada, geralmente representada por uma lista de 12/24 palavras (frequentemente designada por "frase semente" ou "frase mnemónica"): estas palavras constituem o acesso aos seus fundos. Se esta chave for alguma vez revelada a terceiros, deve considerar que os fundos associados estão comprometidos. Por conseguinte, ao configurar a sua carteira, é essencial seguir estas regras:
-
 
 - Cobrir todas as câmaras.
 - Não tire uma fotografia da lista de palavras.
@@ -654,11 +628,12 @@ As listas de palavras devem ser guardadas num local seguro de que se possa lembr
 
 Tanto as carteiras "frias" como as "quentes" utilizam o método de lista de palavras como padrão para efetuar cópias de segurança de chaves privadas. Como resultado, pode introduzir a sua frase mnemónica em qualquer software ou dispositivo de carteira compatível para restaurar o seu acesso. Por outro lado, desaconselhamos vivamente a utilização de carteiras que não forneçam uma frase-semente, uma vez que podem exigir que forneça uma conta, um endereço de correio eletrónico ou, pior ainda, um documento de identificação.
 
-**ATENÇÃO: A ausência de uma lista de palavras 12/24 deve alertá-lo
+\*\*ATENÇÃO: A ausência de uma lista de palavras 12/24 deve alertá-lo
 
 Se depois quiser descobrir, passo a passo, como criar a sua própria carteira e obter os seus primeiros bitcoins, recomendamos também este outro curso:
 
 https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
+
 ## Passando no teste do tempo
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -693,7 +668,6 @@ Da mesma forma, evite partilhar abertamente detalhes sobre o seu sistema de segu
 
 As carteiras Bitcoin são peças de software que lhe permitem armazenar bitcoins e efetuar transacções. Existem vários tipos:
 
-
 - carteiras móveis ou para PC, convenientes para pequenas quantias e/ou despesas regulares;
 - carteiras físicas, mais adequadas para armazenar bitcoins a médio e longo prazo;
 - carteiras multisig, que são mais complexas de gerir e requerem várias assinaturas para efetuar transacções.
@@ -701,7 +675,6 @@ As carteiras Bitcoin são peças de software que lhe permitem armazenar bitcoins
 Ao criar uma carteira, deve primeiro fazer uma cópia de segurança da sua lista de 12 ou 24 palavras num pedaço de papel ou numa placa de metal. Esta frase mnemónica permite-lhe restaurar a sua carteira através de qualquer aplicação de carteira Bitcoin. Tenha em atenção que qualquer pessoa que tenha acesso a esta lista também tem acesso aos seus fundos.
 
 No mundo do Bitcoin, a soberania financeira está intimamente ligada à responsabilidade individual, tornando essencial garantir o acesso às suas carteiras e backups. Para o conseguir, é importante seguir determinadas diretrizes:
-
 
 - Crie um plano de herança para garantir que os seus entes queridos possam recuperar o dinheiro em caso de qualquer problema.
 - Evite deixar seus Bitcoins em plataformas de câmbio, pois elas podem ser suscetíveis a ataques de hackers.
@@ -733,7 +706,7 @@ Em 3 de janeiro de 2009, Satoshi inaugurou oficialmente a rede Bitcoin ao criar 
 
 > "Podemos ganhar uma batalha importante na corrida ao armamento e ganhar um
 > novo território de liberdade durante vários anos" - Satoshi Nakamoto
-![image](assets/en/42.webp)
+> ![image](assets/en/42.webp)
 
 ### O protocolo Bitcoin ganha vida
 
@@ -745,7 +718,7 @@ O interesse pela Bitcoin cresceu rapidamente, levando muitas pessoas a testá-la
 
 O fórum tornou-se rapidamente o local de discussão preferido dos utilizadores de Bitcoin, de tal forma que dele nasceram memes e símbolos famosos associados à Bitcoin, como o [logótipo Bitcoin](https://bitcointalk.org/index.php?topic=64.0), o famoso [Hodl](https://bitcointalk.org/index.php?topic=375643.0), ou mesmo o [Pizza day](https://bitcointalk.org/index.php?topic=137.msg1195).
 
-**Em 22 de maio de 2010, Laszlo Hanyecz fez história ao oferecer-se para comprar duas pizzas por 10.000 BTC: foi a primeira vez que a Bitcoin foi utilizada para comprar bens físicos.
+\*\*Em 22 de maio de 2010, Laszlo Hanyecz fez história ao oferecer-se para comprar duas pizzas por 10.000 BTC: foi a primeira vez que a Bitcoin foi utilizada para comprar bens físicos.
 
 ![image](assets/en/44.webp)
 
@@ -756,7 +729,7 @@ Em 2010, quando a Bitcoin começou a atrair a atenção dos meios de comunicaç�
 > "Os governos são bons a cortar as cabeças de um sistema centralizado
 > controladas como o Napster, mas redes P2P puras como o
 > O Gnutella e o Tor parecem estar a aguentar-se" - Satoshi Nakamoto
-Apesar da ausência de Satoshi, a Bitcoin continuou a ser desenvolvida: a história da Bitcoin é escrita a cada 10 minutos, e o protocolo continua a funcionar até hoje como pretendido. Independentemente de qualquer medo, incerteza ou dúvida, o Bitcoin continua a avançar, com uma disponibilidade online muito forte. De facto, de acordo com este [website] (https://bitcoinuptime.com/), a Bitcoin tem estado funcional e a funcionar sem grandes problemas durante 99,988% do tempo desde que foi criada.
+> Apesar da ausência de Satoshi, a Bitcoin continuou a ser desenvolvida: a história da Bitcoin é escrita a cada 10 minutos, e o protocolo continua a funcionar até hoje como pretendido. Independentemente de qualquer medo, incerteza ou dúvida, o Bitcoin continua a avançar, com uma disponibilidade online muito forte. De facto, de acordo com este [website] (https://bitcoinuptime.com/), a Bitcoin tem estado funcional e a funcionar sem grandes problemas durante 99,988% do tempo desde que foi criada.
 
 Para alguns, o Bitcoin é definido como uma entidade fúngica, como um [micélio] (https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/), enquanto outros o descrevem como um [buraco negro] (https://dergigi.com/). Ame-o ou odeie-o, o Bitcoin continua a existir, com o seu ritmo constante de 10 minutos por bloco, como o batimento cardíaco de um novo sistema monetário.
 
@@ -765,7 +738,7 @@ Para saber mais sobre os escritos de Satoshi Nakamoto, recomendamos a leitura de
 ![image](assets/en/45.webp)
 
 > "O principal problema da moeda convencional é a confiança que é necessária para a fazer funcionar. É preciso confiar no banco central para não desvalorizar a moeda, mas a história das moedas fiduciárias está cheia de quebras dessa confiança. É preciso confiar nos bancos para guardar o nosso dinheiro e transferi-lo eletronicamente, mas eles emprestam-no em ondas de bolhas de crédito com apenas uma fração em reserva" - [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
-Agora que já temos alguns antecedentes, vamos examinar como funciona uma transação Bitcoin em geral.
+> Agora que já temos alguns antecedentes, vamos examinar como funciona uma transação Bitcoin em geral.
 
 ## Transacções de Bitcoin
 
@@ -831,7 +804,6 @@ Vamos dar uma olhada mais de perto em como um nó Bitcoin funciona.
 
 Os nós são um elemento fundamental da arquitetura da rede Bitcoin, uma vez que desempenham várias funções cruciais:
 
-
 - Manutenção de uma cópia da cadeia de blocos Bitcoin
 - Validação de transacções
 - Transmitir informações a outros nós
@@ -879,7 +851,7 @@ Após esta vitória, os nós activaram uma atualização denominada SegWit, abri
 
 <chapterId>dbb8264a-7434-57e4-9d1b-fbd1bae37fdf</chapterId>
 
-**Os mineiros protegem a rede e adicionam transacções aos blocos. Eles usam eletricidade através de máquinas ASIC para resolver a prova de trabalho do Bitcoin
+\*\*Os mineiros protegem a rede e adicionam transacções aos blocos. Eles usam eletricidade através de máquinas ASIC para resolver a prova de trabalho do Bitcoin
 
 ![image](assets/en/55.webp)
 
@@ -919,7 +891,6 @@ A transação **coinbase** é sempre a primeira a ser incluída no bloco: conté
 
 Inicialmente, um mineiro é compensado quando encontra um bloco válido. Mais precisamente, são recompensados de duas formas:
 
-
 - através do subsídio (bitcoins recém-cunhados) incluído no bloco;
 - através de taxas de transação das transacções incluídas no bloco.
 
@@ -956,6 +927,7 @@ A teoria dos jogos aplicada à Bitcoin elimina os mineiros desonestos, que utili
 Se quiser aprofundar o tema específico da mineração de Bitcoin, pode consultar o nosso curso MIN 201. Irá descobrir o funcionamento e o papel da Prova de Trabalho, bem como a mecânica da indústria mineira. Também explicamos como converter um ASIC num aquecedor, permitindo-lhe extrair os seus primeiros satoshis enquanto aquece a sua casa!
 
 https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
+
 ## Bitcoin e Ecologia
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>
@@ -1002,7 +974,7 @@ Por outro lado, os políticos têm normalmente uma visão a curto prazo e precis
 
 Eles não sabem que o Bitcoin promove o uso de energia verde. Por exemplo, as chamas acesas nos poços de petróleo para queimar metano e evitar a poluição podem ser extintas pelos mineiros de Bitcoin, porque o metano pode ser convertido em eletricidade para alimentar as máquinas de mineração, o que é benéfico para o ambiente.
 
-**Siga uma das máximas do Bitcoin: Não confie, verifique por si mesmo!
+\*\*Siga uma das máximas do Bitcoin: Não confie, verifique por si mesmo!
 
 ### Breve resumo das caraterísticas técnicas da Bitcoin
 
@@ -1026,7 +998,7 @@ O preço da Bitcoin é frequentemente caracterizado por uma grande volatilidade.
 
 ![image](assets/en/67.webp)
 
-Simplificando, os humanos tendem a comprar tudo de uma vez e a vender tudo de uma vez. **A Bitcoin não é imune à natureza humana
+Simplificando, os humanos tendem a comprar tudo de uma vez e a vender tudo de uma vez. \*\*A Bitcoin não é imune à natureza humana
 
 ### Compreender as vagas de adoção
 
@@ -1034,21 +1006,17 @@ Tanto o desenvolvimento como a evolução da Bitcoin estão largamente ligados a
 
 ![image](assets/en/68.webp)
 
-
 - Os crentes:
 
 Os primeiros utilizadores da Bitcoin eram principalmente tecnófilos, cypherpunks, libertários e entusiastas do ouro. Estes grupos foram atraídos pelo seu valor como dinheiro eletrónico sem confiança, pela sua resistência à censura e pela sua política monetária transparente e imutável.
-
 
 - A dark web e os criminosos
 
 Posteriormente, a utilização da Bitcoin expandiu-se para mercados da "dark web" como o Silk Road, em grande parte devido à sua natureza incontrolável e pseudónima, que também atraiu indivíduos para além dessa plataforma, incluindo algumas pessoas envolvidas em actividades criminosas. No entanto, é importante sublinhar que é a aplicação de uma ferramenta, e não a ferramenta em si, que determina a legalidade. A utilização ilegal da Bitcoin não faz de alguém um criminoso por natureza; são as acções específicas que podem ser classificadas como ilegais. Por exemplo, usar Bitcoin para comprar certas drogas pode ser legal ou ilegal, dependendo dos regulamentos que regem o território onde a transação ocorre.
 
-
 - O frenesim das ICO e a chegada do grande público.
 
 O ano de 2017 foi marcado por uma significativa bolha especulativa no mundo das criptomoedas, nomeadamente com o lançamento de milhares de ofertas iniciais de moedas (ICO). No entanto, muitas destas novas criptomoedas não tinham qualquer desenvolvimento ou utilidade concreta, tendo desaparecido rapidamente. Esta bolha de 2017 foi seguida de uma forte correção em 2018-2019.
-
 
 - A bolha NFT e a DeFi
 
@@ -1104,7 +1072,6 @@ Para aceitar Bitcoin, é necessário estudar as diferentes soluções disponíve
 
 Abordaremos este tópico em pormenor noutro curso, mas para simplificar, podemos considerar várias categorias de empresas e, por conseguinte, soluções relacionadas.
 
-
 - Solução simples em linha: OpenNode
 
 https://planb.network/tutorials/merchant/merchant/open-node-e69a0c1c-47f7-4932-8494-e6f26c3c9784
@@ -1123,7 +1090,6 @@ https://planb.network/tutorials/merchant/merchant/swiss-bitcoin-pay-2-a78b057e-e
 
 A Bitcoin tornou-se um importante ativo financeiro, principalmente devido à sua oferta limitada e à sua procura crescente. No entanto, a compra de Bitcoin comporta riscos que requerem uma atenção especial. Por conseguinte, recomenda-se que faça a sua própria investigação e aprenda mais sobre o assunto para se familiarizar com a tecnologia antes de investir quaisquer fundos.
 
-
 - Invista apenas o que pode dar-se ao luxo de perder.
 - A Bitcoin é um ativo financeiro altamente volátil, e o seu preço pode cair para 0.
 - O desempenho passado não é um indicador fiável do desempenho futuro.
@@ -1135,7 +1101,6 @@ A Bitcoin tornou-se um importante ativo financeiro, principalmente devido à sua
 
 Antes de mergulhar na compra de Bitcoin, certifique-se de que tem:
 
-
 - Uma carteira segura.
 - Um conhecimento sólido da Bitcoin.
 - Um plano de poupança a seguir.
@@ -1145,12 +1110,10 @@ Se o assunto ainda não está claro, saiba que o curso BTC102 o guiará na obten
 
 Em termos concretos, há duas perguntas a fazer a si próprio:
 
-
 - Deve adotar uma estratégia de aquisição gradual ou uma estratégia de aquisição de uma só vez?
 - Deve utilizar uma plataforma regulamentada ou não regulamentada?
 
 ### Estratégias de aquisição
-
 
 - Custo médio em dólares
 
@@ -1159,7 +1122,6 @@ Uma estratégia gradual envolve compras recorrentes, o que significa comprar peq
 ![image](assets/en/74.webp)
 
 **Cuidado com os UTXOs**: Lembre-se de consolidar os seus UTXOs nas suas carteiras de tempos a tempos. Esta prática é essencial para gerir eficazmente os seus bitcoins e evitar taxas desnecessárias durante as transacções.
-
 
 - Compra espontânea
 
@@ -1171,13 +1133,11 @@ Neste caso, deve ter cuidado e controlar as suas emoções, uma vez que o preço
 
 Existem várias formas de adquirir bitcoins, cada uma sujeita ao seu próprio conjunto de regulamentos que podem variar consoante a jurisdição. Algumas plataformas exigem identificação para verificação (KYC), enquanto outras não. Por conseguinte, é crucial compreender os regulamentos associados a cada plataforma.
 
-
 - Plataformas DCA
 
 Como introduzimos acima, um método comum para acumular bitcoins é o Dollar Cost Averaging (DCA), que envolve a compra regular de pequenas quantidades. Várias plataformas oferecem este serviço, como as listadas na nossa [página dedicada] (https://planb.network/tutorials/exchange). Para além da simplicidade da configuração de uma DCA, os levantamentos para a sua carteira são geralmente automáticos, o que significa que terá sempre controlo sobre os seus activos.
 
 Atualmente, quase todas as soluções DCA são relativamente eficientes e têm taxas quase semelhantes, pelo que a escolha dependerá mais da disponibilidade no seu país.
-
 
 - Plataformas de corretagem
 
@@ -1197,14 +1157,13 @@ A sua utilização é simples e acessível a todos:
 
 Após a compra, é aconselhável retirar imediatamente os bitcoins das plataformas de câmbio para minimizar os riscos de pirataria e bloqueio de fundos. Tenha em atenção que as taxas de levantamento podem ser elevadas, por vezes até 25 euros, consoante a plataforma.
 
-**Os regulamentos Know Your Customer (KYC) exigem que os utilizadores forneçam a sua identificação para combater o financiamento do terrorismo, a evasão fiscal e o branqueamento de capitais
+\*\*Os regulamentos Know Your Customer (KYC) exigem que os utilizadores forneçam a sua identificação para combater o financiamento do terrorismo, a evasão fiscal e o branqueamento de capitais
 
 É essencial reconhecer que o KYC é um tópico significativo de discussão na indústria do Bitcoin. Embora muitas pessoas debatam sua eficácia, existem inúmeras preocupações associadas a ele. Em muitos dos programas de formação e conteúdos da nossa academia, aconselhamos os utilizadores avançados a evitar plataformas que exijam KYC, uma vez que existem muitas vezes alternativas disponíveis mais centradas na privacidade.
 
 ### Soluções não-KYC
 
 Além disso, existem vários [marketplaces] (https://planb.network/tutorials/exchange) onde se pode comprar e vender bitcoins numa troca peer-to-peer. Em geral, pode considerar o seguinte:
-
 
 - ATMs de Bitcoin
 - Encontros físicos com outros entusiastas da bitcoin
@@ -1239,6 +1198,7 @@ No final, convidamo-lo a refletir sobre esta nova revolução monetária. Há ta
 Se pretende alargar os seus conhecimentos sobre o Bitcoin, este é o momento certo: um grande número de autores, pensadores e ensaístas criaram conteúdos educativos sobre o Bitcoin. Nos últimos anos, temos vindo a listar e a categorizar estes trabalhos para oferecer uma [biblioteca de recursos](https://planb.network/resources) aos mais curiosos de entre vós. Nesta secção, encontrará os melhores podcasts, sites, artigos, tutoriais, livros e outros conteúdos.
 
 > "Penso que a Internet vai ser uma das principais forças para reduzir o papel do governo. A única coisa que falta, mas que em breve será desenvolvida, é um dinheiro eletrónico fiável - um método através do qual, na Internet, se possa transferir fundos de A para B sem que A conheça B ou B conheça A." - Previsão de Milton Friedman em 1999
+
 # O futuro do Bitcoin: a Lightning Network
 
 <partId>899fd35e-39e6-5a25-a73e-6fed6e725094</partId>
@@ -1286,12 +1246,12 @@ Em resumo, a Lightning Network é uma tentativa promissora de implantar um siste
 Se pretender ir além desta introdução e compreender todo o funcionamento da Lightning Network, recomendamos a realização deste excelente curso de Fanis Michalakis sobre o assunto:
 
 https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
+
 ## Casos de uso do Lightning Network
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>
 
 Como acabámos de ver, o protocolo Bitcoin, embora revolucionário, enfrenta desafios significativos em termos da escalabilidade necessária para tratar todas as nossas transacções diárias. Para resolver estes problemas, foi proposta a Lightning Network, que desde então se desenvolveu em várias implementações diferentes, todas elas interoperáveis:
-
 
 - Core-lightning da Blockstream
 - Eclair da Acinq
@@ -1333,14 +1293,12 @@ Se tomarmos a IA como exemplo, estas tecnologias já ultrapassaram ou estão a a
 
 Temos algumas questões essenciais a colocar-nos:
 
-
 - Como é que gerimos uma sociedade em que 80% dos empregos vão desaparecer?
 - Como é que se revitaliza uma população?
 - São necessários tantos professores?
 - As consequências geopolíticas, políticas e humanas da automatização não são suficientemente debatidas.
 
 A informática, a Internet, o streaming e a RV vão mudar a educação. Poderíamos ter um curso universal para todos os estudantes franceses gerido pelo governo e professores que deixariam de dar aulas e passariam a acompanhar diretamente os alunos. As crianças poderiam entrar num mundo virtual e ser acompanhadas na aprendizagem da história.
-
 
 - Onde é que se situa a fronteira entre um professor e uma personificação da IA?
 - Como é que podemos garantir uma sociedade que vive em prosperidade?
@@ -1352,7 +1310,6 @@ Qual é a relação com a Bitcoin? Tal como a Internet revolucionou os modos de 
 ### Qual é o futuro das finanças?
 
 Estas considerações também levantam questões sobre quem deve deter, autorizar e rastrear o dinheiro que utilizamos. O objetivo é decidir entre um sistema fechado com líderes não eleitos ou um sistema aberto sem terceiros de confiança, onde prevalece a neutralidade.
-
 
 - A moeda é uma forma de propriedade privada?
 - As contas dos manifestantes podem ser bloqueadas sem uma ordem do Supremo Tribunal?
@@ -1367,7 +1324,6 @@ A questão de saber quem deve controlar o sistema bancário é crucial porque as
 ### A nossa liberdade está em jogo.
 
 A censura também deve ser questionada: quem tem o conhecimento para decidir o que deve ser censurado ou não? Os meios de comunicação social mudaram a sua posição em relação a certas informações e as que eram censuradas antes já não o são hoje.
-
 
 - Quem decide o que é censura ou propaganda?
 - Quem tem a mão divina sobre o nosso sistema?

@@ -1,15 +1,14 @@
 ---
 name: Il viaggio di Bitcoin
 goal: Scoprite i fondamenti di Bitcoin, tra cui la proposta di valore monetario, i minatori, le transazioni e i portafogli.
-objectives: 
-
+objectives:
   - Acquisire una conoscenza generale della tecnologia Bitcoin
   - Capire come acquistare e mettere al sicuro i bitcoin
   - Avere una comprensione generale della tecnologia Blockchain
   - Familiarizzare con il concetto di rete Lightning
   - Realizzare l'impatto geopolitico e sociale di Bitcoin
-
 ---
+
 # La vostra prima avventura in Bitcoin
 
 In questo corso, spiegheremo le basi del Bitcoin in 25 capitoli, in modo che possiate comprendere questa tecnologia in modo semplice ed efficace. Il corso esplora le basi del settore nel suo complesso, includendo argomenti come il mining, i portafogli, le piattaforme di acquisto/vendita e altro ancora. Ulteriori materiali didattici saranno disponibili durante il percorso e vi invitiamo a consultare i "21 poster" nella sezione risorse dopo aver terminato il corso.
@@ -17,6 +16,7 @@ In questo corso, spiegheremo le basi del Bitcoin in 25 capitoli, in modo che pos
 Non sono necessarie conoscenze specifiche per iniziare. Infatti, il seguente contenuto è accessibile a studenti di tutti i livelli e dovrebbe richiedere circa 15 ore per essere completato.
 
 +++
+
 # Introduzione
 
 <partId>3cd2ac82-026c-53e1-874a-baf5842adc6d</partId>
@@ -41,14 +41,12 @@ In questo corso discuteremo alcuni aspetti monetari di Bitcoin, tra cui come acq
 
 **Sezione 1 - Denaro**
 
-
 - Capitolo 1 - Che cos'è il denaro?
 - Capitolo 2 - La moneta Fiat
 - Capitolo 3 - Iperinflazione
 - Capitolo 4 - La politica monetaria della Bitcoin
 
 **Sezione 2 - Portafogli Bitcoin**
-
 
 - Capitolo 5 - Come funzionano i portafogli Bitcoin?
 - Capitolo 6 - Scelta della sicurezza
@@ -57,7 +55,6 @@ In questo corso discuteremo alcuni aspetti monetari di Bitcoin, tra cui come acq
 
 **Sezione 3 - Caratteristiche tecniche di Bitcoin**
 
-
 - Capitolo 9 - Che cos'è una transazione?
 - Capitolo 10 - Nodi Bitcoin
 - Capitolo 11 - Minatori
@@ -65,14 +62,12 @@ In questo corso discuteremo alcuni aspetti monetari di Bitcoin, tra cui come acq
 
 **Sezione 4 - Risparmio in Bitcoin**
 
-
 - Capitolo 13 - Prezzo del Bitcoin
 - Capitolo 14 - Come si acquista il Bitcoin?
 - Capitolo 15 - Lavorare per Bitcoin
 - Capitolo 16 - Iper-bitcoinizzazione
 
 **Sezione 5 - Rete di fulmini**
-
 
 - Capitolo 17 - Introduzione alla rete Lightning
 - Capitolo 18 - Casi d'uso della rete Lightning
@@ -105,16 +100,13 @@ Figure iconiche come Julian Assange, Wei Dai, Tim May e David Chaum hanno svolto
 
 Il movimento cypherpunk, profondamente radicato nell'attivismo digitale e nella crittografia, ha attinto a diversi testi fondamentali per articolare i suoi principi e la sua visione del futuro. Tra questi scritti, tre spiccano in particolare:
 
-
 - Il "Manifesto Cypherpunk":
 
 scritto da Eric Hughes nel 1993, il "Manifesto Cypherpunk" afferma che la privacy è un diritto fondamentale. L'autore sostiene che la capacità di comunicare liberamente e in modo riservato è essenziale per una società libera. Il manifesto afferma che: "Non possiamo aspettarci che i governi, le aziende o altre grandi organizzazioni senza volto ci garantiscano la privacy [...]. Dobbiamo difendere la nostra privacy se vogliamo averne una".
 
-
 - Il "Manifesto cripto-anarchico":
 
 scritto da Timothy C. May nel 1992, questo documento spiega come l'uso della crittografia potrebbe portare a un'era di anarchia crittografica in cui i governi sarebbero impotenti a interferire negli affari privati dei cittadini. May immagina un futuro in cui le persone si scambiano informazioni e denaro in modo anonimo senza l'intervento di terzi.
-
 
 - La "Dichiarazione di indipendenza del cyberspazio":
 
@@ -145,6 +137,7 @@ Ma il Bitcoin è una "vera" moneta? Per capirlo, dobbiamo innanzitutto comprende
 Se volete approfondire la storia del Bitcoin, vi consigliamo il nostro corso HIS 201, in cui scoprirete le origini e il lento emergere del Bitcoin, nonché gli inizi della sua storia e della sua comunità. Questo corso è completamente documentato e documentato, con ovviamente molti aneddoti:
 
 https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
+
 # Il denaro
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -169,7 +162,6 @@ Così, con il progredire delle civiltà e l'espansione del commercio in nuove re
 
 Il denaro è uno strumento di comunicazione molto sofisticato:
 
-
 - Permette di comunicare tra il presente e il futuro, perché trasforma il nostro tempo e la nostra energia in un bene che può essere riutilizzato nel tempo a venire senza rischi di svalutazione.
 - Facilita la comunicazione in un linguaggio universale: senza conoscersi o parlare la stessa lingua, due estranei possono scambiare, commerciare e concordare il valore delle cose.
 
@@ -177,10 +169,9 @@ La sua funzione nel nostro mondo è difficile da riprodurre artificialmente. Inf
 
 Per questi motivi, l'oro come moneta è il risultato di 4.000 anni di darwinismo monetario basato sulle seguenti funzioni aristoteliche:
 
-
-- Riserva di valore**: il denaro può essere utilizzato per trasferire il potere d'acquisto nel futuro, quindi deve essere un materiale durevole;
-- Mezzo di scambio**: la moneta può essere utilizzata in cambio di beni e servizi invece che per il baratto, evitando così la coincidenza dei desideri tra i commercianti;
-- Unità di conto**: il denaro ci permette anche di confrontare i valori di diversi beni per capire meglio la loro convenienza relativa.
+- Riserva di valore\*\*: il denaro può essere utilizzato per trasferire il potere d'acquisto nel futuro, quindi deve essere un materiale durevole;
+- Mezzo di scambio\*\*: la moneta può essere utilizzata in cambio di beni e servizi invece che per il baratto, evitando così la coincidenza dei desideri tra i commercianti;
+- Unità di conto\*\*: il denaro ci permette anche di confrontare i valori di diversi beni per capire meglio la loro convenienza relativa.
 
 ![image](assets/en/08.webp)
 
@@ -198,13 +189,11 @@ Per spiegare meglio questo concetto, esploreremo le caratteristiche di una monet
 
 ![image](assets/en/11.webp)
 
-
-- Fungibilità**, ovvero intercambiabilità con un'altra unità dello stesso tipo senza perdita di valore;
-- Divisibilità**, in quanto può essere suddivisa in unità più piccole per facilitare le transazioni di volumi diversi;
-- Liquidità**, ovvero facilità di conversione in beni o servizi.
+- Fungibilità\*\*, ovvero intercambiabilità con un'altra unità dello stesso tipo senza perdita di valore;
+- Divisibilità\*\*, in quanto può essere suddivisa in unità più piccole per facilitare le transazioni di volumi diversi;
+- Liquidità\*\*, ovvero facilità di conversione in beni o servizi.
 
 Per soddisfare questi criteri, la moneta si è storicamente evoluta compiendo diversi passi:
-
 
 - Pietra grezza -> Moneta
 - Banconota -> Carta bancaria
@@ -219,7 +208,7 @@ D'altra parte, il Bitcoin presenta nuove possibilità. Le sue proprietà, come l
 <chapterId>25151d46-7db1-5b48-8bba-cbde1944555a</chapterId>
 
 > "Chi non ricorda il passato è condannato a ripeterlo" diceva George Santayana.
-Una verità che risuona con forza quando si parla dell'attuale sistema monetario.
+> Una verità che risuona con forza quando si parla dell'attuale sistema monetario.
 
 ### Fiduciario = Trust
 
@@ -266,9 +255,10 @@ Un altro motivo per cui il Bitcoin ha attirato l'attenzione è l'emergere delle 
 Possiamo concludere questo capitolo con una citazione del premio Nobel F.A Hayek del 1984:
 
 > "Non credo che dovremmo mai avere di nuovo una buona moneta, prima di aver tolto la cosa dalle mani del governo. Se non possiamo toglierli violentemente dalle mani del governo, l'unica cosa che possiamo fare è introdurre, in qualche modo subdolo o circolare, qualcosa che loro non possono fermare"
-Per saperne di più sulle fallacie economiche e sulla libertà, vi invitiamo a scoprire il nostro corso ECO 102, che ripercorre la vita e le idee di Frédéric Bastiat, un pensatore francese del XIX secolo che avrebbe sicuramente apprezzato la nascita di Bitcoin:
+> Per saperne di più sulle fallacie economiche e sulla libertà, vi invitiamo a scoprire il nostro corso ECO 102, che ripercorre la vita e le idee di Frédéric Bastiat, un pensatore francese del XIX secolo che avrebbe sicuramente apprezzato la nascita di Bitcoin:
 
 https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
+
 ## Iperinflazione
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -278,7 +268,6 @@ L'iperinflazione è un fenomeno monetario specifico delle valute fiat: è caratt
 ### L'inflazione è in aumento!
 
 Per capire l'impatto dell'inflazione sui risparmi, dobbiamo prendere in considerazione diversi tassi di inflazione.
-
 
 - Con un'inflazione del 2%, perdete ogni anno il 2% del vostro potere d'acquisto, il che equivale al 10% in 5 anni.
 - Con il 7%, si perde la metà in 10 anni.
@@ -298,16 +287,13 @@ Affinché si verifichi l'iperinflazione, devono verificarsi alcuni eventi.
 
 Fase 1 - Perdita di fiducia
 
-
 - La centralizzazione del potere monetario facilita la creazione di denaro e i suoi abusi. In questo contesto, alcuni fattori esterni possono innescare l'iperinflazione, tipicamente guerre, misure sociali o l'aumento del prezzo di risorse chiave come il grano o la benzina. Può quindi verificarsi una perdita di fiducia nella moneta e gli individui iniziano a mettere in dubbio l'origine del denaro e i benefici della politica monetaria obbligatoria.
 
 Fase 2 - Crollo della valuta e aumento dei prezzi
 
-
 - Quando i governi perdono il controllo della fiducia, gli individui iniziano a cambiare la loro valuta con una più stabile, come è successo in Venezuela con il dollaro statunitense. Questa circostanza porta a un aumento dei prezzi, creando un circolo vizioso in cui beni e servizi diventano sempre più costosi. Per soddisfare queste esigenze e correggere la politica monetaria, lo Stato stampa più moneta, provocando un'inflazione esponenziale.
 
 Fase 3 - Il circolo vizioso della stampa di moneta
-
 
 - Di conseguenza, sono necessarie sempre più banconote per acquistare beni, con conseguente scarsità di cartamoneta. In risposta, i governi ricorrono alla stampa di altre banconote, alimentando ulteriormente l'inflazione.
 
@@ -315,13 +301,11 @@ Fase 3 - Il circolo vizioso della stampa di moneta
 
 Fase 4 - L'emergere di una nuova moneta
 
-
 - Viene quindi introdotta una nuova valuta per sostituire quella vecchia, al fine di interrompere il ciclo dell'inflazione attuando controlli più severi che non erano in vigore con la precedente moneta legale.
 
 Risolvere una crisi di iperinflazione richiede spesso cambiamenti radicali, come rivoluzioni, cambi di governo, cambi di banchieri centrali, ecc. La perdita di fiducia, il crollo della valuta e la ricostruzione sono fasi essenziali per far rinascere un'economia basata sulla valuta fiat.
 
 ### Tre esempi significativi
-
 
 - Germania, 1922-1923.
 
@@ -335,7 +319,6 @@ Alla fine, le autorità crearono una nuova moneta, sostenuta dai debiti di Germa
 
 ![image](assets/en/20.webp)
 
-
 - Ungheria, 1945-1946
 
 Il Paese che ha vissuto il peggior periodo di iperinflazione fino ad oggi è di gran lunga l'Ungheria dopo la Seconda Guerra Mondiale.
@@ -345,7 +328,6 @@ L'Ungheria si trovò dalla parte dei perdenti nel conflitto, con la maggior part
 L'ultima banconota a essere messa in circolazione fu un Pengo da 100 milioni di miliardi (100.000.000.000.000) nel 1946.
 
 ![image](assets/en/21.webp)
-
 
 - Zimbabwe, 2007-2008
 
@@ -366,6 +348,7 @@ Una moneta che si affida a una terza parte fidata come un istituto finanziario �
 Per approfondire il tema delle iperinflazioni, vi consigliamo il corso ECO 204 di David St-Onge, dove imparerete cosa sono i cicli iperinflazionistici e il loro reale impatto sulla nostra vita. Scoprirete anche le analogie tra questi cicli e, soprattutto, come proteggervi da essi.
 
 https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
+
 ## 21 milioni di bitcoin
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -430,12 +413,11 @@ Dopo aver svolto con successo questo compito, i minatori vengono ricompensati co
 
 | 20 | 4.200.000 | 0,0000476837158203125 BTC | 20.999.979,973 BTC |
 
-Rivedremo il concetto di mining in modo più dettagliato nel [capitolo sui minatori](https://planb.network/en/courses/btc101/dbb8264a-7434-57e4-9d1b-fbd1bae37fdf).
+Rivedremo il concetto di mining in modo più dettagliato nel [capitolo sui minatori](https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/dbb8264a-7434-57e4-9d1b-fbd1bae37fdf).
 
 ### Garantire la scarsità digitale
 
 Il limite di 21 milioni è alla base della scarsità di Bitcoin ed è garantito da due meccanismi chiave: la regolazione della difficoltà di estrazione e la teoria dei giochi.
-
 
 - L'aggiustamento della difficoltà di mining è un processo che avviene ogni 2016 blocchi, ovvero circa due settimane, per garantire che un nuovo blocco venga aggiunto alla blockchain in media ogni dieci minuti. Questa frequenza di creazione dei blocchi e la quantità totale di bitcoin sono entrambi aspetti fissi del protocollo Bitcoin e non possono essere modificati senza un consenso generale, a differenza delle decisioni arbitrarie prese nei sistemi monetari tradizionali.
 
@@ -446,7 +428,6 @@ La difficoltà di trovare un hash valido segue una sorta di ciclo: se il numero 
 Sapevate che i minatori sono incentivati a estrarre un blocco per guadagnare nuovi bitcoin attraverso la sovvenzione del blocco e le commissioni di transazione delle transazioni che includono nel blocco?
 
 Pertanto, man mano che il numero di bitcoin emessi si avvicina al limite dei 21 milioni, i minatori saranno remunerati più attraverso le loro commissioni di transazione che attraverso il sussidio di blocco.
-
 
 - La teoria dei giochi è un concetto matematico che si basa sulla razionalità umana. Presuppone che gli individui agiscano in modo logico, cercando di massimizzare i propri benefici e tenendo conto delle potenziali decisioni degli altri. In Bitcoin, la teoria dei giochi aiuta a garantire che la maggioranza dei minatori e degli utenti agisca nell'interesse della rete. Infatti, poiché le modifiche al protocollo sono votate dagli utenti, qualsiasi modifica al protocollo Bitcoin richiederebbe l'accordo dell'intera comunità di utenti, il che è molto complesso. Quindi, se qualcuno volesse creare un bitcoin da 22 milioni, dovrebbe convincere tutti gli utenti a svalutare volontariamente i propri risparmi, il che è improbabile che accada perché Bitcoin è globale e non è governato da un gruppo centrale.
 
@@ -462,14 +443,14 @@ In realtà, chiunque può farlo attraverso un nodo Bitcoin (cioè un validatore 
 
 ```json
 {
-"height": 710560,
-"bestblock": "0000000000000000000887384d67103412ea7f18a43953e65c8c4ac36bf42e54",
-"transactions": 473244,
-"txouts": 1018917,
-"bogosize": 2183872374,
-"hash_serialized_2": "eebb9987337700ffaacbbaa11223344",
-"disk_size": 178239584,
-"total_amount": 18745998.12345678
+  "height": 710560,
+  "bestblock": "0000000000000000000887384d67103412ea7f18a43953e65c8c4ac36bf42e54",
+  "transactions": 473244,
+  "txouts": 1018917,
+  "bogosize": 2183872374,
+  "hash_serialized_2": "eebb9987337700ffaacbbaa11223344",
+  "disk_size": 178239584,
+  "total_amount": 18745998.12345678
 }
 ```
 
@@ -493,7 +474,6 @@ Nella sezione 2, esploreremo l'archiviazione e la sicurezza di Bitcoin attravers
 
 I portafogli vengono utilizzati per interagire con la rete Bitcoin in tre modi principali:
 
-
 - Per ricevere bitcoin
 - Per inviare bitcoin
 - Per proteggerli da tentativi di hackeraggio e furto
@@ -508,7 +488,6 @@ I portafogli possono quindi essere classificati in ampie famiglie di utilizzo, s
 
 Che si tratti del vostro "banchiere" Bitcoin o di voi stessi, la stragrande maggioranza dei portafogli Bitcoin funziona con una tecnologia simile basata sulla crittografia asimmetrica, che prevede un sistema di coppie di chiavi: una chiave privata per la spesa e una chiave pubblica per la ricezione.
 
-
 - Chiave privata
 
 Quando si inizializza un portafoglio, viene generata una frase di recupero segreta (chiave privata) che viene presentata all'utente sotto forma di 12 o 24 parole.
@@ -516,7 +495,6 @@ Quando si inizializza un portafoglio, viene generata una frase di recupero segre
 La chiave privata è fondamentale perché costituisce la proprietà dei bitcoin e quindi il diritto di utilizzarli o inviarli. Pertanto, il titolare della chiave privata è il vero proprietario dei bitcoin.
 
 Questa chiave deve essere tenuta segreta e ben protetta, perché sblocca la vostra fortuna!
-
 
 - Chiave pubblica e indirizzo
 
@@ -549,6 +527,7 @@ Ricordate di scegliere il portafoglio giusto per le vostre esigenze e il vostro 
 Se durante il vostro viaggio nella tana del coniglio volete saperne di più sulla costruzione di un portafoglio Bitcoin, dall'entropia alla ricezione degli indirizzi, vi consigliamo il corso CYP 201 dedicato a questo argomento:
 
 https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
+
 ## Portafogli Bitcoin e sicurezza
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -556,7 +535,6 @@ https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ### Porsi le domande giuste prima di iniziare
 
 Quando si possiedono bitcoin, la sicurezza dei propri fondi è una delle principali preoccupazioni. Il modo migliore per definire un livello di sicurezza adatto alla vostra situazione è porsi una serie di domande:
-
 
 - Chi può accedere ai vostri fondi? In altre parole, avete accesso esclusivo ai vostri bitcoin o una terza parte (come una società) vi concede l'accesso ai vostri fondi?
 - Come pensate di utilizzare i bitcoin in quel particolare portafoglio? Regolarmente? Per risparmiare a medio o lungo termine?
@@ -571,19 +549,17 @@ In realtà non esiste una risposta o una soluzione universale, quindi prendetevi
 
 Di seguito definiremo diversi livelli di sicurezza:
 
-
-- Livello 0**, utilizzate un cosiddetto "servizio di custodia" in cui non siete gli unici detentori dei vostri bitcoin. Siate consapevoli che questa terza parte fidata può limitare l'accesso ai vostri fondi in qualsiasi momento. In questo caso, il vostro livello di sovranità finanziaria è simile a quello di un sistema bancario tradizionale con un conto corrente.
+- Livello 0\*\*, utilizzate un cosiddetto "servizio di custodia" in cui non siete gli unici detentori dei vostri bitcoin. Siate consapevoli che questa terza parte fidata può limitare l'accesso ai vostri fondi in qualsiasi momento. In questo caso, il vostro livello di sovranità finanziaria è simile a quello di un sistema bancario tradizionale con un conto corrente.
 
 ![image](assets/en/31.webp)
 
-
-- Livello 1**, si utilizza un portafoglio Bitcoin sul telefono o sul computer, dove si è gli unici detentori dei bitcoin e si possono effettuare facilmente le transazioni. Il suddetto strumento viene definito "hot wallet", perché la chiave privata viene memorizzata su un dispositivo con accesso a Internet. In questo caso, è fondamentale eseguire un backup della frase mnemonica per poter accedere nuovamente ai propri fondi in caso di perdita del telefono o del computer.
+- Livello 1\*\*, si utilizza un portafoglio Bitcoin sul telefono o sul computer, dove si è gli unici detentori dei bitcoin e si possono effettuare facilmente le transazioni. Il suddetto strumento viene definito "hot wallet", perché la chiave privata viene memorizzata su un dispositivo con accesso a Internet. In questo caso, è fondamentale eseguire un backup della frase mnemonica per poter accedere nuovamente ai propri fondi in caso di perdita del telefono o del computer.
 
 Ad esempio, è possibile utilizzare Sparrow Wallet come portafoglio caldo:
 
 https://planb.network/tutorials/wallet/desktop/sparrow-7e9a77c0-013d-4f8e-a811-408b71dc7607
 
-- Livello 2**, si utilizza un portafoglio fisico e si è protetto l'elenco di 12/24 parole. Viene spesso definito "portafoglio freddo" perché le chiavi sono memorizzate su un dispositivo non connesso a Internet. In questo caso, dovrete sempre firmare ogni transazione con il vostro dispositivo, il che rende i vostri fondi meno accessibili su base giornaliera.
+- Livello 2\*\*, si utilizza un portafoglio fisico e si è protetto l'elenco di 12/24 parole. Viene spesso definito "portafoglio freddo" perché le chiavi sono memorizzate su un dispositivo non connesso a Internet. In questo caso, dovrete sempre firmare ogni transazione con il vostro dispositivo, il che rende i vostri fondi meno accessibili su base giornaliera.
 
 Ad esempio, si può utilizzare un Ledger, un Satochip o un Tapsigner:
 
@@ -592,16 +568,14 @@ https://planb.network/tutorials/wallet/hardware/satochip-e9bc81d9-d59b-420d-9672
 https://planb.network/tutorials/wallet/hardware/tapsigner-ab2bcdf9-9509-4908-9a4a-2f2be1e7d5d2
 ![image](assets/en/32.webp)
 
-
-- Livello 3**, si utilizza un portafoglio di livello 1 o 2, ma si aggiunge una passphrase supplementare. In questo caso, è necessario eseguire il backup sia dell'elenco di 12/24 parole **che** della passphrase. Idealmente, queste due informazioni sono memorizzate in due luoghi diversi.
+- Livello 3**, si utilizza un portafoglio di livello 1 o 2, ma si aggiunge una passphrase supplementare. In questo caso, è necessario eseguire il backup sia dell'elenco di 12/24 parole **che\*\* della passphrase. Idealmente, queste due informazioni sono memorizzate in due luoghi diversi.
 
 Per saperne di più sull'uso e sul funzionamento della passphrase BIP39:
 
 https://planb.network/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14-bafdeb1adce7
 ![image](assets/en/33.webp)
 
-
-- Livello 4**, si utilizza un insieme di portafogli per creare un portafoglio "multisig", il che significa che sono necessarie più firme per condurre una transazione. In questo caso, occorre tenere presente che ogni parte del multisig deve essere memorizzata in luoghi diversi. Questo approccio è spesso considerato un uso avanzato di Bitcoin, principalmente per la gestione di grandi quantità e per scopi aziendali.
+- Livello 4\*\*, si utilizza un insieme di portafogli per creare un portafoglio "multisig", il che significa che sono necessarie più firme per condurre una transazione. In questo caso, occorre tenere presente che ogni parte del multisig deve essere memorizzata in luoghi diversi. Questo approccio è spesso considerato un uso avanzato di Bitcoin, principalmente per la gestione di grandi quantità e per scopi aziendali.
 
 ![image](assets/en/34.webp)
 
@@ -623,11 +597,11 @@ La sicurezza dei vostri bitcoin ha un'importanza cruciale e un semplice errore p
 
 Il corso BTC102 vi guiderà in questa fase.
 
-https://planb.network/en/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
+
 ### Questa fase non è uno scherzo!
 
 Quando si configura un portafoglio, il software crea la chiave privata, solitamente rappresentata da un elenco di 12/24 parole (spesso chiamate "frase seme" o "frase mnemonica"): queste parole costituiscono l'accesso ai vostri fondi. Se questa chiave viene rivelata a terzi, i fondi associati devono essere considerati compromessi. Pertanto, quando si configura il proprio portafoglio, è essenziale seguire queste regole:
-
 
 - Coprire tutte le telecamere.
 - Non fotografate l'elenco delle parole.
@@ -659,6 +633,7 @@ Sia i portafogli "freddi" che quelli "caldi" utilizzano il metodo dell'elenco di
 Se poi volete scoprire, passo dopo passo, come creare il vostro portafoglio e ottenere i vostri primi bitcoin, vi consigliamo di seguire anche quest'altro corso:
 
 https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
+
 ## Superare la prova del tempo
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -693,7 +668,6 @@ Allo stesso modo, evitate di condividere apertamente i dettagli del vostro siste
 
 I portafogli Bitcoin sono software che consentono di memorizzare bitcoin e di effettuare transazioni. Ne esistono diversi tipi:
 
-
 - portafogli per cellulari o PC, comodi per piccoli importi e/o spese regolari;
 - portafogli fisici, più adatti a conservare i bitcoin a medio e lungo termine;
 - portafogli multisig, che sono più complessi da gestire e richiedono più firme per eseguire le transazioni.
@@ -701,7 +675,6 @@ I portafogli Bitcoin sono software che consentono di memorizzare bitcoin e di ef
 Quando si crea un portafoglio, è necessario innanzitutto salvare un elenco di 12 o 24 parole su un pezzo di carta o su una piastra metallica. Questa cosiddetta frase mnemonica consente di ripristinare il portafoglio attraverso qualsiasi applicazione di portafoglio Bitcoin. Siate consapevoli che chiunque abbia accesso a questo elenco ha accesso anche ai vostri fondi.
 
 Nel mondo dei Bitcoin, la sovranità finanziaria è strettamente legata alla responsabilità individuale, per cui è essenziale garantire l'accesso ai portafogli e ai backup. A tal fine, è importante seguire alcune linee guida:
-
 
 - Create un piano di successione per garantire che i vostri cari possano recuperare il denaro in caso di problemi.
 - Evitate di lasciare i vostri Bitcoin sulle piattaforme di scambio perché possono essere soggette ad attacchi di hacker.
@@ -733,7 +706,7 @@ Il 3 gennaio 2009, Satoshi ha inaugurato ufficialmente la rete Bitcoin creando i
 
 > "Possiamo vincere un'importante battaglia nella corsa agli armamenti e ottenere una
 > nuovo territorio di libertà per diversi anni" - Satoshi Nakamoto
-![image](assets/en/42.webp)
+> ![image](assets/en/42.webp)
 
 ### Il protocollo Bitcoin prende vita
 
@@ -745,7 +718,7 @@ L'interesse per il Bitcoin è cresciuto rapidamente, portando molte persone a te
 
 Il forum è diventato rapidamente il luogo di discussione preferito dagli utenti di Bitcoin, tanto che da esso sono nati famosi meme e simboli associati a Bitcoin, come il [logo di Bitcoin](https://bitcointalk.org/index.php?topic=64.0), il famoso [Hodl](https://bitcointalk.org/index.php?topic=375643.0), o anche [Pizza day](https://bitcointalk.org/index.php?topic=137.msg1195).
 
-**Il 22 maggio 2010, Laszlo Hanyecz è entrato nella storia offrendo due pizze per 10.000 BTC: è stata la prima volta che i Bitcoin sono stati utilizzati per acquistare beni fisici.
+\*\*Il 22 maggio 2010, Laszlo Hanyecz è entrato nella storia offrendo due pizze per 10.000 BTC: è stata la prima volta che i Bitcoin sono stati utilizzati per acquistare beni fisici.
 
 ![image](assets/en/44.webp)
 
@@ -756,7 +729,7 @@ Nel 2010, quando Bitcoin ha iniziato ad attirare l'attenzione dei media, Satoshi
 > "I governi sono bravi a tagliare le teste di un'azienda centralizzata
 > reti controllate come Napster, ma reti P2P pure come
 > Gnutella e Tor sembrano resistere" - Satoshi Nakamoto
-Nonostante l'assenza di Satoshi, Bitcoin ha continuato a svilupparsi: la storia di Bitcoin viene scritta ogni 10 minuti e il protocollo continua a funzionare ancora oggi come previsto. Indipendentemente da qualsiasi paura, incertezza o dubbio, Bitcoin continua ad andare avanti, con una disponibilità online molto forte. Infatti, secondo questo [sito web](https://bitcoinuptime.com/), Bitcoin ha funzionato e funzionato senza grossi problemi per il 99,988% del tempo da quando è stato creato.
+> Nonostante l'assenza di Satoshi, Bitcoin ha continuato a svilupparsi: la storia di Bitcoin viene scritta ogni 10 minuti e il protocollo continua a funzionare ancora oggi come previsto. Indipendentemente da qualsiasi paura, incertezza o dubbio, Bitcoin continua ad andare avanti, con una disponibilità online molto forte. Infatti, secondo questo [sito web](https://bitcoinuptime.com/), Bitcoin ha funzionato e funzionato senza grossi problemi per il 99,988% del tempo da quando è stato creato.
 
 Per alcuni, Bitcoin è definito un'entità fungina come un [micelio](https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/), mentre altri lo descrivono come un [buco nero](https://dergigi.com/). Che lo si ami o lo si odi, Bitcoin continua a esistere, con il suo ritmo costante di 10 minuti per blocco, come il battito del cuore di un nuovo sistema monetario.
 
@@ -765,7 +738,7 @@ Per saperne di più sugli scritti di Satoshi Nakamoto, si consiglia la lettura d
 ![image](assets/en/45.webp)
 
 > "Il problema principale della moneta convenzionale è la fiducia necessaria per farla funzionare. Ci si deve fidare che la banca centrale non svilisca la moneta, ma la storia delle valute fiat è piena di violazioni di questa fiducia. Le banche devono essere fidate di detenere il nostro denaro e di trasferirlo elettronicamente, ma lo prestano in ondate di bolle di credito con appena una frazione di riserva" - [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
-Ora che abbiamo un po' di background, esaminiamo come funziona una transazione Bitcoin in generale.
+> Ora che abbiamo un po' di background, esaminiamo come funziona una transazione Bitcoin in generale.
 
 ## Transazioni Bitcoin
 
@@ -785,7 +758,7 @@ Per finalizzare la transazione, Bob deve firmarla con la sua chiave privata per 
 
 ![image](assets/en/46.webp)
 
-**Le commissioni sono essenziali per creare un mercato libero per l'inserimento delle transazioni nei blocchi. In effetti, un blocco ha una dimensione di 1 MB (ampliata a 4MB dopo l'aggiornamento di Segwit), quindi il numero di transazioni che possono essere "inserite" in un blocco è limitato a poche migliaia di transazioni per blocco. La dimensione di una transazione dipende dalla sua complessità. Pertanto, le transazioni più complesse comportano in genere commissioni più elevate.
+\*\*Le commissioni sono essenziali per creare un mercato libero per l'inserimento delle transazioni nei blocchi. In effetti, un blocco ha una dimensione di 1 MB (ampliata a 4MB dopo l'aggiornamento di Segwit), quindi il numero di transazioni che possono essere "inserite" in un blocco è limitato a poche migliaia di transazioni per blocco. La dimensione di una transazione dipende dalla sua complessità. Pertanto, le transazioni più complesse comportano in genere commissioni più elevate.
 
 ### Fase 2: propagazione della transazione attraverso i nodi
 
@@ -830,7 +803,6 @@ Vediamo più da vicino come funziona un nodo Bitcoin.
 <chapterId>8533cebc-f799-528b-89df-8d75d4c37f1c</chapterId>
 
 I nodi sono un elemento fondamentale dell'architettura della rete Bitcoin, in quanto svolgono diverse funzioni cruciali:
-
 
 - Mantenere una copia della blockchain di Bitcoin
 - Convalida delle transazioni
@@ -919,7 +891,6 @@ La transazione **coinbase** è sempre la prima a essere inclusa nel blocco: cont
 
 Inizialmente, un miner viene ricompensato quando trova un blocco valido. Più precisamente, viene ricompensato in due modi:
 
-
 - attraverso il sussidio (bitcoin di nuovo conio) incluso nel blocco;
 - attraverso le commissioni di transazione delle transazioni incluse nel blocco.
 
@@ -956,6 +927,7 @@ La teoria dei giochi applicata a Bitcoin elimina i minatori disonesti, che utili
 Se desiderate approfondire l'argomento specifico del mining di Bitcoin, potete consultare il nostro corso MIN 201. Scoprirete il funzionamento e il ruolo della Proof-of-Work, nonché i meccanismi dell'industria del mining. Vi spieghiamo anche come convertire un ASIC in un riscaldatore, consentendovi di estrarre i vostri primi satoshis mentre riscaldate la vostra casa!
 
 https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
+
 ## Bitcoin ed ecologia
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>
@@ -1002,7 +974,7 @@ D'altra parte, i politici hanno solitamente una visione a breve termine e hanno 
 
 Non sanno che il Bitcoin promuove l'uso di energia verde. Ad esempio, le fiamme accese nei siti dei pozzi petroliferi per bruciare il metano e prevenire l'inquinamento possono essere spente dai minatori di Bitcoin, perché il metano può essere convertito in elettricità per alimentare le macchine di mining, a tutto vantaggio dell'ambiente.
 
-**Segui una delle massime di Bitcoin: Non fidarti, verifica di persona!
+\*\*Segui una delle massime di Bitcoin: Non fidarti, verifica di persona!
 
 ### Breve riassunto delle caratteristiche tecniche di Bitcoin
 
@@ -1026,7 +998,7 @@ Il prezzo del Bitcoin è spesso caratterizzato da una notevole volatilità. Il s
 
 ![image](assets/en/67.webp)
 
-In parole povere, gli esseri umani tendono a comprare tutto in una volta e a vendere tutto in una volta. **Bitcoin non è immune dalla natura umana
+In parole povere, gli esseri umani tendono a comprare tutto in una volta e a vendere tutto in una volta. \*\*Bitcoin non è immune dalla natura umana
 
 ### Comprendere le ondate di adozione
 
@@ -1034,21 +1006,17 @@ Sia lo sviluppo che l'evoluzione di Bitcoin sono in gran parte legati ai diversi
 
 ![image](assets/en/68.webp)
 
-
 - I credenti:
 
 I primi utenti del Bitcoin erano principalmente tecnofili, cypherpunk, libertari e appassionati di oro. Questi gruppi sono stati attratti dal Bitcoin per il suo valore di denaro elettronico privo di fiducia, per la sua resistenza alla censura e per la sua politica monetaria trasparente e immutabile.
-
 
 - Il dark web e i criminali
 
 In seguito, l'uso del Bitcoin si è esteso ai mercati del dark web come Silk Road, in gran parte a causa della sua natura incontrollabile e pseudonima, che ha attirato anche individui al di fuori di quella piattaforma, comprese alcune persone impegnate in attività criminali. Tuttavia, è importante sottolineare che è l'applicazione di uno strumento, piuttosto che lo strumento stesso, a determinare la legalità. L'uso illegale di Bitcoin non rende intrinsecamente qualcuno un criminale; piuttosto, sono le azioni specifiche che possono essere classificate come illegali. Ad esempio, l'utilizzo di Bitcoin per l'acquisto di determinati farmaci può essere legale o illegale a seconda delle norme che regolano il territorio in cui avviene la transazione.
 
-
 - La frenesia delle ICO e l'arrivo del pubblico.
 
 Il 2017 è stato caratterizzato da un'importante bolla speculativa nel mondo delle criptovalute, soprattutto con il lancio di migliaia di offerte iniziali di monete (ICO). Tuttavia, molte di queste nuove criptovalute non avevano alcuno sviluppo o utilità concreta e sono rapidamente scomparse. La bolla del 2017 è stata seguita da una forte correzione nel 2018-2019.
-
 
 - La bolla NFT e la DeFi
 
@@ -1104,7 +1072,6 @@ Per accettare Bitcoin, è necessario studiare le diverse soluzioni disponibili e
 
 Tratteremo questo argomento in dettaglio in un altro corso, ma per non complicare le cose, possiamo considerare diverse categorie di aziende e quindi le relative soluzioni.
 
-
 - Una semplice soluzione online: OpenNode
 
 https://planb.network/tutorials/merchant/merchant/open-node-e69a0c1c-47f7-4932-8494-e6f26c3c9784
@@ -1123,18 +1090,16 @@ https://planb.network/tutorials/merchant/merchant/swiss-bitcoin-pay-2-a78b057e-e
 
 Il Bitcoin è diventato un importante asset finanziario, soprattutto grazie alla sua offerta limitata e alla crescente domanda. Tuttavia, l'acquisto di Bitcoin comporta dei rischi che richiedono particolare attenzione. Si consiglia pertanto di effettuare ricerche e di approfondire l'argomento per acquisire familiarità con la tecnologia prima di investire qualsiasi fondo.
 
-
 - Investite solo ciò che potete permettervi di perdere.
 - Il Bitcoin è un'attività finanziaria altamente volatile e il suo prezzo può scendere fino a 0.
 - I risultati passati non sono un indicatore affidabile dei risultati futuri.
 - Se necessario, contattate il vostro consulente finanziario.
 
-*il *Plan ₿ Network non fornisce alcuna consulenza sugli investimenti e nulla di quanto qui riportato deve essere considerato come tale**
+*il *Plan ₿ Network non fornisce alcuna consulenza sugli investimenti e nulla di quanto qui riportato deve essere considerato come tale\*\*
 
 ### Mini lista di controllo prima di fare il grande passo
 
 Prima di tuffarsi nell'acquisto di Bitcoin, assicuratevi di avere:
-
 
 - Un portafoglio sicuro.
 - Una solida conoscenza di Bitcoin.
@@ -1145,12 +1110,10 @@ Se l'argomento non è ancora chiaro, sappiate che il corso BTC102 vi guiderà ne
 
 In concreto, ci sono due domande da porsi:
 
-
 - Dovete adottare una strategia di acquisizione graduale o una strategia di acquisizione "tutto in una volta"?
 - Dovete utilizzare una piattaforma regolamentata o non regolamentata?
 
 ### Strategie di acquisizione
-
 
 - Costo medio del dollaro
 
@@ -1159,7 +1122,6 @@ Una strategia graduale prevede acquisti ricorrenti, ovvero l'acquisto di piccole
 ![image](assets/en/74.webp)
 
 **Attenzione agli UTXO**: Ricordatevi di consolidare di tanto in tanto gli UTXO nei vostri portafogli. Questa pratica è essenziale per gestire efficacemente i vostri bitcoin ed evitare inutili commissioni durante le transazioni.
-
 
 - Acquisto spontaneo
 
@@ -1171,13 +1133,11 @@ In questo caso, è necessario fare attenzione e controllare le proprie emozioni,
 
 Esistono diversi modi per acquisire bitcoin, ognuno dei quali è soggetto a una serie di normative che possono variare a seconda della giurisdizione. Alcune piattaforme richiedono l'identificazione per la verifica (KYC), mentre altre non lo fanno. Pertanto, è fondamentale comprendere le normative associate a ciascuna piattaforma.
 
-
 - Piattaforme DCA
 
 Come abbiamo introdotto in precedenza, un metodo comune per accumulare bitcoin è il Dollar Cost Averaging (DCA), che prevede l'acquisto regolare di piccole quantità. Diverse piattaforme offrono questo servizio, come quelle elencate nella nostra [pagina dedicata](https://planb.network/tutorials/exchange). Oltre alla semplicità di impostare un DCA, i prelievi sul portafoglio sono generalmente automatici, il che significa che avrete sempre il controllo del vostro patrimonio.
 
 Oggi quasi tutte le soluzioni DCA sono relativamente efficienti e hanno tariffe quasi simili, quindi la scelta dipenderà più che altro dalla disponibilità nel vostro Paese.
-
 
 - Piattaforme di intermediazione
 
@@ -1204,7 +1164,6 @@ Dopo l'acquisto, è consigliabile ritirare immediatamente i bitcoin dalle piatta
 ### Soluzioni non-KYC
 
 Inoltre, esistono diversi [marketplace](https://planb.network/tutorials/exchange) dove acquistare e vendere bitcoin in uno scambio peer-to-peer. In generale, è bene considerare quanto segue:
-
 
 - Bancomat Bitcoin
 - Incontri fisici con altri appassionati di bitcoin
@@ -1239,6 +1198,7 @@ In conclusione, vi invitiamo a riflettere su questa nuova rivoluzione monetaria.
 Se volete ampliare le vostre conoscenze sul Bitcoin, questo è il momento giusto: un gran numero di autori, pensatori e saggisti ha creato contenuti educativi sul Bitcoin. Negli ultimi anni, abbiamo elencato e categorizzato queste opere per offrire una [biblioteca di risorse](https://planb.network/resources) ai più curiosi tra voi. In questa sezione troverete i migliori podcast, siti web, articoli, tutorial, libri e altri contenuti.
 
 > "Penso che Internet sarà una delle forze principali per ridurre il ruolo del governo. L'unica cosa che manca, ma che sarà presto sviluppata, è un e-cash affidabile - un metodo con cui su Internet si possono trasferire fondi da A a B senza che A conosca B o B conosca A" - Previsione di Milton Friedman nel 1999
+
 # Il futuro del Bitcoin: la rete di fulmini
 
 <partId>899fd35e-39e6-5a25-a73e-6fed6e725094</partId>
@@ -1286,12 +1246,12 @@ In sintesi, Lightning Network è un promettente tentativo di implementare un sis
 Se volete andare oltre questa introduzione e comprendere tutti i meccanismi della rete Lightning, vi consigliamo di seguire questo eccellente corso di Fanis Michalakis sull'argomento:
 
 https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
+
 ## Casi d'uso della rete Lightning
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>
 
 Come abbiamo appena visto, il protocollo Bitcoin, per quanto rivoluzionario, deve affrontare sfide significative in termini di scalabilità necessaria per gestire tutte le transazioni quotidiane. Per risolvere questi problemi è stata proposta la Lightning Network, che da allora si è sviluppata in diverse implementazioni, tutte interoperabili:
-
 
 - Core-lightning di Blockstream
 - Eclair di Acinq
@@ -1333,14 +1293,12 @@ Se prendiamo ad esempio l'IA, queste tecnologie hanno già superato o si stanno 
 
 Dobbiamo porci alcune domande essenziali:
 
-
 - Come gestire una società in cui l'80% dei posti di lavoro scomparirà?
 - Come rivitalizzare una popolazione?
 - C'è bisogno di tanti insegnanti?
 - Le conseguenze geopolitiche, politiche e umane dell'automazione non sono sufficientemente discusse.
 
 L'informatica, Internet, lo streaming e la VR cambieranno l'istruzione. Potremmo avere un corso universale per tutti gli studenti francesi gestito dal governo e da insegnanti che non tengono più lezioni ma accompagnano direttamente gli studenti. I bambini potrebbero entrare in un mondo virtuale ed essere accompagnati nell'apprendimento della storia.
-
 
 - Qual è il confine tra un insegnante e una personificazione dell'intelligenza artificiale?
 - Come possiamo garantire una società che vive nella prosperità?
@@ -1352,7 +1310,6 @@ Qual è il legame con il Bitcoin? Così come Internet ha rivoluzionato le modali
 ### Qual è il futuro della finanza?
 
 Queste considerazioni sollevano anche questioni su chi dovrebbe detenere, autorizzare e tracciare il denaro che utilizziamo. L'obiettivo è decidere tra un sistema chiuso con leader non eletti o un sistema aperto senza terze parti fidate, dove prevale la neutralità.
-
 
 - La moneta è una forma di proprietà privata?
 - Si possono bloccare gli account dei manifestanti senza un ordine della Corte Suprema?
@@ -1367,7 +1324,6 @@ La questione di chi debba controllare il sistema bancario è cruciale perché le
 ### È in gioco la nostra libertà.
 
 La censura deve anche essere messa in discussione: chi ha le conoscenze per decidere cosa dovrebbe essere censurato o meno? I media hanno cambiato la loro posizione su certe informazioni e quelle che prima erano censurate oggi non lo sono più.
-
 
 - Chi decide cosa è censura o propaganda?
 - Chi ha la mano divina sul nostro sistema?

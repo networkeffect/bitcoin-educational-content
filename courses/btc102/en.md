@@ -163,9 +163,9 @@ In addition to cryptocurrency scams and financial scams, the main reason for los
 - Keep your computer up to date and free of malware,
 - Value your privacy by using dedicated tools (Signal, Tor, ProtonMail).
 
-If this topic is completely unknown to you, the SCU 101 course  can be interesting to delve into it in detail.
+If this topic is completely unknown to you, the SCU 101 course can be interesting to delve into it in detail.
 
-https://planb.network/en/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 It is crucial to keep your computer in optimal working condition, whether you are interested in Bitcoin or not. An update is not only there to add new features: it also fixes bugs and improves the security of your software. So make sure to:
 
