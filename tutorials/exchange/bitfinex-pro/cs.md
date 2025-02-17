@@ -157,7 +157,7 @@ Bitfinex také nabízí možnost vkladu a výběru prostřednictvím sítě Ligh
 
 Pokud máte o síť Lightning Network zájem, máme pro vás také kompletní školení, které vám pomůže pochopit, jak funguje:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Nákup a prodej bitcoinů na Bitfinexu
 
 Bitfinex nabízí různé způsoby obchodování. Pro snadné používání si vyberte klasický spotový trh, známý také jako "*Trading*" nebo "*Exchange*". Zde můžete zadávat příkazy k nákupu nebo prodeji za tržní cenu nebo nastavit limitní cenu.

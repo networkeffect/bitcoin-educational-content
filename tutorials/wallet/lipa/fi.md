@@ -10,7 +10,7 @@ Lightning-lompakoita, kuten kaikkia mobiililompakoita, pidetään "kuumina" lomp
 
 Jos haluat oppia lisää Lightning-verkosta ja ymmärtää, miten se toimii teknisesti, suosittelen osallistumaan tälle kurssille:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Tässä oppaassa tutustumme **Lipaan**, yksinkertaiseen ja tehokkaaseen Sveitsissä kehitettyyn Lightning-lompakkoon.
 
 ## Esittelyssä Lipa

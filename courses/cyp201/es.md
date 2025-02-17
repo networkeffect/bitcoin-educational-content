@@ -1125,7 +1125,7 @@ Si esta bandera de sighash se integra en Bitcoin, permitirá el uso de covenants
 
 Para profundizar tu conocimiento sobre la Red Lightning, después del curso CYP201, te recomiendo altamente el curso LNP201 por Fanis Michalakis, que cubre el tema en detalle:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 En la siguiente parte, propongo descubrir cómo funciona la frase mnemónica en la base de tu billetera Bitcoin.
 

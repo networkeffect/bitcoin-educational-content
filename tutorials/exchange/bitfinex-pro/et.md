@@ -157,7 +157,7 @@ Bitfinex pakub ka Lightning Networki kaudu sisse- ja väljamaksevõimalusi, mis 
 
 Kui olete Lightning Networkist huvitatud, on meil ka täielik koolituskursus, mis aitab teil mõista, kuidas see toimib:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Bitcoinide ostmine ja müümine Bitfinexis
 
 Bitfinex pakub erinevaid kauplemisrežiime. Kasutamise lihtsustamiseks valige klassikaline hetketurg, mida tuntakse ka kui "*Trading*" või "*Exchange*". Siin saate esitada ostu- või müügikorraldusi turuhinnaga või määrata piirhinna.

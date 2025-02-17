@@ -268,7 +268,7 @@ https://planb.network/courses/his201
 > 「政府の手を離れる前に、もう二度と良いお金を手にすることはないだろう。政府の手から暴力的に引き離すことができないのであれば、私たちにできることは、何かずる賢く回りくどい方法で、政府が止められないようなものを導入することだ。
 このコースでは、ビットコインの出現を高く評価したであろう19世紀フランスの思想家、フレデリック・バスティアの生涯と思想をたどります：
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## ハイパーインフレ
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ KYCはビットコイン業界において重要な話題であることを認�
 
 この紹介にとどまらず、ライトニング・ネットワークのすべての仕組みを理解したい場合は、ファニス・ミハラキスによるこのテーマに関する素晴らしいコースを受講することをお勧めする：
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## ライトニング・ネットワークの使用例
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

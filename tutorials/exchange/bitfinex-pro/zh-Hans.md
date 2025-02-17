@@ -157,7 +157,7 @@ Bitfinex 还通过闪电网络提供存款和取款选项，使交易速度更�
 
 如果您对闪电网络感兴趣，我们还有完整的培训课程帮助您了解它的工作原理：
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - 在 Bitfinex 上买卖比特币
 
 Bitfinex 提供多种交易模式。为方便使用，请选择经典的现货市场，也称为 "*Trading*"或 "*Exchange*"。在这里，您可以按市价下达买入或卖出订单，也可以设置限价。

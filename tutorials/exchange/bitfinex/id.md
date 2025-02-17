@@ -165,7 +165,7 @@ Bitfinex juga menawarkan opsi setoran dan penarikan melalui Lightning Network, m
 
 Jika Anda tertarik dengan Lightning Network, kami juga memiliki kursus pelatihan lengkap untuk membantu Anda memahami cara kerjanya:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Setelah membeli bitcoin pertama Anda, Anda tentu saja memiliki opsi untuk meninggalkannya di platform, tetapi saya sangat menyarankan untuk mentransfernya ke dompet Anda sendiri dalam penitipan mandiri. Jika Anda belum tahu cara menggunakan dompet Bitcoin, saya mengundang Anda untuk menjelajahi [bagian "Dompet" di Plan ₿ Network] (https://planb.network/tutorials/wallet).
 
 ## 6 - Membeli dan menjual bitcoin di Bitfinex

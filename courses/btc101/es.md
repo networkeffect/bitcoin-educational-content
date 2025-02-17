@@ -268,7 +268,7 @@ Podemos concluir este capítulo con la cita del Premio Nobel F.A Hayek en 1984:
 > "No creo que debamos volver a tener un buen dinero antes de que se lo quitemos de las manos al gobierno. Si no podemos quitarlas violentamente de las manos del gobierno, todo lo que podemos hacer es por alguna manera astuta o indirecta introducir algo que ellos no puedan parar."
 Para aprender más sobre las falacias económicas y la libertad, le invitamos a descubrir nuestro curso ECO 102, que recorre la vida y las ideas de Frédéric Bastiat, un pensador francés del siglo XIX que seguramente habría apreciado la aparición de Bitcoin:
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Hiperinflación
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ En resumen, Lightning Network es un intento prometedor de desplegar un sistema d
 
 Si quieres ir más allá de esta introducción y entender todo el funcionamiento de la Red Lightning, te recomendamos que sigas este excelente curso de Fanis Michalakis sobre el tema:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## Casos de uso de la Red de Rayos
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

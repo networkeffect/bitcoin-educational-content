@@ -165,7 +165,7 @@ Bitfinex bietet auch Ein- und Auszahlungsmöglichkeiten über das Lightning Netw
 
 Wenn Sie sich für das Lightning Network interessieren, bieten wir Ihnen einen kompletten Schulungskurs an, damit Sie verstehen, wie es funktioniert:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Nachdem Sie Ihre ersten Bitcoins gekauft haben, haben Sie natürlich die Möglichkeit, sie auf der Plattform zu belassen, aber ich empfehle Ihnen dringend, sie in Ihr eigenes Wallet zu transferieren und selbst zu verwahren. Wenn Sie noch nicht wissen, wie man eine Bitcoin-Wallet benutzt, lade ich Sie ein, [den Abschnitt "Wallet" auf Plan ₿ Network](https://planb.network/tutorials/wallet) zu erkunden.
 
 ## 6 - Kauf und Verkauf von Bitcoins auf Bitfinex

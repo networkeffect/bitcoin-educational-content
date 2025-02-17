@@ -157,7 +157,7 @@ Bitfinex tilbyr også innskudds- og uttaksmuligheter via Lightning Network, noe 
 
 Hvis du er interessert i Lightning Network, har vi også et komplett opplæringskurs som hjelper deg med å forstå hvordan det fungerer:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Kjøp og salg av bitcoins på Bitfinex
 
 Bitfinex tilbyr ulike handelsmoduser. For å gjøre det enklere å bruke, velger du det klassiske spotmarkedet, også kjent som "*Trading*" eller "*Exchange*". Her kan du legge inn kjøps- eller salgsordrer til markedspris, eller sette en grensepris.

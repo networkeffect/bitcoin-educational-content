@@ -1071,7 +1071,7 @@ Jika bendera sighash ini diintegrasikan ke dalam Bitcoin, ini akan memungkinkan 
 
 Untuk memperdalam pengetahuan Anda tentang Lightning Network, setelah kursus CYP201, saya sangat merekomendasikan kursus LNP201 oleh Fanis Michalakis, yang membahas topik ini secara detail:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Di bagian selanjutnya, saya mengusulkan untuk menemukan bagaimana frasa mnemonik di dasar dompet Bitcoin Anda bekerja.
 

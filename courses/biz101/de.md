@@ -253,7 +253,7 @@ Bitcoin fordert uns heraus, die Natur des Geldes selbst zu überdenken. Könnten
 
 Für weitere Informationen über Bitcoin, seine Geschichte, seine Funktionsweise und seine Verwendung empfehle ich auch diesen anderen umfassenden Kurs:
 
-https://planb.network/courses/btc101
+https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 ## Einführung in das Lightning Network
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
@@ -334,7 +334,7 @@ Das Lightning Network ist aufgrund seiner Geschwindigkeit und der Endgültigkeit
 
 Für weitere Informationen über die technische Funktionsweise des Lightning Network empfehle ich auch diesen anderen umfassenden Kurs zu besuchen:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 # Bitcoin in der Staatskasse
 
 <partId>bf45c1e8-af97-4b6b-af42-2866f493b14d</partId>
@@ -453,9 +453,9 @@ Diese Denker prägten die Vorstellung, dass staatliche Eingriffe die Märkte ver
 
 Für weitere Informationen zu diesem Thema:
 
-https://planb.network/courses/eco201
-https://planb.network/courses/phi201
-https://planb.network/courses/eco102
+https://planb.network/courses/d955dd28-b7c6-4ba2-a123-d932e21d148f
+https://planb.network/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Bitcoin in der Staatskasse halten
 
 <chapterId>89622a40-d14f-4c37-a075-8e7e1731ec26</chapterId>
@@ -1024,7 +1024,7 @@ Ein Beispiel aus der Praxis: ein mittelgroßes E-Commerce-Geschäft, das sich au
 
 Wenn Sie sich eingehender mit den Besonderheiten der Implementierung und den praktischen Konfigurationen von BTC Pay Server befassen möchten, besuchen Sie den folgenden Kurs:
 
-https://planb.network/courses/btc305
+https://planb.network/courses/6fc12131-e464-4515-9d3f-9255365d5fa1
 ## Das Unternehmen
 
 <chapterId>80fb2659-81ca-4a11-b492-72c7ae5774f9</chapterId>

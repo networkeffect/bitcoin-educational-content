@@ -165,7 +165,7 @@ Bitfinex také nabízí možnost vkladu a výběru prostřednictvím sítě Ligh
 
 Pokud máte o síť Lightning Network zájem, máme pro vás také kompletní školení, které vám pomůže pochopit, jak funguje:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Po zakoupení prvních bitcoinů máte samozřejmě možnost nechat je na platformě, ale důrazně doporučuji převést je do vlastní peněženky ve vlastní úschově. Pokud ještě nevíte, jak bitcoinovou peněženku používat, zvu vás k prozkoumání [sekce "Peněženka" na webu Plan ₿ Network](https://planb.network/tutorials/wallet).
 
 ## 6 - Nákup a prodej bitcoinů na Bitfinexu

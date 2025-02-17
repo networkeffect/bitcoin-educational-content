@@ -10,7 +10,7 @@ As carteiras Lightning, tal como todas as carteiras móveis, são consideradas c
 
 Se quiser saber mais sobre a rede Lightning e perceber como funciona tecnicamente, recomendo que faça este curso:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Neste tutorial, vamos dar uma olhada na **Lipa**, uma carteira Lightning simples e eficaz desenvolvida na Suíça.
 
 ## Apresentação da Lipa

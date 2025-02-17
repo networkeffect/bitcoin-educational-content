@@ -157,7 +157,7 @@ Bitfinex bietet auch Ein- und Auszahlungsmöglichkeiten über das Lightning Netw
 
 Wenn Sie sich für das Lightning Network interessieren, bieten wir Ihnen einen kompletten Schulungskurs an, damit Sie verstehen, wie es funktioniert:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Kauf und Verkauf von Bitcoins auf Bitfinex
 
 Bitfinex bietet verschiedene Handelsmodi an. Für eine einfache Nutzung entscheiden Sie sich für den klassischen Spotmarkt, auch bekannt als "*Trading*" oder "*Exchange*". Hier können Sie Kauf- oder Verkaufsaufträge zum Marktpreis erteilen oder einen Limitpreis festlegen.

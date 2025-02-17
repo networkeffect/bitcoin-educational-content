@@ -253,7 +253,7 @@ Bitcoin nos reta a reconsiderar la naturaleza misma del dinero. ¿Podría explic
 
 Para más información sobre Bitcoin, su historia, su funcionamiento y su uso, también sugiero seguir este otro curso completo:
 
-https://planb.network/courses/btc101
+https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 ## Introducción a la Red del Rayo
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
@@ -334,7 +334,7 @@ La Lightning Network es ideal para pagos con Bitcoin en tiendas físicas u onlin
 
 Para más información sobre el funcionamiento técnico de la Red Lightning, también sugiero seguir este otro curso exhaustivo:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 # Bitcoin en tesorería
 
 <partId>bf45c1e8-af97-4b6b-af42-2866f493b14d</partId>
@@ -453,9 +453,9 @@ Estos pensadores forjaron la idea de que la intervención estatal distorsiona lo
 
 Para más información sobre este tema:
 
-https://planb.network/courses/eco201
-https://planb.network/courses/phi201
-https://planb.network/courses/eco102
+https://planb.network/courses/d955dd28-b7c6-4ba2-a123-d932e21d148f
+https://planb.network/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Mantener bitcoin en tesorería
 
 <chapterId>89622a40-d14f-4c37-a075-8e7e1731ec26</chapterId>
@@ -1024,7 +1024,7 @@ En cuanto a ejemplos reales, pensemos en una tienda de comercio electrónico de 
 
 Para profundizar en los detalles de implementación y explorar configuraciones prácticas de BTC Pay Server, consulte el siguiente curso:
 
-https://planb.network/courses/btc305
+https://planb.network/courses/6fc12131-e464-4515-9d3f-9255365d5fa1
 ## La empresa
 
 <chapterId>80fb2659-81ca-4a11-b492-72c7ae5774f9</chapterId>

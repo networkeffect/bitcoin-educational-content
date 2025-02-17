@@ -1865,7 +1865,7 @@ Lightning Network er et desentralisert nettverk av betalingskanaler (eller _stat
 
 Hvis du vil ha mer informasjon om hvordan Lightning fungerer, anbefaler jeg at du tar dette andre kurset:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 #### Multiprotokollforpliktelse - MPC
 
 Multi Protocol Commitment (MPC) refererer til Merkle-tre-strukturen som brukes i RGB for å inkludere flere **Transition Bundles** fra ulike kontrakter i en enkelt Bitcoin-transaksjon. Tanken er å gruppere flere forpliktelser (som potensielt tilsvarer ulike kontrakter eller ulike aktiva) i ett enkelt ankerpunkt for å optimalisere opptaket av blokkplass.
@@ -3305,7 +3305,7 @@ I virkeligheten gjør Lightning Network det mulig å dirigere betalinger via fle
 
 Driften av RGB på Lightning må derfor vurderes parallelt med driften av selve Lightning-nettverket. Hvis du ønsker å fordype deg i dette emnet, anbefaler jeg at du tar en titt på dette andre omfattende kurset:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ### RGB-kodekart
 
 Før jeg går videre til neste avsnitt, vil jeg til slutt gi deg en oversikt over koden som brukes i RGB. Protokollen er basert på et sett med Rust-biblioteker og spesifikasjoner med åpen kildekode. Her er en oversikt over de viktigste repositoriene og crates:

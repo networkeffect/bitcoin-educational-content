@@ -165,7 +165,7 @@ Bitfinex also offers deposit and withdrawal options via the Lightning Network, e
 
 If you're interested in the Lightning Network, we also have a complete training course to help you understand how it works:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 After purchasing your first bitcoins, you obviously have the option of leaving them on the platform, but I strongly recommend transferring them to your own wallet in self-custody. If you don't yet know how to use a Bitcoin wallet, I invite you to explore [the "Wallet" section on Plan ₿ Network](https://planb.network/tutorials/wallet).
 
 ## 6 - Buying and selling bitcoins on Bitfinex

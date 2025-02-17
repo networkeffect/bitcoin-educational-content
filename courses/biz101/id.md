@@ -253,7 +253,7 @@ Bitcoin menantang kita untuk mempertimbangkan kembali sifat uang itu sendiri. Da
 
 Untuk informasi lebih lanjut tentang Bitcoin, sejarahnya, cara kerjanya, dan penggunaannya, saya juga menyarankan untuk mengikuti kursus komprehensif lainnya:
 
-https://planb.network/courses/btc101
+https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 ## Pengantar ke Jaringan Lightning
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
@@ -334,7 +334,7 @@ Lightning Network sangat ideal untuk pembayaran Bitcoin di toko fisik atau onlin
 
 Untuk informasi lebih lanjut mengenai cara kerja teknis Lightning Network, saya juga menyarankan untuk mengikuti kursus komprehensif lainnya:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 # Bitcoin dalam perbendaharaan
 
 <partId>bf45c1e8-af97-4b6b-af42-2866f493b14d</partId>
@@ -453,9 +453,9 @@ Para pemikir ini membentuk gagasan bahwa intervensi negara mendistorsi pasar dan
 
 Untuk informasi lebih lanjut tentang topik ini:
 
-https://planb.network/courses/eco201
-https://planb.network/courses/phi201
-https://planb.network/courses/eco102
+https://planb.network/courses/d955dd28-b7c6-4ba2-a123-d932e21d148f
+https://planb.network/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Menyimpan bitcoin dalam bentuk treasury
 
 <chapterId>89622a40-d14f-4c37-a075-8e7e1731ec26</chapterId>
@@ -1024,7 +1024,7 @@ Untuk contoh di dunia nyata, pertimbangkan sebuah toko e-commerce berukuran seda
 
 Untuk mempelajari lebih dalam tentang implementasi spesifik dan menjelajahi konfigurasi langsung BTC Pay Server, lihat kursus berikut ini:
 
-https://planb.network/courses/btc305
+https://planb.network/courses/6fc12131-e464-4515-9d3f-9255365d5fa1
 ## The Enterprise
 
 <chapterId>80fb2659-81ca-4a11-b492-72c7ae5774f9</chapterId>

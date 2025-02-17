@@ -1095,7 +1095,7 @@ Se questa flag sighash viene integrata in Bitcoin, consentirà l'uso di covenant
 
 Per approfondire la tua conoscenza della Lightning Network, dopo il corso CYP201, ti consiglio vivamente il corso LNP201 di Fanis Michalakis, che copre l'argomento in dettaglio:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Nella prossima parte, propongo di scoprire come funziona la frase mnemonica alla base del tuo portafoglio Bitcoin.
 

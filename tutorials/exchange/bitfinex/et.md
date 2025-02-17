@@ -165,7 +165,7 @@ Bitfinex pakub ka Lightning Networki kaudu sisse- ja väljamaksevõimalusi, mis 
 
 Kui olete Lightning Networkist huvitatud, on meil ka täielik koolituskursus, mis aitab teil mõista, kuidas see toimib:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Pärast esimeste bitcoinide ostmist on teil loomulikult võimalus need platvormile jätta, kuid ma soovitan tungivalt kanda need üle oma rahakotti, mis on ise hoiul. Kui te ei tea veel, kuidas Bitcoini rahakotti kasutada, kutsun teid üles uurima [Plan ₿ Networki jaotist "Rahakott"](https://planb.network/tutorials/wallet).
 
 ## 6 - Bitcoinide ostmine ja müümine Bitfinexis

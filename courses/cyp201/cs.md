@@ -1068,7 +1068,7 @@ Pokud bude tento příznak sighash integrován do Bitcoinu, umožní použití c
 
 Pro prohloubení vašich znalostí o Lightning Network, po kurzu CYP201, vřele doporučuji kurz LNP201 od Fanise Michalakise, který téma podrobně pokrývá:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 V další části navrhuji objevit, jak funguje mnemonická fráze, která je základem vaší Bitcoin peněženky.
 

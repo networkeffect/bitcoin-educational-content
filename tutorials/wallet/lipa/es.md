@@ -10,7 +10,7 @@ Los monederos Lightning, como todos los monederos móviles, se consideran monede
 
 Si quieres saber más sobre la red Lightning y entender cómo funciona técnicamente, te recomiendo que sigas este curso:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 En este tutorial, echaremos un vistazo a **Lipa**, un monedero Lightning sencillo y eficaz desarrollado en Suiza.
 
 ## Presentación de Lipa

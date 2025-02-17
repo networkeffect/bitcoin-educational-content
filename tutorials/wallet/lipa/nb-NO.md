@@ -10,7 +10,7 @@ Lynlommebøker, som alle mobile lommebøker, regnes som "varme" lommebøker ford
 
 Hvis du vil lære mer om Lightning-nettverket og forstå hvordan det fungerer rent teknisk, anbefaler jeg at du tar dette kurset:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 I denne veiledningen tar vi en titt på **Lipa**, en enkel og effektiv lynlommebok utviklet i Sveits.
 
 ## Vi presenterer Lipa

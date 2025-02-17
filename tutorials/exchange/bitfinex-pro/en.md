@@ -157,7 +157,7 @@ Bitfinex also offers deposit and withdrawal options via the Lightning Network, e
 
 If you're interested in the Lightning Network, we also have a complete training course to help you understand how it works:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Buying and selling bitcoins on Bitfinex
 
 Bitfinex offers various trading modes. For ease of use, opt for the classic spot market, also known as "*Trading*" or "*Exchange*". Here, you can place buy or sell orders at the market price, or set a limit price.

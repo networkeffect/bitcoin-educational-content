@@ -268,7 +268,7 @@ Voimme päättää tämän luvun lainaukseen, jonka Nobel-palkinnon voittaja F. 
 > "En usko, että meillä pitäisi olla enää koskaan kunnon rahaa, ennen kuin otamme asian pois hallituksen käsistä. Jos emme voi ottaa niitä väkivaltaisesti pois hallituksen käsistä, voimme vain ottaa käyttöön jollakin ovelalla tai kiertoteitse jotain, mitä he eivät voi estää."
 Jos haluat oppia lisää taloudellisista virheistä ja vapaudesta, kutsumme sinut tutustumaan ECO 102 -kurssillemme, jossa käydään läpi 1800-luvun ranskalaisen ajattelijan Frédéric Bastiat'n elämää ja ajatuksia, ja hän olisi varmasti arvostanut Bitcoinin syntyä:
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Hyperinflaatio
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ Yhteenvetona voidaan todeta, että Lightning Network on lupaava yritys ottaa kä
 
 Jos haluat mennä tätä johdantoa pidemmälle ja ymmärtää Lightning-verkon kaikki toiminnot, suosittelemme Fanis Michalakisin erinomaista kurssia aiheesta:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## Salamaverkon käyttötapaukset
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

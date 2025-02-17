@@ -157,7 +157,7 @@ Bitfinex juga menawarkan opsi setoran dan penarikan melalui Lightning Network, m
 
 Jika Anda tertarik dengan Lightning Network, kami juga memiliki kursus pelatihan lengkap untuk membantu Anda memahami cara kerjanya:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Membeli dan menjual bitcoin di Bitfinex
 
 Bitfinex menawarkan berbagai mode perdagangan. Untuk kemudahan penggunaan, pilihlah pasar spot klasik, yang juga dikenal sebagai "*Trading*" atau "*Exchange*". Di sini, Anda dapat menempatkan pesanan beli atau jual pada harga pasar, atau menetapkan harga batas.

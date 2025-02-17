@@ -268,7 +268,7 @@ Vi kan avslutte dette kapittelet med et sitat fra nobelprisvinneren F.A. Hayek i
 > "Jeg tror ikke at vi noen gang skal få gode penger igjen før vi tar dem ut av myndighetenes hender. Hvis vi ikke kan ta dem ut av statens hender med vold, er det eneste vi kan gjøre å innføre noe de ikke kan stoppe på en eller annen lur eller omvei."
 Hvis du vil lære mer om økonomiske feilslutninger og frihet, inviterer vi deg til å oppdage ECO 102-kurset vårt, som tar for seg livet og ideene til Frédéric Bastiat, en fransk 1800-tallstenker som helt sikkert ville ha satt pris på fremveksten av Bitcoin:
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Hyperinflasjon
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ Oppsummert er Lightning Network et lovende forsøk på å implementere et effekt
 
 Hvis du ønsker å gå lenger enn denne introduksjonen og forstå hvordan Lightning Network fungerer, anbefaler vi at du tar dette utmerkede kurset av Fanis Michalakis om emnet:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## Brukstilfeller for Lightning Network
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

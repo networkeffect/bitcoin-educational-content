@@ -1103,7 +1103,7 @@ Nếu cờ sighash này được tích hợp vào Bitcoin, nó sẽ cho phép s�
 
 Để mở rộng kiến thức về Mạng Lưới Lightning, sau khóa học CYP201, tôi rất khuyên bạn nên tham gia khóa học LNP201 của Fanis Michalakis, nơi đề cập đến chủ đề này một cách chi tiết:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Trong phần tiếp theo, tôi đề xuất khám phá cách hoạt động của cụm từ ghi nhớ tạo nên ví Bitcoin của bạn.
 

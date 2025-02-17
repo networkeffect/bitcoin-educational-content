@@ -1118,7 +1118,7 @@ Se essa bandeira sighash for integrada ao Bitcoin, ela permitirá o uso de coven
 
 Para aprofundar seu conhecimento sobre a Lightning Network, após o curso CYP201, eu recomendo fortemente o curso LNP201 por Fanis Michalakis, que aborda o tópico em detalhes:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Na próxima parte, proponho descobrir como funciona a frase mnemônica na base da sua carteira Bitcoin.
 

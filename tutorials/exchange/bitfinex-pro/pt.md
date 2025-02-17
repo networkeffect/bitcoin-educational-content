@@ -157,7 +157,7 @@ A Bitfinex também oferece opções de depósito e levantamento através da Ligh
 
 Se estiver interessado na Lightning Network, também temos um curso de formação completo para o ajudar a compreender o seu funcionamento:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Comprar e vender bitcoins na Bitfinex
 
 A Bitfinex oferece vários modos de negociação. Para facilitar o uso, opte pelo clássico mercado à vista, também conhecido como "*Trading*" ou "*Exchange*". Aqui, pode colocar ordens de compra ou venda ao preço de mercado, ou definir um preço limite.

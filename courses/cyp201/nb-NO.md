@@ -1066,7 +1066,7 @@ Hvis dette sighash-flagget integreres i Bitcoin, vil det muliggjøre bruk av cov
 
 For å fordype din kunnskap om Lightning Network, etter CYP201-kurset, anbefaler jeg på det sterkeste LNP201-kurset av Fanis Michalakis, som dekker emnet i detalj:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 I neste del foreslår jeg å oppdage hvordan den mnemoniske frasen som ligger til grunn for din Bitcoin-lommebok fungerer.
 

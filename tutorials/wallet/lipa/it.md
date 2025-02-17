@@ -10,7 +10,7 @@ I portafogli Lightning, come tutti i portafogli mobili, sono considerati portafo
 
 Se volete saperne di più sulla rete Lightning e capire come funziona tecnicamente, vi consiglio di seguire questo corso:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 In questo tutorial daremo un'occhiata a **Lipa**, un portafoglio Lightning semplice ed efficace sviluppato in Svizzera.
 
 ## Presentazione di Lipa

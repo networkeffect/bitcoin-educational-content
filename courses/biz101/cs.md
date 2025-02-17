@@ -253,7 +253,7 @@ Bitcoin nás vyzývá, abychom přehodnotili povahu samotných peněz. Mohl byst
 
 Pro více informací o Bitcoinu, jeho historii, fungování a použití doporučuji sledovat tento další komplexní kurz:
 
-https://planb.network/courses/btc101
+https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 ## Úvod do sítě Lightning
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
@@ -334,7 +334,7 @@ Síť Lightning Network je díky své rychlosti a konečnosti plateb ideální p
 
 Pro více informací o technickém fungování sítě Lightning Network doporučuji sledovat také tento další komplexní kurz:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 # Bitcoin v pokladně
 
 <partId>bf45c1e8-af97-4b6b-af42-2866f493b14d</partId>
@@ -453,9 +453,9 @@ Tito myslitelé formovali myšlenku, že státní zásahy narušují trhy a že 
 
 Další informace k tomuto tématu:
 
-https://planb.network/courses/eco201
-https://planb.network/courses/phi201
-https://planb.network/courses/eco102
+https://planb.network/courses/d955dd28-b7c6-4ba2-a123-d932e21d148f
+https://planb.network/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Držení bitcoinů v pokladně
 
 <chapterId>89622a40-d14f-4c37-a075-8e7e1731ec26</chapterId>
@@ -1024,7 +1024,7 @@ Pokud jde o reálné příklady, vezměte si za příklad středně velký e-sho
 
 Chcete-li se hlouběji seznámit se specifiky implementace a praktickými konfiguracemi BTC Pay Serveru, podívejte se na následující kurz:
 
-https://planb.network/courses/btc305
+https://planb.network/courses/6fc12131-e464-4515-9d3f-9255365d5fa1
 ## Podnik
 
 <chapterId>80fb2659-81ca-4a11-b492-72c7ae5774f9</chapterId>

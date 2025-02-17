@@ -268,7 +268,7 @@ Kita dapat menyimpulkan bab ini dengan kutipan dari pemenang Hadiah Nobel F.A Ha
 > "Saya tidak percaya bahwa kita akan memiliki uang yang baik lagi, sebelum kita mengambilnya dari tangan pemerintah. Jika kita tidak dapat mengambilnya secara kasar dari tangan pemerintah, yang dapat kita lakukan adalah dengan cara yang licik atau tidak langsung memperkenalkan sesuatu yang tidak dapat mereka hentikan."
 Untuk mempelajari lebih lanjut tentang kekeliruan ekonomi dan kebebasan, kami mengundang Anda untuk mempelajari kursus ECO 102, yang menelusuri kehidupan dan ide-ide Frédéric Bastiat, seorang pemikir Prancis abad ke-19 yang pasti akan menghargai kemunculan Bitcoin:
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Hiperinflasi
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ Singkatnya, Lightning Network adalah sebuah usaha yang menjanjikan untuk menggun
 
 Jika Anda ingin melampaui pengenalan ini dan memahami semua cara kerja Lightning Network, kami sarankan untuk mengambil kursus yang sangat bagus ini oleh Fanis Michalakis tentang masalah ini:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## Kasus Penggunaan Jaringan Lightning
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

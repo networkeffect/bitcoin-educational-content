@@ -268,7 +268,7 @@ Tuto kapitolu můžeme uzavřít citátem nositele Nobelovy ceny F. A. Hayeka z 
 > "Nevěřím, že bychom ještě někdy měli mít dobré peníze, než je vyjmeme z rukou vlády. Pokud je nemůžeme vzít z rukou vlády násilím, můžeme jen nějakým lstivým nebo oklikou zavést něco, co oni nemohou zastavit."
 Chcete-li se dozvědět více o ekonomických omylech a svobodě, nabízíme vám náš kurz ECO 102, který se zabývá životem a myšlenkami Frédérica Bastiata, francouzského myslitele 19. století, který by jistě ocenil vznik Bitcoinu:
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Hyperinflace
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ Lightning Network je slibný pokus o zavedení efektivního platebního systému
 
 Pokud chcete jít nad rámec tohoto úvodu a porozumět celému fungování sítě Lightning, doporučujeme absolvovat tento vynikající kurz od Fanise Michalakise:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## Případy použití sítě Lightning
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

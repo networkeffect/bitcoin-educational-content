@@ -165,7 +165,7 @@ BTC*」を選択します。出金時に引き落とされるBitfinexアカウ�
 
 ライトニング・ネットワークにご興味のある方は、その仕組みを理解するための完全なトレーニングコースもご用意しています：
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 最初のビットコインを購入した後、プラットフォーム上に残しておくという選択肢も当然ありますが、自己保管で自分のウォレットに移すことを強くお勧めします。ビットコイン・ウォレットの使い方をまだご存知でない方は、[Plan ₿ Networkの「ウォレット」セクション](https://planb.network/tutorials/wallet)をご覧ください。
 
 ## 6 - Bitfinexでのビットコインの売買

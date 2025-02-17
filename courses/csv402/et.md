@@ -1865,7 +1865,7 @@ Lightning Network on Bitcoini detsentraliseeritud maksekanalite (või _state cha
 
 Lisateabe saamiseks selle kohta, kuidas Lightning töötab, soovitan teil läbida selle teise kursuse:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 #### Mitme protokolliga seotud kohustused - MPC
 
 Multi Protocol Commitment (MPC) viitab RGB-s kasutatavale Merkle-puu struktuurile, mis hõlmab ühe Bitcoini tehingu raames mitmeid **Transitsioonipakke** erinevatest lepingutest. Idee on koondada mitu kohustust (mis võivad vastata erinevatele lepingutele või erinevatele varadele) ühte ankurduspunkti, et optimeerida plokiruumi hõivatust.
@@ -3305,7 +3305,7 @@ Tegelikkuses võimaldab Lightning Network makseid suunata mitme kanali kaudu, ka
 
 Seetõttu tuleb RGB toimimist Lightning'ile vaadelda paralleelselt Lightning-võrgu enda toimimisega. Kui soovite selles teemas sügavamalt süveneda, siis soovitan kindlasti vaadata seda teist põhjalikku koolituskursust:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ### RGB koodikaart
 
 Lõpuks, enne järgmise jaotise juurde minekut, tahaksin anda teile ülevaate RGB-s kasutatavast koodist. Protokoll põhineb Rusti raamatukogudel ja avatud lähtekoodiga spetsifikatsioonidel. Siin on ülevaade peamistest repositooriumidest ja kastidest:

@@ -165,7 +165,7 @@ Bitfinex tarjoaa myös talletus- ja nostovaihtoehtoja Lightning-verkon kautta, m
 
 Jos olet kiinnostunut Lightning-verkosta, meillä on myös täydellinen koulutus, jonka avulla voit ymmärtää, miten se toimii:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Kun olet ostanut ensimmäiset bitcoinisi, sinulla on tietenkin mahdollisuus jättää ne alustalle, mutta suosittelen lämpimästi niiden siirtämistä omaan lompakkoon omaan säilytykseen. Jos et vielä tiedä, miten Bitcoin-lompakkoa käytetään, pyydän sinua tutustumaan [Plan ₿ Networkin "Wallet"-osioon](https://planb.network/tutorials/wallet).
 
 ## 6 - Bitcoinien ostaminen ja myyminen Bitfinexissä

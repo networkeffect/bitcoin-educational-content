@@ -10,7 +10,7 @@ Lightning wallets, like all mobile wallets, are considered "hot" wallets because
 
 If you would like to learn more about the Lightning network and understand how it works technically, I recommend you take this course:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 In this tutorial, we'll be taking a look at **Lipa**, a simple and effective Lightning wallet developed in Switzerland.
 
 ## Introducing Lipa

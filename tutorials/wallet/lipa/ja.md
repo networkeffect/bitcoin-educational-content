@@ -10,7 +10,7 @@ description: Lipa lightningモバイルウォレットの設定と使用
 
 ライトニング・ネットワークについてもっと知りたい、技術的な仕組みを理解したいという方は、このコースを受講することをお勧めする：
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 このチュートリアルでは、スイスで開発されたシンプルで効果的なLightningウォレットである**Lipa**を紹介します。
 
 ## リパの紹介

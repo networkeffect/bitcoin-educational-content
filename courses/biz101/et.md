@@ -253,7 +253,7 @@ Bitcoin kutsub meid üles mõtlema uuesti raha enda olemuse üle. Kas te võiksi
 
 Lisateabe saamiseks Bitcoini, selle ajaloo, toimimise ja kasutamise kohta soovitan jälgida ka seda teist põhjalikku kursust:
 
-https://planb.network/courses/btc101
+https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 ## Lightning Network'i tutvustus
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
@@ -334,7 +334,7 @@ Lightning Network on ideaalne Bitcoini maksete tegemiseks füüsilistes või vee
 
 Lisateabe saamiseks Lightning Networki tehnilise toimimise kohta soovitan jälgida ka seda teist põhjalikku kursust:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 # Bitcoin riigikassas
 
 <partId>bf45c1e8-af97-4b6b-af42-2866f493b14d</partId>
@@ -453,9 +453,9 @@ Need mõtlejad kujundasid ideed, et riigi sekkumine moonutab turgu ja et majandu
 
 Lisateave selle teema kohta:
 
-https://planb.network/courses/eco201
-https://planb.network/courses/phi201
-https://planb.network/courses/eco102
+https://planb.network/courses/d955dd28-b7c6-4ba2-a123-d932e21d148f
+https://planb.network/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Bitcoini hoidmine riigikassas
 
 <chapterId>89622a40-d14f-4c37-a075-8e7e1731ec26</chapterId>
@@ -1024,7 +1024,7 @@ Kui tegemist on reaalsete näidetega, siis võtke näiteks keskmise suurusega e-
 
 Kui soovite süveneda rakendamise üksikasjadesse ja uurida BTC Pay Serveri praktilisi konfiguratsioone, vaadake järgmist kursust:
 
-https://planb.network/courses/btc305
+https://planb.network/courses/6fc12131-e464-4515-9d3f-9255365d5fa1
 ## Ettevõte
 
 <chapterId>80fb2659-81ca-4a11-b492-72c7ae5774f9</chapterId>

@@ -268,7 +268,7 @@ https://planb.network/courses/his201
 > "我不相信，在我们把钱从政府手中夺走之前，我们还会有好钱。如果我们不能粗暴地将它们从政府手中夺走 我们所能做的就是通过一些狡猾或迂回的方式 引入一些他们无法阻止的东西"
 要想了解更多有关经济谬误和自由的信息，我们邀请您了解我们的 ECO 102 课程，该课程追溯了 19 世纪法国思想家弗雷德里克-巴斯蒂亚（Frédéric Bastiat）的生平和思想，他肯定会对比特币的出现表示赞赏：
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## 恶性通货膨胀
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ https://planb.network/tutorials/merchant/merchant/swiss-bitcoin-pay-2-a78b057e-e
 
 如果您想进一步了解闪电网络的所有工作原理，我们建议您学习 Fanis Michalakis 的精彩课程：
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 闪电网络使用案例
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

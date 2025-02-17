@@ -1069,7 +1069,7 @@ Kui see sighash-lipp integreeritakse Bitcoini, võimaldab see kasutada kovenanti
 
 Et süvendada oma teadmisi Lightningi Võrgust, pärast CYP201 kursust, soovitan väga LNP201 kursust Fanis Michalakise poolt, mis katab teema üksikasjalikult:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Järgmises osas pakun avastada, kuidas töötab teie Bitcoin rahakoti aluseks olev mnemooniline fraas.
 

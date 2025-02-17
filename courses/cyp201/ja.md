@@ -1105,7 +1105,7 @@ Bitcoinには、まず第一に3つの基本的なsighashフラグがありま�
 
 Lightning Networkについての知識を深めるために、CYP201コースの後には、Fanis MichalakisによるLNP201コースを強くお勧めします。このコースでは、トピックについて詳しくカバーしています：
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 次のパートでは、Bitcoinウォレットの基礎となるニーモニックフレーズの仕組みを発見しましょう。
 

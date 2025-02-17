@@ -1140,7 +1140,7 @@ Wenn dieses Sighash-Flag in Bitcoin integriert wird, ermöglicht es die Verwendu
 
 Um Ihr Wissen über das Lightning-Netzwerk zu vertiefen, empfehle ich nach dem CYP201-Kurs den LNP201-Kurs von Fanis Michalakis, der das Thema detailliert behandelt:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Im nächsten Teil schlage ich vor, zu entdecken, wie die mnemonische Phrase, die die Basis Ihrer Bitcoin-Wallet bildet, funktioniert.
 

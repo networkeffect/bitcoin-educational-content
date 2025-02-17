@@ -1601,7 +1601,7 @@ Le Lightning Network est un réseau décentralisé de canaux de paiements (ou _s
 
 Pour plus d’informations sur le fonctionnement de Lightning, je vous conseille de suivre cette autre formation :
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 #### Multi Protocol Commitment - MPC
 
@@ -2933,7 +2933,7 @@ Dans la réalité, le Lightning Network permet le routage de paiements via des c
 
 Le fonctionnement de RGB sur Lightning doit donc être considéré en parallèle avec celui du Lightning Network lui-même. Si vous désirez approfondir ce sujet, je vous recommande vivement de consulter cette autre formation complète :
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 
 ### Plan du code de RGB

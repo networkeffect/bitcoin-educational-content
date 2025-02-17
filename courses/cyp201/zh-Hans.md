@@ -1064,7 +1064,7 @@ Schnorr 签名方案为比特币提供了几个相对于原始的 ECDSA 算法�
 
 为了深入了解闪电网络，在CYP201课程之后，我强烈推荐由Fanis Michalakis开设的LNP201课程，该课程详细讲解了这个主题：
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 在下一部分，我建议探索构成您比特币钱包基础的助记词是如何工作的。
 

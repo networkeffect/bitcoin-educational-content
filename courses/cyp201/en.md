@@ -1153,7 +1153,7 @@ If this sighash flag is integrated into Bitcoin, it will enable the use of coven
 
 To deepen your knowledge of the Lightning Network, after the CYP201 course, I highly recommend the LNP201 course by Fanis Michalakis, which covers the topic in detail:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 In the next part, I propose to discover how the mnemonic phrase at the base of your Bitcoin wallet works.
 

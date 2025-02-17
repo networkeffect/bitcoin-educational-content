@@ -165,7 +165,7 @@ A Bitfinex também oferece opções de depósito e levantamento através da Ligh
 
 Se estiver interessado na Lightning Network, também temos um curso de formação completo para o ajudar a compreender o seu funcionamento:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Depois de comprar os seus primeiros bitcoins, tem obviamente a opção de os deixar na plataforma, mas recomendo vivamente que os transfira para a sua própria carteira em auto-custódia. Se ainda não sabe como utilizar uma carteira Bitcoin, convido-o a explorar [a secção "Carteira" no Plano ₿ Rede](https://planb.network/tutorials/wallet).
 
 ## 6 - Comprar e vender bitcoins na Bitfinex

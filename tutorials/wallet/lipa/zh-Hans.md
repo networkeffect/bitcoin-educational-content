@@ -10,7 +10,7 @@ description: 设置和使用 Lipa lightning 移动钱包
 
 如果您想更多地了解闪电网络，了解它的技术运作方式，我建议您学习这门课程：
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 在本教程中，我们将介绍**Lipa**，这是一款由瑞士开发的简单有效的闪电钱包。
 
 ## 介绍利帕

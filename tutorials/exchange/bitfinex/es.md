@@ -165,7 +165,7 @@ Bitfinex también ofrece opciones de depósito y retirada a través de Lightning
 
 Si estás interesado en la Red relámpago, también tenemos un curso de formación completo para ayudarte a entender cómo funciona:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Después de comprar tus primeros bitcoins, obviamente tienes la opción de dejarlos en la plataforma, pero te recomiendo encarecidamente transferirlos a tu propio monedero en autocustodia. Si aún no sabes cómo utilizar un monedero Bitcoin, te invito a explorar [la sección "Monedero" en Plan ₿ Network](https://planb.network/tutorials/wallet).
 
 ## 6 - Compra y venta de bitcoins en Bitfinex

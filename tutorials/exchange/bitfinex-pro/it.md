@@ -157,7 +157,7 @@ Bitfinex offre anche opzioni di deposito e prelievo tramite la rete Lightning, c
 
 Se siete interessati alla rete Lightning, abbiamo anche un corso di formazione completo per aiutarvi a capire come funziona:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Comprare e vendere bitcoin su Bitfinex
 
 Bitfinex offre diverse modalità di trading. Per una maggiore facilità d'uso, optate per il classico mercato spot, noto anche come "*Trading*" o "*Exchange*". Qui è possibile piazzare ordini di acquisto o di vendita al prezzo di mercato o impostare un prezzo limite.

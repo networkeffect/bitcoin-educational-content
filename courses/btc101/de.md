@@ -268,7 +268,7 @@ Wir können dieses Kapitel mit einem Zitat des Nobelpreisträgers F. A. Hayek au
 > "Ich glaube nicht, dass wir jemals wieder ein gutes Geld haben sollten, bevor wir es nicht der Regierung aus den Händen nehmen. Wenn wir es der Regierung nicht gewaltsam aus den Händen nehmen können, können wir nur auf schlaue oder umständliche Weise etwas einführen, das sie nicht aufhalten kann."
 Um mehr über wirtschaftliche Irrtümer und Freiheit zu erfahren, laden wir Sie ein, unseren Kurs ECO 102 zu besuchen, der das Leben und die Ideen von Frédéric Bastiat nachzeichnet, einem französischen Denker aus dem 19:
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Hyperinflation
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ Zusammenfassend lässt sich sagen, dass Lightning Network ein vielversprechender
 
 Wenn Sie über diese Einführung hinausgehen und die gesamte Funktionsweise des Lightning Network verstehen möchten, empfehlen wir Ihnen diesen ausgezeichneten Kurs von Fanis Michalakis zu diesem Thema:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## Lightning Network Anwendungsfälle
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

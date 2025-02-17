@@ -268,7 +268,7 @@ Selle peatüki võib lõpetada Nobeli preemia laureaadi F. A. Hayeki 1984. aasta
 > "Ma ei usu, et meil peaks kunagi olema jälle hea raha, enne kui me selle asja valitsuse käest välja võtame. Kui me ei saa neid vägivaldselt valitsuse käest ära võtta, siis saame vaid mingi kavalal või ümbersuunatud viisil kehtestada midagi, mida nad ei saa peatada."
 Et rohkem teada saada majanduslikest eksimustest ja vabadusest, kutsume teid üles avastama meie kursust ECO 102, mis käsitleb 19. sajandi prantsuse mõtleja Frédéric Bastiat' elu ja ideid, kes oleks kindlasti hinnanud Bitcoini tekkimist:
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Hüperinflatsioon
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
@@ -1285,7 +1285,7 @@ Kokkuvõttes on Lightning Network paljutõotav katse luua tõhus maksesüsteem B
 
 Kui soovite minna sellest sissejuhatusest kaugemale ja mõista Lightning Networki kõiki toiminguid, soovitame võtta selle suurepärase kursuse, mille on koostanud Fanis Michalakis:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## Lightning-võrgu kasutusjuhtumid
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

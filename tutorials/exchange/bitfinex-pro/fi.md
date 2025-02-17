@@ -157,7 +157,7 @@ Bitfinex tarjoaa myös talletus- ja nostovaihtoehtoja Lightning-verkon kautta, m
 
 Jos olet kiinnostunut Lightning-verkosta, meillä on myös täydellinen koulutus, jonka avulla voit ymmärtää, miten se toimii:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 ## 6 - Bitcoinien ostaminen ja myyminen Bitfinexissä
 
 Bitfinex tarjoaa erilaisia kaupankäyntitapoja. Jos haluat helppokäyttöisyyttä, valitse klassiset spot-markkinat, jotka tunnetaan myös nimellä "*Trading*" tai "*Exchange*". Täällä voit antaa osto- tai myyntitoimeksiantoja markkinahintaan tai asettaa rajahinnan.

@@ -10,7 +10,7 @@ Lightning rahakotte, nagu kõiki mobiilseid rahakotte, peetakse "kuumaks" rahako
 
 Kui soovite rohkem teada saada Lightning-võrgustikust ja mõista, kuidas see tehniliselt toimib, siis soovitan teil läbida selle kursuse:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 Selles õpetuses vaatame **Lipa**, lihtsat ja tõhusat Lightning rahakotti, mis on välja töötatud Šveitsis.
 
 ## Tutvustame Lipa

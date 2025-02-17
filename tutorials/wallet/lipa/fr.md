@@ -10,7 +10,7 @@ Les portefeuilles Lightning, comme tous les portefeuilles mobiles, sont considé
 
 Si vous souhaitez approfondir vos connaissances sur le réseau Lightning et comprendre son fonctionnement technique, je vous conseille de suivre ce cours :
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Dans ce tutoriel, nous allons découvrir **Lipa**, un portefeuille Lightning simple et efficace développé en Suisse.
 

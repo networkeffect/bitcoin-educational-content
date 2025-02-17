@@ -252,7 +252,7 @@ We can conclude this chapter with the quote from the Nobel Prize winner F.A Haye
 
 To learn more about economic fallacies and freedom, we invite you to discover our ECO 102 course, which traces the life and ideas of Frédéric Bastiat, a 19th-century French thinker who would surely have appreciated the emergence of Bitcoin:
 
-https://planb.network/courses/eco102
+https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 
 ## Hyperinflation
 
@@ -1224,7 +1224,7 @@ In summary, Lightning Network is a promising attempt to deploy an efficient paym
 
 If you want to go beyond this introduction and understand all the workings of the Lightning Network, we recommend taking this excellent course by Fanis Michalakis on the subject:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 ## Lightning Network Use Cases
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>

@@ -156,7 +156,7 @@ Bitfinex offre aussi des options de dépôt et de retrait via le Lightning Netwo
 
 Si le Lightning Network vous intéresse, nous avons également une formation complète pour comprendre son fonctionnement :
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 ## 6 - Achat et vente de bitcoins sur Bitfinex
 

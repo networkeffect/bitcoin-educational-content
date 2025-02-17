@@ -1068,7 +1068,7 @@ Jos tämä sighash-lippu integroidaan Bitcoiniin, se mahdollistaa kovenanttien k
 
 Syventääksesi tietämystäsi Lightning-verkosta, CYP201-kurssin jälkeen suosittelen lämpimästi LNP201-kurssia, jonka pitää Fanis Michalakis ja joka käsittelee aihetta yksityiskohtaisesti:
 
-https://planb.network/courses/lnp201
+https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Seuraavassa osassa ehdotan, että tutustumme siihen, miten Bitcoin-lompakkosi perustana oleva mnemonic-lause toimii.
 
