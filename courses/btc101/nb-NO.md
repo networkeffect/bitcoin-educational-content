@@ -144,7 +144,7 @@ Men er Bitcoin en "ekte" valuta? For å forstå dette må vi først forstå begr
 
 Hvis du ønsker å utforske Bitcoins historie i mer detalj, anbefaler vi vårt HIS 201-kurs, hvor du vil oppdage opprinnelsen og den langsomme fremveksten av Bitcoin, samt begynnelsen på dets historie og samfunn. Dette kurset er fullstendig dokumentert og kildebelagt, selvfølgelig med mange anekdoter:
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # Penger
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ En valuta som er avhengig av en betrodd tredjepart som en finansinstitusjon, er 
 
 Hvis du vil gå dypere inn i temaet hyperinflasjon, anbefaler vi David St-Onges ECO 204-kurs, der du lærer hva hyperinflasjonssykluser er og hvordan de påvirker livene våre. Du vil også oppdage likhetene mellom disse syklusene og, viktigst av alt, hvordan du kan beskytte deg mot dem.
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 21 millioner bitcoins
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ Husk å velge riktig lommebok for dine behov og din bruk: Detaljerte veiledninge
 
 Hvis du i løpet av din reise ned kaninhullet ønsker å lære mer om hvordan du bygger en Bitcoin-lommebok, fra entropi til mottak av adresser, anbefaler vi CYP 201-kurset som er dedikert til dette emnet:
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## Bitcoin-lommebøker og sikkerhet
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ Både "kalde" og "varme" lommebøker bruker ordlistemetoden som standard for sik
 
 Hvis du deretter ønsker å finne ut, trinn for trinn, hvordan du setter opp din egen lommebok og får dine første bitcoins, anbefaler vi også å ta dette andre kurset:
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## Består tidens tann
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ Spillteorien som brukes på Bitcoin, eliminerer uærlige utvinnere, som bruker A
 
 Hvis du ønsker å gå dypere inn i det spesifikke temaet Bitcoin-gruvedrift, kan du se vårt MIN 201-kurs. Her får du vite hvordan Proof-of-Work fungerer og hvilken rolle det spiller, samt mekanikken i gruveindustrien. Vi forklarer også hvordan du konverterer en ASIC til en varmeovn, slik at du kan utvinne dine første satoshier mens du varmer opp hjemmet ditt!
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## Bitcoin og økologi
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

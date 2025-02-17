@@ -683,7 +683,7 @@ Matematikken til elliptiske kurver over endelige felt er analog med de over felt
 
 Hvis du ønsker å lære mer om de matematiske grunnlagene for moderne kryptografi, anbefaler jeg også å konsultere dette andre kurset på Plan ₿ Network:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Beregning av den offentlige nøkkelen fra den private nøkkelen
 
@@ -1099,7 +1099,7 @@ Denne begrensningen stammer fra Bitcoins personvernmodell. Ved å gjenbruke samm
 
 For å lære mer om Bitcoins personvernmodell og oppdage metoder for å beskytte ditt personvern, anbefaler jeg også å følge mitt BTC204 kurs på Plan ₿ Network:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### HD Lommebøker (_Hierarchical Deterministic_)
 

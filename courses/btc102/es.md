@@ -163,7 +163,7 @@ Además de las estafas relacionadas con criptomonedas y finanzas, la principal r
 
 Si este tema te resulta completamente desconocido, el curso SCU 101 puede ser interesante para profundizar en él en detalle.
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 Es crucial mantener tu computadora en un estado óptimo de funcionamiento, ya sea que estés interesado en Bitcoin o no. Una actualización no solo agrega nuevas funciones, sino que también corrige errores y mejora la seguridad de tus software. Por lo tanto, asegúrate de:
 

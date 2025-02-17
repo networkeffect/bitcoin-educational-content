@@ -144,7 +144,7 @@ Je však Bitcoin "skutečnou" měnou? Abychom to pochopili, musíme nejprve poro
 
 Pokud se chcete podrobněji seznámit s historií bitcoinu, doporučujeme vám náš kurz HIS 201, kde se dozvíte o původu a pomalém vzniku bitcoinu, stejně jako o počátcích jeho historie a komunity. Tento kurz je plně zdokumentovaný a podložený zdroji, samozřejmě s mnoha anekdotami:
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # Peníze
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ Měna, která se spoléhá na důvěryhodnou třetí stranu, jako je finanční 
 
 Chcete-li proniknout hlouběji do tématu hyperinflace, doporučujeme kurz Davida St-Ongeho ECO 204, kde se dozvíte, co jsou to hyperinflační cykly a jaké jsou jejich reálné dopady na náš život. Zjistíte také, jaké jsou podobnosti mezi těmito cykly, a hlavně, jak se před nimi chránit.
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 21 milionů bitcoinů
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ Nezapomeňte si vybrat správnou peněženku pro své potřeby a použití: podr
 
 Pokud se během své cesty králičí norou chcete dozvědět více o vytváření peněženky Bitcoin, od entropie až po přijímání adres, doporučujeme kurz CYP 201 věnovaný tomuto tématu:
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## Bitcoinové peněženky a zabezpečení
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ Studené i horké peněženky používají jako standard pro zálohování soukr
 
 Pokud se pak chcete krok za krokem dozvědět, jak si založit vlastní peněženku a získat své první bitcoiny, doporučujeme absolvovat i tento další kurz:
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## Projít zkouškou času
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ Teorie hry aplikovaná na Bitcoin eliminuje nepoctivé těžaře, kteří k tě�
 
 Pokud chcete proniknout hlouběji do konkrétního tématu těžby bitcoinů, můžete navštívit náš kurz MIN 201. Zjistíte, jak funguje a jakou roli hraje proof-of-work a jaká je mechanika těžebního průmyslu. Vysvětlíme vám také, jak přeměnit ASIC na topení, což vám umožní těžit první satoshi a zároveň vytápět váš domov!
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## Bitcoin a ekologie
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

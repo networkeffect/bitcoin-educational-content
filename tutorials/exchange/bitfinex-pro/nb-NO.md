@@ -12,7 +12,7 @@ I denne veiledningen går vi gjennom prosessen med å opprette en bedriftskonto 
 
 Hvis du er interessert i å integrere bitcoin i virksomheten din, vil jeg også anbefale at du tar en titt på vårt komplette teoretiske kurs om emnet:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - Opprette en Bitfinex-konto
 
 Gå til [det offisielle Bitfinex-nettstedet] (https://www.bitfinex.com/). På hjemmesiden finner du og klikker på alternativet "* Registrer deg *" for å begynne å opprette kontoen din. Først oppretter du en standardkonto som for enkeltpersoner, alternativet "* Corporate *" vil bli valgt senere under bekreftelsesprosessen.
@@ -237,4 +237,4 @@ Avhengig av bedriftens mål og struktur kan bruken av Bitfinex variere.
 
 For en mer inngående titt på dette emnet anbefaler jeg dette omfattende kurset om integrering av bitcoin i virksomheter, som går i detalj inn på kontantstrøm, mottak av bitcoin-betalinger og regnskap:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

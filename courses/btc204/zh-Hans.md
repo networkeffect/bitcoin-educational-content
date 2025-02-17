@@ -2739,7 +2739,7 @@ M8TJSBiQmNQDwTogMAbyqJe2PE2kQXjtgh88MRTxsrnHC8zpEtJ8j7Aj628oUFk8X6P5rJ7P5qDudE4H
 ---
 *在本章有关 BIP47 的后续章节中，我们将详细介绍其运行情况，尤其是所使用的加密方法。要完全理解这些技术性较强的解释，首先必须了解高清钱包的结构、密钥生成过程以及基于椭圆曲线的加密技术的基本原理。如果您想了解更多有关这些概念的信息，Plan ₿ Network 提供了另一个免费课程：* * *。
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *我强烈建议您关注它，因为了解 BIP47 的技术运作将有助于您更轻松地理解我们将在接下来的章节中讨论的其他类似提案*。
 
 ---

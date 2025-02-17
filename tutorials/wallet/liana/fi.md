@@ -27,7 +27,7 @@ Alla oleva kaavio havainnollistaa sellaisen salkun toimintaa, jossa on kaksi men
 Tämän toiminnon avulla voit määrittää erilaisia kokoonpanoja, kuten :
 
 
-- Perintösuunnitelma, jonka avulla perilliset voivat periä varat takaisin käyttäjän kuollessa. Jos haluat lisätietoja tästä aiheesta, suosittelemme BTC102-kurssin [osa 4](https://planb.network/courses/btc102/233c88d3-2e8e-5eba-ac06-efe67a209038) lukemista.
+- Perintösuunnitelma, jonka avulla perilliset voivat periä varat takaisin käyttäjän kuollessa. Jos haluat lisätietoja tästä aiheesta, suosittelemme BTC102-kurssin [osa 4](https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f/233c88d3-2e8e-5eba-ac06-efe67a209038) lukemista.
 - Vahvistettu varmuuskopio, jossa on palautumisaika, jolloin käyttäjä voi käyttää lompakkoaan ilman, että hänen tarvitsee säilyttää vastaavaa salaista lausetta ja ottaa riskin, että se varastetaan esimerkiksi murtovarkauden aikana.
 - Turvaverkko ihmisille, jotka aloittavat Bitcoinin käytön: he hallinnoivat omaa lompakkoaan, ja heidän "holhoojansa" (esimerkiksi sukulainen) pidättää itselleen oikeuden periä heidän varansa takaisin tietyn ajan kuluttua.
 - Monen osapuolen allekirjoitusjärjestelmä (*multisig*), jonka vaatimuksia vähennetään ajan myötä, jotta voidaan selviytyä yhden tai useamman osallistujan, esimerkiksi yrityksen yhteistyökumppanien, katoamisesta.
@@ -192,7 +192,7 @@ Voit tarkistaa varojesi vanhentumistilan siirtymällä "*Coins*"-välilehdelle. 
 
 Jos haluat ymmärtää paremmin Bitcoinissa käytettyä UTXO-edustusmallia, voit tutustua Loïc Morelin kirjoittaman Bitcoinin luottamuksellisuutta käsittelevän kurssin ensimmäiseen osaan:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 ## Juoksevat menot
 
 Nykyiset menot ovat normaali tilanne Lianan käytössä. Bitcoinien lähettäminen pääavaimella toimii kuten kaikissa klassisissa Bitcoin-lompakoissa, kuten Electrumissa tai Sparrowissa.
@@ -338,4 +338,4 @@ Tämän salkun luomat skriptit ovat seuraavanlaisia:
 
 Koska Bitcoin-lompakkosi turvallisuus riippuu myös siitä, ymmärrätkö, miten se toimii, suosittelen, että opiskelet determinististen ja hierarkkisten lompakoiden mekanismeja syvällisesti osallistumalla tälle ilmaiselle koulutuskurssille Plan ₿ Network :
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f

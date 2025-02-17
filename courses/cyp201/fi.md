@@ -682,7 +682,7 @@ Elliptisten käyrien matematiikka äärellisillä kentillä on analoginen reaali
 
 Jos haluat oppia lisää modernin kryptografian matemaattisista perusteista, suosittelen myös tutustumaan tähän toiseen kurssiin Plan ₿ Networkissa:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Julkisen avaimen laskeminen yksityisavaimesta
 
@@ -1101,7 +1101,7 @@ Tämä rajoitus juontuu Bitcoinin yksityisyysmallista. Saman osoitteen uudelleen
 
 Lisätietoja Bitcoinin yksityisyysmallista ja menetelmistä yksityisyytesi suojaamiseksi suosittelen myös seuraamaan BTC204-kurssiani Plan ₿ Networkissa:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### HD Lompakot (_Hierarchical Deterministic_)
 

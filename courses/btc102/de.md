@@ -163,7 +163,7 @@ Neben Betrügereien mit Kryptowährungen und Finanzangelegenheiten ist der Haupt
 
 Wenn Ihnen dieses Thema völlig unbekannt ist, könnte der Kurs SCU 101 interessant sein, um es im Detail zu vertiefen.
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 Es ist entscheidend, Ihren Computer in einem optimalen Zustand zu halten, unabhängig davon, ob Sie sich für Bitcoin interessieren oder nicht. Ein Update dient nicht nur dazu, neue Funktionen hinzuzufügen, sondern korrigiert auch Fehler und verbessert die Sicherheit Ihrer Software. Stellen Sie daher sicher, dass Sie:
 

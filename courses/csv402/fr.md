@@ -44,7 +44,7 @@ La dernière section est animée par d'autres intervenants qui présentent des a
 
 Cette formation est initialement issue d'un bootcamp de développement avancé de deux semaines à Viareggio, en Toscane, organisé par [Fulgur'Ventures](https://fulgur.ventures/). La première semaine, centrée sur Rust et les SDK, peut être retrouvée dans cet autre cours :
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 
 Dans ce cours, nous nous concentrons sur la deuxième semaine du bootcamp, qui porte sur RGB.
 

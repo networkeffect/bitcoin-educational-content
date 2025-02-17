@@ -175,7 +175,7 @@ Outre les arnaques en crypto-monnaie et autour de la finance, la première raiso
 
 Si ce sujet vous est complètement inconnu, la formation SCU 101 peut être intéressante pour l'approfondir en détail.
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 Il est crucial de maintenir votre ordinateur dans un état de fonctionnement optimal, que vous vous intéressiez à Bitcoin ou non. Une mise à jour n'est pas seulement là pour ajouter de nouvelles fonctionnalités : elle corrige également les bugs et améliore la sécurité de vos logiciels. Assurez-vous donc de :
 

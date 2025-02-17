@@ -723,7 +723,7 @@ La matemática de las curvas elípticas sobre campos finitos es análoga a la de
 
 Si deseas aprender más sobre los fundamentos matemáticos de la criptografía moderna, también recomiendo consultar este otro curso en Plan ₿ Network:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Calculando la Clave Pública a partir de la Clave Privada
 <chapterId>fcb2bd58-5dda-5ecf-bb8f-ad1a0561ab4a</chapterId>
@@ -1159,7 +1159,7 @@ Esta restricción proviene del modelo de privacidad de Bitcoin. Al reutilizar la
 
 Para aprender más sobre el modelo de privacidad de Bitcoin y descubrir métodos para proteger tu privacidad, también recomiendo seguir mi curso BTC204 en Plan ₿ Network:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### HD Wallets (_Hierarchical Deterministic_)
 

@@ -12,7 +12,7 @@ In this tutorial, we'll cover the process of creating a business account on Bitf
 
 If you're interested in the subject of integrating bitcoin into your business, I'd also recommend discovering our complete theoretical training course on the subject:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - Creating a Bitfinex account
 
 Go to [the official Bitfinex website](https://www.bitfinex.com/). On the home page, find and click on the "*Sign Up*" option to start creating your account. At first, you'll create a standard account as for individuals, the "*Corporate*" option will be selected later during the verification process.
@@ -237,4 +237,4 @@ Depending on your company's objectives and structure, the use of Bitfinex may va
 
 For a more in-depth look at this topic, I recommend this comprehensive training course on integrating bitcoin into businesses, which covers in detail adding to cash flow, accepting bitcoin payments, and accounting :
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

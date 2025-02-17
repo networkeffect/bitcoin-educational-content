@@ -144,7 +144,7 @@ However, is Bitcoin a "real" currency? To understand this, we first need to unde
 
 If you want to explore Bitcoin's history in more details, we highly recommend our HIS 201 course, where you will discover the origins and the slow emergence of Bitcoin, as well as the beginnings of its history and community. This course is fully documented and sourced, with, of course, many anecdotes:
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # Money
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ A currency that relies on a trusted third party like a financial institution is,
 
 To delve deeper into the subject of hyperinflations, we recommend David St-Onge's ECO 204 course, where you will learn what hyperinflationary cycles are and their real impacts on our lives. You will also discover the similarities between these cycles and, most importantly, how to protect yourself from them.
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 21 million bitcoins
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ Keep in mind to choose the right wallet for your needs and usage: detailed tutor
 
 If, during your journey down the rabbit hole, you want to learn more about building a Bitcoin wallet, from entropy to receiving addresses, we recommend the CYP 201 course dedicated to this topic:
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## Bitcoin Wallets and Security
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ Both 'cold' and 'hot' wallets use the word list method as the standard for backi
 
 If you then wish to discover, step by step, how to set up your own wallet and get your first bitcoins, we also recommend taking this other course:
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## Passing the Test of Time
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ The theory of game applied to Bitcoin eliminates dishonest miners, who use ASIC 
 
 If you want to delve deeper into the specific topic of Bitcoin mining, you can consult our MIN 201 course. You will discover the workings and role of Proof-of-Work, as well as the mechanics of the mining industry. We also explain how to convert an ASIC into a heater, allowing you to mine your first satoshis while heating your home!
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## Bitcoin and Ecology
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

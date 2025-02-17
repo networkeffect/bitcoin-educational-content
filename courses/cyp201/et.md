@@ -682,7 +682,7 @@ Elliptiliste kõverate matemaatika lõplikel väljadel on analoogne reaalarvude 
 
 Kui soovite rohkem teada saada kaasaegse krüptograafia matemaatilistest alustest, soovitan samuti konsulteerida selle teise kursusega Plan ₿ võrgustikus:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Avaliku võtme arvutamine privaatvõtmest
 
@@ -1102,7 +1102,7 @@ See piirang tuleneb Bitcoini privaatsusmudelist. Sama aadressi korduva kasutamis
 
 Bitcoini privaatsusmudeli kohta lisateabe saamiseks ja oma privaatsuse kaitsmise meetodite avastamiseks soovitan samuti jälgida minu BTC204 kursust Plan ₿ võrgustikus:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### HD Rahakotid (_Hierarchical Deterministic_)
 

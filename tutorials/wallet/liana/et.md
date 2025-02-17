@@ -27,7 +27,7 @@ Allpool olev skeem illustreerib kahe kulureaga portfelli toimimist:
 See toiming võimaldab seadistada erinevaid konfiguratsioone, sealhulgas :
 
 
-- Pärimis- (või pärimis-) plaan, mis võimaldab pärijatel kasutaja surma korral raha tagasi saada. Lisateavet selle teema kohta soovitame lugeda [4. osa] (https://planb.network/courses/btc102/233c88d3-2e8e-5eba-ac06-efe67a209038) kursusest BTC102.
+- Pärimis- (või pärimis-) plaan, mis võimaldab pärijatel kasutaja surma korral raha tagasi saada. Lisateavet selle teema kohta soovitame lugeda [4. osa] (https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f/233c88d3-2e8e-5eba-ac06-efe67a209038) kursusest BTC102.
 - Tugevdatud varukoopia koos taastamisajaga, mis annab kasutajale võimaluse kasutada oma rahakotti, ilma et ta peaks hoidma vastavat salajast lauset ja riskima selle vargusega, näiteks sissemurdmise ajal.
 - Turvavõrk inimestele, kes alustavad Bitcoiniga: nad haldavad oma rahakotti ise ja nende "eestkostja" (näiteks sugulane) jätab endale õiguse oma raha teatud aja möödudes tagasi saada.
 - Mitme osapoolega allkirjastamise skeem (*multisig*), mille nõuded vähenevad aja jooksul, et tulla toime ühe või mitme osaleja, näiteks ettevõtte partnerite kadumisega.
@@ -192,7 +192,7 @@ Saate kontrollida oma vahendite aegumise staatust, kui lähete vahekaardile "*M�
 
 Bitcoinis kasutatava UTXO esindusmudeli paremaks mõistmiseks võite tutvuda Loïc Moreli kirjutatud Bitcoini konfidentsiaalsuse kursuse esimese osaga:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 ## Jooksvad kulud
 
 Praegused kulutused on Liana kasutamise normaalne olukord. Bitcoinide saatmine põhivõtmega toimib nagu kõigis klassikalistes Bitcoini rahakottides, näiteks Electrum või Sparrow.
@@ -338,4 +338,4 @@ Selle portfoolio abil loodud skriptid võtavad järgmise kuju:
 
 Kuna teie Bitcoini rahakoti turvalisus sõltub ka teie arusaamisest selle toimimisest, soovitan teil uurida põhjalikult deterministlike ja hierarhiliste rahakottide mehhanisme, võttes selle tasuta koolituskursuse Plan ₿ Network :
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f

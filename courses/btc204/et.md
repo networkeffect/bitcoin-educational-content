@@ -2739,7 +2739,7 @@ Kuigi neil robotitel ei ole konkreetset tehnilist funktsiooni BIP47 raamistikus,
 ---
 *Käesoleva peatüki järgmistes BIP47-le pühendatud osades uurime selle toimimist üksikasjalikult, keskendudes eelkõige kasutatud krüptograafilistele meetoditele. Nende üsna tehniliste selgituste täielikuks mõistmiseks on kõigepealt oluline mõista HD-kontode struktuuri, võtmete tuletamise protsesse ja elliptilisel kõveral põhineva krüptograafia aluspõhimõtteid. Kui soovite nende mõistete kohta rohkem teada saada, on veel üks tasuta kursus kättesaadav Plan ₿ Network'is:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *Soovitan seda väga jälgida, sest BIP47 tehnilise toimimise mõistmine aitab teil palju lihtsamini mõista teisi sarnaseid ettepanekuid, mida arutame järgmistes peatükkides.*
 
 ---

@@ -679,7 +679,7 @@ $$
 
 如果您希望了解更多关于现代密码学的数学基础，我还推荐咨询Plan ₿ Network上的这门其他课程：
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## 从私钥计算公钥
 
@@ -1097,7 +1097,7 @@ UTXOs因此代表了不同大小的比特币碎片，只要满足其*scriptPubKe
 
 要了解更多关于比特币隐私模型的信息，并发现保护你隐私的方法，我还推荐你关注我在Plan ₿ Network上的BTC204课程：
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### HD 钱包（_层次化确定性_）
 

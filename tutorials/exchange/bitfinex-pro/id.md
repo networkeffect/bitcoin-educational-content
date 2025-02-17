@@ -12,7 +12,7 @@ Dalam tutorial ini, kita akan membahas proses pembuatan akun bisnis di Bitfinex,
 
 Jika Anda tertarik dengan topik mengintegrasikan bitcoin ke dalam bisnis Anda, saya juga merekomendasikan untuk mempelajari kursus pelatihan teori lengkap kami tentang topik ini:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - Membuat akun Bitfinex
 
 Kunjungi [situs web resmi Bitfinex] (https://www.bitfinex.com/). Di halaman beranda, cari dan klik opsi "*Daftar*" untuk mulai membuat akun Anda. Pada awalnya, Anda akan membuat akun standar untuk perorangan, opsi "*Corporate*" akan dipilih nanti selama proses verifikasi.
@@ -237,4 +237,4 @@ Tergantung pada tujuan dan struktur perusahaan Anda, penggunaan Bitfinex dapat b
 
 Untuk melihat topik ini secara lebih mendalam, saya merekomendasikan kursus pelatihan komprehensif tentang mengintegrasikan bitcoin ke dalam bisnis, yang mencakup secara rinci menambah arus kas, menerima pembayaran bitcoin, dan akuntansi:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

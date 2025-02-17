@@ -712,7 +712,7 @@ La matematica delle curve ellittiche sui campi finiti è analoga a quella sui ca
 
 Se desideri approfondire le basi matematiche della crittografia moderna, ti consiglio anche di consultare questo altro corso su Plan ₿ Network:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Calcolare la Chiave Pubblica dalla Chiave Privata
 
@@ -1128,7 +1128,7 @@ Questo vincolo deriva dal modello di privacy di Bitcoin. Riutilizzando lo stesso
 
 Per saperne di più sul modello di privacy di Bitcoin e scoprire metodi per proteggere la tua privacy, ti consiglio anche di seguire il mio corso BTC204 su Plan ₿ Network:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### Portafogli HD (_Hierarchical Deterministic_)
 

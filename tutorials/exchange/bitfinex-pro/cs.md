@@ -12,7 +12,7 @@ V tomto tutoriálu se budeme zabývat procesem vytvoření obchodního účtu na
 
 Pokud vás zajímá téma integrace bitcoinu do vašeho podnikání, doporučuji vám také objevit naše kompletní teoretické školení na toto téma:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - Vytvoření účtu Bitfinex
 
 Přejděte na [oficiální webové stránky Bitfinex](https://www.bitfinex.com/). Na domovské stránce najděte a klikněte na možnost "*Přihlásit se*" a začněte vytvářet svůj účet. Nejprve si vytvoříte standardní účet jako pro fyzické osoby, možnost "*Firemní*" vyberete později během procesu ověřování.
@@ -237,4 +237,4 @@ Využití služby Bitfinex se může lišit v závislosti na cílech a struktuř
 
 Pro podrobnější pohled na toto téma doporučuji toto komplexní školení o integraci bitcoinu do podnikání, které se podrobně zabývá přidáváním do cash flow, přijímáním plateb v bitcoinech a účetnictvím:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

@@ -704,7 +704,7 @@ Toán học của đường cong elliptic trên trường hữu hạn tương đ
 
 Nếu bạn muốn tìm hiểu thêm về nền tảng toán học của mật mã học hiện đại, tôi cũng khuyên bạn tham khảo khóa học khác trên Plan ₿ Network:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Tính Khóa Công Khai từ Khóa Riêng
 <chapterId>fcb2bd58-5dda-5ecf-bb8f-ad1a0561ab4a</chapterId>
@@ -1136,7 +1136,7 @@ Ràng buộc này xuất phát từ mô hình bảo mật của Bitcoin. Bằng 
 
 Để tìm hiểu thêm về mô hình bảo mật của Bitcoin và khám phá các phương pháp để bảo vệ sự riêng tư của bạn, tôi cũng khuyến nghị theo dõi khóa học BTC204 của tôi trên Plan ₿ Network:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### Ví HD (_Hierarchical Deterministic_)
 

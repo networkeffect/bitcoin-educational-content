@@ -2739,7 +2739,7 @@ Aunque estos robots no tienen una funcionalidad técnica específica en el marco
 ---
 *En las siguientes secciones de este capítulo dedicadas a BIP47, examinaremos su funcionamiento en detalle, centrándonos en particular en los métodos criptográficos utilizados. Para comprender plenamente estas explicaciones más bien técnicas, es esencial entender primero la estructura de los monederos HD, los procesos de derivación de claves y los principios básicos de la criptografía basada en curvas elípticas. Si quieres aprender más sobre estos conceptos, hay otro curso gratuito disponible en Plan ₿ Network:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *Le recomiendo encarecidamente que lo siga, porque comprender el funcionamiento técnico del PIF47 le ayudará a entender mucho mejor otras propuestas similares que trataremos en los próximos capítulos.*
 
 ---

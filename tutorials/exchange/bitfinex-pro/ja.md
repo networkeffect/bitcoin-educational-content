@@ -12,7 +12,7 @@ description: Bitfinexでの企業アカウントの作成と管理
 
 あなたのビジネスにビットコインを取り入れることに興味があるなら、このテーマに関する私たちの完全な理論的トレーニングコースを発見することもお勧めします：
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - Bitfinexアカウントを作成する
 
 Bitfinex公式ウェブサイト](https://www.bitfinex.com/)にアクセスします。トップページで「*サインアップ*」をクリックし、アカウント作成を開始します。最初は、個人用の標準的なアカウントを作成し、「*法人*」オプションは、後で確認プロセスで選択します。
@@ -237,4 +237,4 @@ Bitfinex は様々な取引モードを提供しています。使いやすさ�
 
 このトピックをより詳しく見るには、ビットコインをビジネスに統合するための包括的なトレーニングコースをお勧めします：
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

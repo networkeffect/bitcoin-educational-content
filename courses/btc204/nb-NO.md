@@ -2739,7 +2739,7 @@ Selv om disse robotene ikke har en spesifikk teknisk funksjonalitet innenfor BIP
 ---
 *I de følgende avsnittene i dette kapittelet, som er viet BIP47, vil vi se nærmere på hvordan det fungerer, med særlig fokus på de kryptografiske metodene som brukes. For å forstå disse ganske tekniske forklaringene fullt ut, er det først viktig å forstå strukturen til HD-lommebøker, nøkkelderivasjonsprosesser og de grunnleggende prinsippene for elliptisk kurvebasert kryptografi. Hvis du ønsker å lære mer om disse konseptene, er et annet gratis kurs tilgjengelig fra Plan ₿ Network:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *Jeg anbefaler på det sterkeste at du følger den, for hvis du forstår hvordan BIP47 fungerer rent teknisk, blir det mye lettere å forstå andre lignende forslag som vi kommer til å diskutere i de kommende kapitlene*
 
 ---

@@ -163,7 +163,7 @@ Oltre alle truffe legate alle criptovalute e alla finanza, la prima ragione per 
 
 Se questo argomento vi è completamente sconosciuto, il corso SCU 101 potrebbe essere interessante per approfondirlo in dettaglio.
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 È fondamentale mantenere il proprio computer in uno stato di funzionamento ottimale, che siate interessati a Bitcoin o meno. Un aggiornamento non serve solo ad aggiungere nuove funzionalità: corregge anche bug e migliora la sicurezza del vostro software. Assicuratevi quindi di:
 

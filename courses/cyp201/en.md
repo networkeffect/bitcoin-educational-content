@@ -739,7 +739,7 @@ The mathematics of elliptic curves over finite fields are analogous to those ove
 
 If you wish to learn more about the mathematical foundations of modern cryptography, I also recommend consulting this other course on Plan ₿ Network:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Calculating the Public Key from the Private Key
 
@@ -1188,7 +1188,7 @@ This constraint stems from Bitcoin's privacy model. By reusing the same address,
 
 To learn more about Bitcoin's privacy model and discover methods to protect your privacy, I also recommend following my BTC204 course on Plan ₿ Network:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### HD Wallets (_Hierarchical Deterministic_)
 

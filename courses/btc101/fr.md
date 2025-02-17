@@ -144,7 +144,7 @@ Mais le bitcoin est-il une "vraie" monnaie ? Pour le savoir, il faut d'abord com
 
 Si vous souhaitez explorer l'histoire de Bitcoin plus en détail, nous vous recommandons vivement notre cours HIS 201, où vous découvrirez les origines et la lente émergence de Bitcoin, ainsi que les débuts de son histoire et de sa communauté. Ce cours est entièrement documenté et sourcé, avec bien sûr de nombreuses anecdotes :
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # L'argent
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ Une monnaie qui repose sur un tiers de confiance comme une institution financiè
 
 Pour approfondir le sujet des hyperinflations, nous vous recommandons le cours ECO 204 de David St-Onge, où vous apprendrez ce que sont les cycles hyperinflationnistes et leurs impacts réels sur nos vies. Vous découvrirez également les similitudes entre ces cycles et, surtout, comment vous en protéger.
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 21 millions de bitcoins
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ N'oubliez pas de choisir le bon portefeuille en fonction de vos besoins et de vo
 
 Si, au cours de votre voyage dans le trou du lapin, vous souhaitez en savoir plus sur la construction d'un portefeuille Bitcoin, de l'entropie à la réception des adresses, nous vous recommandons le cours CYP 201 consacré à ce sujet :
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## Portefeuilles Bitcoin et sécurité
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ Les portefeuilles "froids" et "chauds" utilisent la méthode de la liste de mots
 
 Si vous souhaitez ensuite découvrir, étape par étape, comment créer votre propre portefeuille et obtenir vos premiers bitcoins, nous vous recommandons également de suivre cette autre formation :
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## Passer l'épreuve du temps
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ La théorie des jeux appliquée au bitcoin élimine les mineurs malhonnêtes, qu
 
 Si vous souhaitez approfondir le sujet spécifique du minage de Bitcoin, vous pouvez consulter notre cours MIN 201. Vous y découvrirez le fonctionnement et le rôle de la preuve de travail, ainsi que les mécanismes de l'industrie minière. Nous vous expliquons également comment convertir un ASIC en appareil de chauffage, ce qui vous permettra de miner vos premiers satoshis tout en chauffant votre maison !
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## Bitcoin et écologie
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

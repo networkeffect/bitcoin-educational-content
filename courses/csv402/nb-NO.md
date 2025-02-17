@@ -45,7 +45,7 @@ Den siste delen ledes av andre foredragsholdere som presenterer konkrete RGB-bas
 ---
 Dette kurset sprang opprinnelig ut av en to ukers bootcamp for avansert utvikling i Viareggio i Toscana, arrangert av [Fulgur'Ventures] (https://fulgur.ventures/). Den første uken, som fokuserte på Rust og SDK-er, finner du i dette andre kurset:
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 I dette kurset fokuserer vi på den andre uken av bootcampen, som fokuserer på RGB.
 
 **Uke 1 - LNP402:**

@@ -2739,7 +2739,7 @@ Meskipun robot ini tidak memiliki fungsi teknis khusus dalam kerangka kerja BIP4
 ---
 *Pada bagian selanjutnya dari bab ini yang membahas tentang BIP47, kita akan membahas pengoperasiannya secara mendetail, dengan fokus pada metode kriptografi yang digunakan. Untuk memahami penjelasan yang agak teknis ini, pertama-tama kita harus memahami struktur dari HD Wallet, proses penurunan kunci, dan prinsip-prinsip dasar kriptografi berbasis kurva eliptik. Jika Anda ingin mempelajari lebih lanjut tentang konsep-konsep ini, kursus gratis lainnya tersedia di Plan ₿ Network:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *Saya sangat menyarankan Anda untuk mengikutinya, karena dengan memahami cara kerja teknis BIP47 akan membantu Anda lebih mudah memahami proposal serupa lainnya yang akan kita bahas di bab-bab selanjutnya*
 
 ---

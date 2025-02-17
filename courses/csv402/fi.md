@@ -45,7 +45,7 @@ Viimeisessä osiossa muut puhujat esittelevät konkreettisia RGB-pohjaisia sovel
 ---
 Tämä kurssi syntyi alun perin Viareggiossa, Toscanassa järjestetystä kahden viikon pituisesta kehittyneen kehityksen bootcampista, jonka järjesti [Fulgur'Ventures] (https://fulgur.ventures/). Ensimmäinen viikko, joka keskittyi Rustiin ja SDK:hon, löytyy tästä toisesta kurssista:
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 Tällä kurssilla keskitymme bootcampin toiseen viikkoon, joka keskittyy RGB:hen.
 
 **Viikko 1 - LNP402:**

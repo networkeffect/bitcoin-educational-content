@@ -45,7 +45,7 @@ objectives:
 ---
 このトレーニングコースは、もともと[Fulgur'Ventures](https://fulgur.ventures/)が主催した、トスカーナ州ヴィアレッジョでの2週間の上級開発ブートキャンプから発展したものです。RustとSDKに焦点を当てた最初の週は、この他のコースにあります：
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 このコースでは、ブートキャンプの2週目、RGBに焦点を当てる。
 
 **第1週 LNP402:**.

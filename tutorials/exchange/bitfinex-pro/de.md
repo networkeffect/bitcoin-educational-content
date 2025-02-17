@@ -12,7 +12,7 @@ In diesem Tutorial werden wir den Prozess der Erstellung eines Geschäftskontos 
 
 Wenn Sie sich für das Thema der Integration von Bitcoin in Ihr Unternehmen interessieren, empfehle ich Ihnen auch unsere komplette theoretische Schulung zu diesem Thema zu entdecken:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - Erstellen eines Bitfinex-Kontos
 
 Gehen Sie auf [die offizielle Bitfinex-Website] (https://www.bitfinex.com/). Klicken Sie auf der Startseite auf die Option "*Sign Up*", um Ihr Konto einzurichten. Zunächst erstellen Sie ein Standardkonto wie für Privatpersonen, die Option "*Corporate*" wird später während des Verifizierungsprozesses ausgewählt.
@@ -237,4 +237,4 @@ Abhängig von den Zielen und der Struktur Ihres Unternehmens kann die Nutzung vo
 
 Für einen tieferen Einblick in dieses Thema empfehle ich diesen umfassenden Schulungskurs über die Integration von Bitcoin in Unternehmen, der im Detail das Hinzufügen von Cashflow, die Annahme von Bitcoin-Zahlungen und die Buchhaltung behandelt:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

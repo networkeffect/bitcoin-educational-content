@@ -45,7 +45,7 @@ The final section is led by other speakers who present concrete RGB-based applic
 ---
 This training course originally grew out of a two-week advanced development bootcamp in Viareggio, Tuscany, organized by [Fulgur'Ventures](https://fulgur.ventures/). The first week, focused on Rust and SDKs, can be found in this other course:
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 In this course, we focus on the second week of the bootcamp, which focuses on RGB.
 
 **Week 1 - LNP402:**

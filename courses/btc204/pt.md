@@ -2739,7 +2739,7 @@ Embora estes robôs não tenham uma funcionalidade técnica específica no âmbi
 ---
 *Nas secções seguintes deste capítulo dedicadas ao BIP47, examinaremos o seu funcionamento em pormenor, concentrando-nos em particular nos métodos criptográficos utilizados. Para compreender plenamente estas explicações bastante técnicas, é essencial compreender primeiro a estrutura das carteiras HD, os processos de derivação de chaves e os princípios básicos da criptografia baseada em curvas elípticas. Se quiser saber mais sobre estes conceitos, existe outro curso gratuito disponível na Plan ₿ Network:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *Recomendo vivamente que o siga, porque compreender o funcionamento técnico do BIP47 ajudá-lo-á muito mais facilmente a compreender outras propostas semelhantes que discutiremos nos próximos capítulos.*
 
 ---

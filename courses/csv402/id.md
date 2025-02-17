@@ -45,7 +45,7 @@ Bagian terakhir dipandu oleh pembicara lain yang menyajikan aplikasi berbasis RG
 ---
 Kursus pelatihan ini awalnya berkembang dari bootcamp pengembangan lanjutan selama dua minggu di Viareggio, Tuscany, yang diselenggarakan oleh [Fulgur'Ventures](https://fulgur.ventures/). Minggu pertama, yang berfokus pada Rust dan SDK, dapat ditemukan di kursus lainnya:
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 Dalam kursus ini, kita akan fokus pada minggu kedua bootcamp, yang berfokus pada RGB.
 
 **Minggu 1 - LNP402:**

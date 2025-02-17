@@ -27,7 +27,7 @@ The diagram below illustrates the operation of a portfolio with two spending pat
 This operation allows you to set up various configurations, including :
 
 
-- A succession (or inheritance) plan, enabling heirs to recover funds in the event of the user's death. For more information on this subject, we recommend reading [part 4](https://planb.network/courses/btc102/233c88d3-2e8e-5eba-ac06-efe67a209038) of the BTC102 course.
+- A succession (or inheritance) plan, enabling heirs to recover funds in the event of the user's death. For more information on this subject, we recommend reading [part 4](https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f/233c88d3-2e8e-5eba-ac06-efe67a209038) of the BTC102 course.
 - A reinforced backup with a recovery time, giving the user the possibility of using his wallet without having to keep the corresponding secret phrase and risk having it stolen, during a burglary for example.
 - A safety net for people starting out with Bitcoin: they will manage their own wallet, and their "guardian" (a relative, for example) will reserve the right to recover their funds after a given period.
 - A multi-party signature scheme (*multisig*) with reduced requirements over time, to cope with the disappearance of one or more of the participants, such as a company's partners.
@@ -192,7 +192,7 @@ You can check the expiry status of your funds by going to the "*Coins*" tab. Thi
 
 To better understand the UTXO representation model used in Bitcoin, you can consult the first part of the course on confidentiality in Bitcoin written by Loïc Morel :
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 ## Current expenditure
 
 Current spending is the normal situation for using Liana. Sending bitcoins with the master key works as in all classic Bitcoin wallets such as Electrum or Sparrow.
@@ -338,4 +338,4 @@ The scripts created by this portfolio will take the following form:
 
 Since the security of your Bitcoin wallet also depends on your understanding of how it works, I suggest you study the mechanisms of deterministic and hierarchical wallets in depth by taking this free training course on Plan ₿ Network :
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f

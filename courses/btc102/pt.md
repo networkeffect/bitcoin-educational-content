@@ -165,7 +165,7 @@ Além das fraudes em criptomoedas e finanças, a principal razão para perder bi
 
 Se você não conhece muito sobre esse assunto, o curso SCU 101 pode ser interessante para aprofundar em detalhes.
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 É crucial manter seu computador em um estado de funcionamento ideal, esteja você interessado em Bitcoin ou não. Uma atualização não serve apenas para adicionar novos recursos: ela também corrige bugs e melhora a segurança de seus softwares. Portanto, certifique-se de:
 

@@ -144,7 +144,7 @@ Ma il Bitcoin è una "vera" moneta? Per capirlo, dobbiamo innanzitutto comprende
 
 Se volete approfondire la storia del Bitcoin, vi consigliamo il nostro corso HIS 201, in cui scoprirete le origini e il lento emergere del Bitcoin, nonché gli inizi della sua storia e della sua comunità. Questo corso è completamente documentato e documentato, con ovviamente molti aneddoti:
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # Il denaro
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ Una moneta che si affida a una terza parte fidata come un istituto finanziario �
 
 Per approfondire il tema delle iperinflazioni, vi consigliamo il corso ECO 204 di David St-Onge, dove imparerete cosa sono i cicli iperinflazionistici e il loro reale impatto sulla nostra vita. Scoprirete anche le analogie tra questi cicli e, soprattutto, come proteggervi da essi.
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 21 milioni di bitcoin
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ Ricordate di scegliere il portafoglio giusto per le vostre esigenze e il vostro 
 
 Se durante il vostro viaggio nella tana del coniglio volete saperne di più sulla costruzione di un portafoglio Bitcoin, dall'entropia alla ricezione degli indirizzi, vi consigliamo il corso CYP 201 dedicato a questo argomento:
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## Portafogli Bitcoin e sicurezza
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ Sia i portafogli "freddi" che quelli "caldi" utilizzano il metodo dell'elenco di
 
 Se poi volete scoprire, passo dopo passo, come creare il vostro portafoglio e ottenere i vostri primi bitcoin, vi consigliamo di seguire anche quest'altro corso:
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## Superare la prova del tempo
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ La teoria dei giochi applicata a Bitcoin elimina i minatori disonesti, che utili
 
 Se desiderate approfondire l'argomento specifico del mining di Bitcoin, potete consultare il nostro corso MIN 201. Scoprirete il funzionamento e il ruolo della Proof-of-Work, nonché i meccanismi dell'industria del mining. Vi spieghiamo anche come convertire un ASIC in un riscaldatore, consentendovi di estrarre i vostri primi satoshis mentre riscaldate la vostra casa!
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## Bitcoin ed ecologia
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

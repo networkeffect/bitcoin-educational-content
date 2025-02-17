@@ -161,7 +161,7 @@ Selain penipuan kriptokurensi dan penipuan finansial, alasan utama kehilangan bi
 
 Jika topik ini sepenuhnya baru bagi Anda, pelatihan SCU 101 bisa menjadi menarik untuk mendalami secara detail.
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 Sangat penting untuk menjaga komputer Anda dalam kondisi kerja optimal, apakah Anda tertarik dengan Bitcoin atau tidak. Pembaruan tidak hanya ada untuk menambahkan fitur baru: itu juga memperbaiki bug dan meningkatkan keamanan perangkat lunak Anda. Jadi, pastikan untuk:
 

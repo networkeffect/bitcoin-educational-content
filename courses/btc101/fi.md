@@ -144,7 +144,7 @@ Onko Bitcoin kuitenkin "oikea" valuutta? Tämän ymmärtämiseksi meidän on ens
 
 Jos haluat tutustua Bitcoinin historiaan tarkemmin, suosittelemme lämpimästi HIS 201 -kurssia, jossa tutustut Bitcoinin alkuperään ja hitaaseen syntyyn sekä sen historian ja yhteisön alkuihin. Tämä kurssi on täysin dokumentoitu ja varustettu lähteillä, ja siinä on tietenkin paljon anekdootteja:
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # Raha
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ Valuutta, joka on riippuvainen luotetusta kolmannesta osapuolesta, kuten rahoitu
 
 Jos haluat syventyä hyperinflaatioihin, suosittelemme David St-Ongen ECO 204 -kurssia, jossa opit, mitä hyperinflaatiosyklit ovat ja mitä todellisia vaikutuksia niillä on elämäämme. Saat myös selville näiden syklien väliset yhtäläisyydet ja, mikä tärkeintä, miten voit suojautua niiltä.
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 21 miljoonaa bitcoinia
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ Muista valita tarpeisiisi ja käyttötarkoituksiisi sopiva lompakko: yksityiskoh
 
 Jos haluat matkasi aikana oppia lisää Bitcoin-lompakon rakentamisesta entropiasta osoitteiden vastaanottamiseen, suosittelemme CYP 201 -kurssia, joka on omistettu tälle aiheelle:
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## Bitcoin-lompakot ja turvallisuus
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ Sekä "kylmät" että "kuumat" lompakot käyttävät sanaluettelomenetelmää yk
 
 Jos sitten haluat selvittää askel askeleelta, miten perustat oman lompakon ja saat ensimmäiset bitcoinisi, suosittelemme myös tämän toisen kurssin käymistä:
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## Ajan testin läpäiseminen
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ Bitcoiniin sovellettu peliteoria eliminoi epärehelliset louhijat, jotka käytt�
 
 Jos haluat syventyä tarkemmin Bitcoin-louhinnan aiheeseen, voit tutustua MIN 201 -kurssillemme. Tutustut Proof-of-Workin toimintaan ja rooliin sekä louhintateollisuuden mekaniikkaan. Selitämme myös, miten ASIC muunnetaan lämmittimeksi, jolloin voit louhia ensimmäiset satoshisi samalla kun lämmität kotiasi!
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## Bitcoin ja ekologia
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

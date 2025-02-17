@@ -2514,7 +2514,7 @@ Sebbene questi robot non abbiano una specifica funzionalità tecnica all'interno
 ---
 *Nelle sezioni seguenti di questo capitolo dedicato al BIP47, esamineremo nel dettaglio il suo funzionamento, concentrandoci in particolare sui metodi crittografici utilizzati. Per comprendere appieno queste spiegazioni piuttosto tecniche, è essenziale innanzitutto capire la struttura dei portafogli HD, i processi di derivazione delle chiavi e i principi fondamentali della crittografia basata su curve ellittiche. Se desiderate approfondire questi concetti, è disponibile un altro corso gratuito su Plan ₿ Network:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 
 *Vi consiglio vivamente di seguirlo, perché comprendere il funzionamento tecnico del BIP47 vi aiuterà a comprendere molto più facilmente altre proposte simili di cui parleremo nei prossimi capitoli.*
 

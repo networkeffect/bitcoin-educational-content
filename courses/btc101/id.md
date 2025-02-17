@@ -144,7 +144,7 @@ Namun, apakah Bitcoin adalah mata uang "nyata"? Untuk memahami hal ini, pertama-
 
 Jika Anda ingin menjelajahi sejarah Bitcoin secara lebih detail, kami sangat merekomendasikan kursus HIS 201, di mana Anda akan menemukan asal-usul dan kemunculan Bitcoin yang lambat, serta awal mula sejarah dan komunitasnya. Kursus ini sepenuhnya didokumentasikan dan bersumber, dengan, tentu saja, banyak anekdot:
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # Uang
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ Mata uang yang bergantung pada pihak ketiga yang tepercaya seperti lembaga keuan
 
 Untuk mempelajari lebih dalam tentang hiperinflasi, kami merekomendasikan kursus ECO 204 dari David St-Onge, di mana Anda akan mempelajari apa itu siklus hiperinflasi dan dampaknya terhadap kehidupan kita. Anda juga akan menemukan kesamaan antara siklus-siklus ini dan, yang paling penting, bagaimana melindungi diri Anda dari siklus-siklus tersebut.
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 21 juta bitcoin
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ Ingatlah untuk memilih dompet yang tepat untuk kebutuhan dan penggunaan Anda: tu
 
 Jika, selama perjalanan Anda menyusuri lubang kelinci, Anda ingin mempelajari lebih lanjut tentang membuat dompet Bitcoin, mulai dari entropi hingga menerima alamat, kami merekomendasikan kursus CYP 201 yang didedikasikan untuk topik ini:
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## Dompet dan Keamanan Bitcoin
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ Baik dompet 'dingin' maupun 'panas' menggunakan metode daftar kata sebagai stand
 
 Jika Anda ingin mengetahui, langkah demi langkah, cara membuat wallet Anda sendiri dan mendapatkan bitcoin pertama Anda, kami juga merekomendasikan untuk mengikuti kursus lainnya:
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## Melewati Ujian Waktu
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ Teori permainan yang diterapkan pada Bitcoin mengeliminasi para penambang yang t
 
 Jika Anda ingin mempelajari lebih dalam tentang topik spesifik penambangan Bitcoin, Anda dapat melihat kursus MIN 201 kami. Anda akan menemukan cara kerja dan peran Proof-of-Work, serta mekanisme industri pertambangan. Kami juga akan menjelaskan cara mengubah ASIC menjadi pemanas, sehingga Anda dapat menambang satoshi pertama Anda sambil menghangatkan rumah Anda!
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## Bitcoin dan Ekologi
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

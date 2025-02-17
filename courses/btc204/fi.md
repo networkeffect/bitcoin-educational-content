@@ -2739,7 +2739,7 @@ Vaikka näillä roboteilla ei ole erityistä teknistä toimintoa BIP47-kehyksess
 ---
 *Tämän luvun seuraavissa BIP47:ää käsittelevissä osissa tarkastellaan yksityiskohtaisesti sen toimintaa ja keskitytään erityisesti käytettyihin salausmenetelmiin. Näiden melko teknisten selitysten ymmärtämiseksi on ensin ymmärrettävä HD-lompakoiden rakenne, avainten johdatusprosessit ja elliptisiin käyriin perustuvan kryptografian perusperiaatteet. Jos haluat oppia lisää näistä käsitteistä, toinen ilmainen kurssi on saatavilla Plan ₿ Networkista:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *Suosittelen lämpimästi sen seuraamista, sillä BIP47:n teknisen toiminnan ymmärtäminen auttaa sinua ymmärtämään paljon helpommin muita vastaavia ehdotuksia, joita käsittelemme tulevissa luvuissa.*
 
 ---

@@ -27,7 +27,7 @@ Il diagramma seguente illustra il funzionamento di un portafoglio con due percor
 Questa operazione consente di impostare varie configurazioni, tra cui :
 
 
-- Un piano di successione (o eredità) che consente agli eredi di recuperare i fondi in caso di morte dell'utente. Per maggiori informazioni su questo argomento, si consiglia la lettura della [parte 4](https://planb.network/courses/btc102/233c88d3-2e8e-5eba-ac06-efe67a209038) del corso BTC102.
+- Un piano di successione (o eredità) che consente agli eredi di recuperare i fondi in caso di morte dell'utente. Per maggiori informazioni su questo argomento, si consiglia la lettura della [parte 4](https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f/233c88d3-2e8e-5eba-ac06-efe67a209038) del corso BTC102.
 - Un backup rinforzato con un tempo di ripristino, che offre all'utente la possibilità di utilizzare il proprio portafoglio senza dover conservare la frase segreta corrispondente e rischiare di vederselo rubare, ad esempio durante un furto.
 - Una rete di sicurezza per le persone che iniziano a utilizzare i Bitcoin: esse gestiranno il proprio portafoglio e il loro "tutore" (un parente, ad esempio) si riserverà il diritto di recuperare i loro fondi dopo un determinato periodo.
 - Uno schema di firma multiparte (*multisig*) con requisiti ridotti nel tempo, per far fronte alla scomparsa di uno o più partecipanti, come ad esempio i soci di un'azienda.
@@ -192,7 +192,7 @@ Una volta inviati i fondi, la transazione appare nella schermata principale (pri
 
 Per comprendere meglio il modello di rappresentazione UTXO utilizzato in Bitcoin, è possibile consultare la prima parte del corso sulla riservatezza in Bitcoin scritto da Loïc Morel :
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 ## Spese correnti
 
 La spesa corrente è la situazione normale per l'utilizzo di Liana. L'invio di bitcoin con la chiave master funziona come in tutti i portafogli Bitcoin classici, come Electrum o Sparrow.
@@ -338,4 +338,4 @@ Gli script creati da questo portfolio avranno la seguente forma:
 
 Poiché la sicurezza del vostro portafoglio Bitcoin dipende anche dalla comprensione del suo funzionamento, vi suggerisco di studiare a fondo i meccanismi dei portafogli deterministici e gerarchici seguendo questo corso di formazione gratuito su Plan ₿ Network :
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f

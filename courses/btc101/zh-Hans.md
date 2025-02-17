@@ -144,7 +144,7 @@ objectives:
 
 如果您想更详细地了解比特币的历史，我们强烈推荐您参加我们的 HIS 201 课程，在这里您将发现比特币的起源和缓慢出现，以及其历史和社区的开端。这门课程有完整的记录和资料来源，当然还有许多趣闻轶事：
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # 金钱
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 
 要深入了解恶性通货膨胀这一主题，我们向您推荐 David St-Onge 的 ECO 204 课程，在该课程中，您将了解什么是恶性通货膨胀周期及其对我们生活的实际影响。您还将发现这些周期之间的相似之处，最重要的是，如何保护自己免受其害。
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 2100 万比特币
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ https://planb.network/courses/eco204
 
 如果您在兔子洞的旅途中，想要了解更多关于构建比特币钱包的知识，从熵到接收地址，我们向您推荐专门针对这一主题的 CYP 201 课程：
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## 比特币钱包与安全
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ https://planb.network/en/courses/btc102
 
 如果你想逐步了解如何设置自己的钱包并获得第一枚比特币，我们还推荐你参加另一门课程：
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## 通过时间的考验
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ https://planb.network/courses/btc102
 
 如果您想深入了解比特币挖矿的具体内容，可以参考我们的 MIN 201 课程。您将了解 "工作证明"（Proof-of-Work）的运作和作用，以及挖矿行业的机制。我们还将讲解如何将 ASIC 转换成加热器，让您在为家中取暖的同时挖出第一枚比特币！
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## 比特币与生态学
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

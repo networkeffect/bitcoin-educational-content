@@ -45,7 +45,7 @@ Der letzte Abschnitt wird von anderen Referenten geleitet, die konkrete RGB-basi
 ---
 Dieser Schulungskurs entstand ursprünglich aus einem zweiwöchigen Bootcamp für fortgeschrittene Entwickler in Viareggio, Toskana, organisiert von [Fulgur'Ventures] (https://fulgur.ventures/). Die erste Woche, die sich auf Rust und SDKs konzentrierte, kann in diesem anderen Kurs nachgelesen werden:
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 In diesem Kurs konzentrieren wir uns auf die zweite Woche des Bootcamps, in der es um RGB geht.
 
 **Woche 1 - LNP402:**

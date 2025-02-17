@@ -2739,7 +2739,7 @@ Obwohl diese Roboter im Rahmen von BIP47 keine spezifische technische Funktion h
 ---
 *In den folgenden Abschnitten dieses Kapitels, die BIP47 gewidmet sind, werden wir seine Funktionsweise im Detail untersuchen und uns dabei insbesondere auf die verwendeten kryptografischen Methoden konzentrieren. Um diese eher technischen Erklärungen vollständig zu verstehen, ist es zunächst wichtig, die Struktur von HD-Wallets, Schlüsselableitungsprozesse und die Grundprinzipien der auf elliptischen Kurven basierenden Kryptografie zu verstehen. Wenn Sie mehr über diese Konzepte erfahren möchten, steht Ihnen ein weiterer kostenloser Kurs vom Plan ₿ Network zur Verfügung:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *Ich empfehle Ihnen dringend, ihn zu verfolgen, denn wenn Sie die technische Funktionsweise von BIP47 verstehen, werden Sie andere ähnliche Vorschläge, die wir in den kommenden Kapiteln besprechen werden, viel leichter verstehen
 
 ---

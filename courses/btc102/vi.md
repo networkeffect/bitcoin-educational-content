@@ -161,7 +161,7 @@ Ngoài lừa đảo tiền mã hóa và lừa đảo tài chính, lý do chính 
 
 Nếu chủ đề này hoàn toàn mới mẻ với bạn, bạn nên khám phá chi tiết khóa học SECU 101, đó là một khoá học rất thú vị.
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 Việc giữ cho máy tính của bạn ở tình trạng làm việc tối ưu là rất quan trọng, cho dù bạn quan tâm đến Bitcoin hay không. Một bản cập nhật không chỉ để thêm tính năng mới: nó cũng sửa chữa lỗi và cải thiện bảo mật của phần mềm của bạn. Vì vậy, hãy đảm bảo:
 

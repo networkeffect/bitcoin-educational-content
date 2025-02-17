@@ -2739,7 +2739,7 @@ Ačkoli tito roboti nemají v rámci BIP47 specifickou technickou funkci, hrají
 ---
 *V následujících částech této kapitoly věnovaných protokolu BIP47 se budeme podrobně zabývat jeho fungováním a zaměříme se zejména na použité kryptografické metody. Pro úplné pochopení těchto spíše technických výkladů je nejprve nezbytné porozumět struktuře peněženek HD, procesům odvozování klíčů a základním principům kryptografie založené na eliptických křivkách. Pokud se chcete o těchto pojmech dozvědět více, je k dispozici další bezplatný kurz sítě Plan ₿:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *Vřele vám doporučuji, abyste se jím řídili, protože pochopení technického fungování BIP47 vám pomůže mnohem lépe porozumět dalším podobným návrhům, které budeme probírat v následujících kapitolách.*
 
 ---

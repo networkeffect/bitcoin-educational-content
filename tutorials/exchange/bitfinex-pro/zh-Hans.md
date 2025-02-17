@@ -12,7 +12,7 @@ Bitfinex 成立于 2012 年，是最早的比特币和另类币交易平台之�
 
 如果你对将比特币融入你的业务感兴趣，我还建议你了解我们关于这个主题的完整理论培训课程：
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - 创建 Bitfinex 账户
 
 访问 [Bitfinex 官方网站](https://www.bitfinex.com/)。在主页上找到并点击 "*注册*"选项，开始创建账户。首先，您将创建一个个人标准账户，随后在验证过程中将选择 "*公司*"选项。
@@ -237,4 +237,4 @@ Bitfinex 提供多种交易模式。为方便使用，请选择经典的现货�
 
 如果想更深入地了解这一主题，我推荐这门关于将比特币融入企业的综合培训课程，其中详细介绍了增加现金流、接受比特币支付和会计等内容：
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

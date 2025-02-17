@@ -685,7 +685,7 @@ Matematika kurva eliptik di atas lapangan terbatas analog dengan yang di atas la
 
 Jika Anda ingin mempelajari lebih lanjut tentang dasar-dasar matematika kriptografi modern, saya juga merekomendasikan untuk berkonsultasi dengan kursus lain di Jaringan Plan ₿:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Menghitung Kunci Publik dari Kunci Privat
 
@@ -1104,7 +1104,7 @@ Keterbatasan ini berasal dari model privasi Bitcoin. Dengan menggunakan alamat y
 
 Untuk mempelajari lebih lanjut tentang model privasi Bitcoin dan menemukan metode untuk melindungi privasi Anda, saya juga merekomendasikan mengikuti kursus BTC204 saya di Plan ₿ Network:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### Dompet HD (_Hierarchical Deterministic_)
 

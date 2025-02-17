@@ -161,7 +161,7 @@ objectives:
 
 如果这个话题对您完全陌生，SCU 101培训可以让您详细了解它。
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 无论您是否对比特币感兴趣，保持计算机处于最佳工作状态都至关重要。更新不仅仅是为了添加新功能：它还修复漏洞并提高软件的安全性。所以，请确保：
 

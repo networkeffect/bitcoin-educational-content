@@ -45,7 +45,7 @@ objectives:
 ---
 本培训课程最初源于 [Fulgur'Ventures](https://fulgur.ventures/) 在托斯卡纳 Viareggio 举办的为期两周的高级开发训练营。第一周的重点是 Rust 和 SDK，可在另一个课程中找到：
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 在本课程中，我们将重点讲解新兵训练营的第二周内容，即 RGB。
 
 **第 1 周 - LNP402:**

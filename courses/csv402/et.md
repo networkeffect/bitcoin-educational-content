@@ -45,7 +45,7 @@ Viimase osa juhivad teised kõnelejad, kes tutvustavad konkreetseid RGB-põhisei
 ---
 See koolituskursus kasvas algselt välja kahenädalasest edasijõudnute arenduslaagrist Viareggios, Toscanas, mille korraldas [Fulgur'Ventures] (https://fulgur.ventures/). Esimene nädal, mis keskendus Rustile ja SDK-dele, on leitav sellest teisest kursusest:
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 Sellel kursusel keskendume stardilaagri teisele nädalale, mis keskendub RGB-le.
 
 **Nädal 1 - LNP402:**

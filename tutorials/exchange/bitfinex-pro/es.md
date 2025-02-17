@@ -12,7 +12,7 @@ En este tutorial, cubriremos el proceso de creación de una cuenta comercial en 
 
 Si te interesa el tema de la integración del bitcoin en tu negocio, te recomiendo también que descubras nuestro completo curso de formación teórica sobre el tema:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - Crear una cuenta Bitfinex
 
 Visite [el sitio web oficial de Bitfinex](https://www.bitfinex.com/). En la página de inicio, busque y haga clic en la opción "*Sign Up*" para empezar a crear su cuenta. Al principio, creará una cuenta estándar como para particulares, la opción "*Corporate*" se seleccionará más tarde durante el proceso de verificación.
@@ -237,4 +237,4 @@ Dependiendo de los objetivos y la estructura de su empresa, el uso de Bitfinex p
 
 Para profundizar en este tema, recomiendo este completo curso de formación sobre la integración de bitcoin en las empresas, que cubre en detalle la adición al flujo de caja, la aceptación de pagos bitcoin, y la contabilidad :
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

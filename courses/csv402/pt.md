@@ -45,7 +45,7 @@ A secção final é conduzida por outros oradores que apresentam aplicações co
 ---
 Este curso de formação surgiu originalmente de um bootcamp de desenvolvimento avançado de duas semanas em Viareggio, Toscana, organizado pela [Fulgur'Ventures](https://fulgur.ventures/). A primeira semana, focada em Rust e SDKs, pode ser encontrada neste outro curso:
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 Neste curso, concentramo-nos na segunda semana do bootcamp, que se centra no RGB.
 
 **Semana 1 - LNP402:**

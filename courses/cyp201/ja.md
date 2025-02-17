@@ -704,7 +704,7 @@ $$
 
 現代暗号学の数学的基礎についてさらに学びたい場合は、Plan ₿ Network上のこの他のコースもお勧めします：
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## 私鍵から公開鍵を計算する
 <chapterId>fcb2bd58-5dda-5ecf-bb8f-ad1a0561ab4a</chapterId>
@@ -1138,7 +1138,7 @@ UTXOsは、さまざまなサイズのビットコインの断片を表し、そ
 
 ビットコインのプライバシーモデルについてさらに学び、プライバシーを保護する方法を発見するために、Plan ₿ NetworkのBTC204コースをフォローすることもお勧めします：
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### HDウォレット（_Hierarchical Deterministic_）
 

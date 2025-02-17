@@ -12,7 +12,7 @@ Selles õpetuses käsitleme Bitfinexis ärikonto loomise protsessi, bitcoinide o
 
 Kui olete huvitatud bitcoini integreerimisest oma ettevõttesse, siis soovitan ka meie täielikku teoreetilist koolituskursust sel teemal:
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a
 ## 1 - Bitfinexi konto loomine
 
 Mine [ametlikule Bitfinexi veebisaidile](https://www.bitfinex.com/). Leidke kodulehelt ja klõpsake "*Sign Up*", et alustada konto loomist. Kõigepealt loote standardkonto nagu eraisikutele, "*Corporate*" valik valitakse hiljem kinnitamisprotsessi käigus.
@@ -237,4 +237,4 @@ Sõltuvalt teie ettevõtte eesmärkidest ja struktuurist võib Bitfinexi kasutam
 
 Sest põhjalikumalt vaadelda seda teemat, Soovitan seda põhjalikku koolituse integreerimise Bitcoin arvesse ettevõtete, mis hõlmab üksikasjalikult lisades rahavoogude, vastuvõtva Bitcoin maksete, ja raamatupidamine :
 
-https://planb.network/courses/biz101
+https://planb.network/courses/a804c4b6-9ff5-4a29-a530-7d2f5d04bb7a

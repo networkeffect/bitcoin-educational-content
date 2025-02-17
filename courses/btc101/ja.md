@@ -144,7 +144,7 @@ objectives:
 
 ビットコインの歴史をより詳しく知りたい方は、ビットコインの起源とゆっくりとした出現、そしてその歴史とコミュニティの始まりを発見するHIS 201コースを強くお勧めします。このコースは完全に文書化され、ソースが提供され、もちろん多くの逸話があります：
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # お金
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 
 ハイパーインフレとは何か、そしてハイパーインフレが私たちの生活に与える実際の影響について学びます。このコースでは、ハイパーインフレのサイクルとは何か、そして私たちの生活に実際にどのような影響を及ぼすのかを学びます。また、これらのサイクルの類似点、そして最も重要なことですが、ハイパーインフレから身を守る方法を発見するでしょう。
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 2100万ビットコイン
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ https://planb.network/courses/eco204
 
 ビットコイン・ウォレットの構築について、エントロピーからアドレスの受信まで、さらに詳しく学びたい場合は、このトピックに特化したCYP 201コースをお勧めします：
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## ビットコイン・ウォレットとセキュリティ
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ https://planb.network/en/courses/btc102
 
 自分のウォレットをセットアップし、最初のビットコインを手に入れる方法をステップ・バイ・ステップで学びたい場合は、この他のコースも受講することをお勧めします：
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## 時の試練を乗り越える
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ Bobが自分の取引をビットコインネットワークに送信し、マ�
 
 ビットコインマイニングの具体的なトピックを深く掘り下げたい場合は、MIN 201コースをご参照ください。このコースでは、Proof-of-Workの仕組みや役割、マイニング業界の仕組みについて学びます。また、ASICをヒーターに変換する方法も説明しますので、ご自宅を暖めながら最初のサトシを採掘することができます！
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## ビットコインとエコロジー
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

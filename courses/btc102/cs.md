@@ -162,7 +162,7 @@ Kromě podvodů s kryptoměnami a finančních podvodů je hlavním důvodem ztr
 
 Pokud je pro vás toto téma zcela neznámé, školení SCU 101 může být zajímavé pro podrobné prozkoumání.
 
-https://planb.network/courses/scu101
+https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
 Je zásadní udržovat váš počítač ve vynikajícím pracovním stavu, ať už vás Bitcoin zajímá, nebo ne. Aktualizace není jen pro přidání nových funkcí: také opravuje chyby a zlepšuje bezpečnost vašeho softwaru. Takže se ujistěte, že:
 

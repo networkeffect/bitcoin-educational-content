@@ -27,7 +27,7 @@ Das nachstehende Diagramm veranschaulicht die Funktionsweise eines Portfolios mi
 Mit diesem Vorgang können Sie verschiedene Konfigurationen einrichten, darunter :
 
 
-- Ein Nachfolgeplan (oder Erbschaftsplan), der es den Erben ermöglicht, im Falle des Todes des Nutzers Gelder zurückzuerhalten. Für weitere Informationen zu diesem Thema empfehlen wir die Lektüre von [Teil 4] (https://planb.network/courses/btc102/233c88d3-2e8e-5eba-ac06-efe67a209038) des Kurses BTC102.
+- Ein Nachfolgeplan (oder Erbschaftsplan), der es den Erben ermöglicht, im Falle des Todes des Nutzers Gelder zurückzuerhalten. Für weitere Informationen zu diesem Thema empfehlen wir die Lektüre von [Teil 4] (https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f/233c88d3-2e8e-5eba-ac06-efe67a209038) des Kurses BTC102.
 - Ein verstärktes Backup mit Wiederherstellungszeit, das dem Nutzer die Möglichkeit gibt, sein Portemonnaie zu benutzen, ohne dass er die entsprechende geheime Phrase aufbewahren und riskieren muss, dass sie gestohlen wird, z. B. bei einem Einbruch.
 - Ein Sicherheitsnetz für Menschen, die mit Bitcoin anfangen: Sie verwalten ihre eigene Wallet, und ihr "Vormund" (z. B. ein Verwandter) behält sich das Recht vor, ihre Gelder nach einer bestimmten Zeit zurückzuholen.
 - Ein Mehrparteien-Signatursystem (*multisig*) mit reduzierten Anforderungen im Laufe der Zeit, um das Verschwinden eines oder mehrerer Teilnehmer, z. B. der Partner eines Unternehmens, zu bewältigen.
@@ -192,7 +192,7 @@ Sie können den Verfallsstatus Ihres Guthabens überprüfen, indem Sie auf die R
 
 Um das in Bitcoin verwendete UTXO-Darstellungsmodell besser zu verstehen, können Sie den ersten Teil des von Loïc Morel geschriebenen Kurses über Vertraulichkeit in Bitcoin lesen:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 ## Laufende Ausgaben
 
 Laufende Ausgaben sind der Normalfall für die Nutzung von Liana. Das Versenden von Bitcoins mit dem Master Key funktioniert wie bei allen klassischen Bitcoin-Wallets wie Electrum oder Sparrow.
@@ -338,4 +338,4 @@ Die von diesem Portfolio erstellten Skripte haben die folgende Form:
 
 Da die Sicherheit Ihrer Bitcoin-Wallet auch davon abhängt, dass Sie verstehen, wie sie funktioniert, schlage ich vor, dass Sie die Mechanismen von deterministischen und hierarchischen Wallets in diesem kostenlosen Trainingskurs auf Plan ₿ Network eingehend studieren:
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f

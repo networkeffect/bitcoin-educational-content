@@ -45,7 +45,7 @@ Závěrečná část je vedena dalšími přednášejícími, kteří představ�
 ---
 Tento školící kurz původně vznikl na základě dvoutýdenního výcvikového tábora pro pokročilé vývojáře ve Viareggiu v Toskánsku, který pořádala společnost [Fulgur'Ventures](https://fulgur.ventures/). První týden, zaměřený na Rust a SDK, najdete v tomto jiném kurzu:
 
-https://planb.network/courses/lnp402
+https://planb.network/courses/9fbd8b57-f278-4304-8d88-a2d384eaff58
 V tomto kurzu se zaměříme na druhý týden bootcampu, který je zaměřen na RGB.
 
 **Týden 1 - LNP402:**

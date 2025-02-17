@@ -683,7 +683,7 @@ Matematika eliptických křivek nad konečnými tělesy je analogická té nad t
 
 Pokud se chcete dozvědět více o matematických základech moderní kryptografie, doporučuji také konzultovat tento další kurz na Plan ₿ Network:
 
-https://planb.network/courses/cyp302
+https://planb.network/courses/d2fd9fc0-d9ed-4a87-9fa3-0fdbb3937e28
 
 ## Výpočet veřejného klíče z privátního klíče
 
@@ -1101,7 +1101,7 @@ Toto omezení vyplývá z modelu soukromí Bitcoinu. Opakovaným používáním 
 
 Pro více informací o modelu soukromí Bitcoinu a objevení metod, jak chránit vaše soukromí, doporučuji také sledovat můj kurz BTC204 na Plan ₿ Network:
 
-https://planb.network/courses/btc204
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
 
 ### HD Peněženky (_Hierarchical Deterministic_)
 

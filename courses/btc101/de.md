@@ -144,7 +144,7 @@ Aber ist Bitcoin eine "echte" Währung? Um dies zu verstehen, müssen wir zunäc
 
 Wenn Sie die Geschichte von Bitcoin genauer erforschen möchten, empfehlen wir Ihnen unseren Kurs HIS 201, in dem Sie die Ursprünge und die langsame Entstehung von Bitcoin sowie die Anfänge seiner Geschichte und seiner Gemeinschaft entdecken werden. Dieser Kurs ist vollständig dokumentiert und mit Quellen belegt, natürlich mit vielen Anekdoten:
 
-https://planb.network/courses/his201
+https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 # Geld
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
@@ -365,7 +365,7 @@ Eine Währung, die sich auf eine vertrauenswürdige dritte Partei wie ein Finanz
 
 Zur Vertiefung des Themas Hyperinflation empfehlen wir Ihnen den Kurs ECO 204 von David St-Onge, in dem Sie lernen, was Hyperinflationszyklen sind und welche Auswirkungen sie tatsächlich auf unser Leben haben. Sie werden auch die Gemeinsamkeiten zwischen diesen Zyklen entdecken und vor allem erfahren, wie Sie sich vor ihnen schützen können.
 
-https://planb.network/courses/eco204
+https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
 ## 21 Millionen Bitcoins
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
@@ -548,7 +548,7 @@ Denken Sie daran, die richtige Geldbörse für Ihre Bedürfnisse und Ihre Nutzun
 
 Wenn Sie auf Ihrer Reise in den Kaninchenbau mehr über den Aufbau einer Bitcoin-Wallet erfahren möchten, von der Entropie bis zum Empfang von Adressen, empfehlen wir Ihnen den Kurs CYP 201, der diesem Thema gewidmet ist:
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ## Bitcoin-Wallets und Sicherheit
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
@@ -658,7 +658,7 @@ Sowohl "kalte" als auch "heiße" Geldbörsen verwenden die Wortlistenmethode als
 
 Wenn Sie dann Schritt für Schritt erfahren möchten, wie Sie Ihr eigenes Wallet einrichten und Ihre ersten Bitcoins bekommen, empfehlen wir Ihnen auch diesen anderen Kurs zu besuchen:
 
-https://planb.network/courses/btc102
+https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
 ## Den Test der Zeit bestehen
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
@@ -955,7 +955,7 @@ Die auf Bitcoin angewandte Spieltheorie schließt unehrliche Miner aus, die ASIC
 
 Wenn Sie tiefer in das Thema Bitcoin-Mining einsteigen wollen, können Sie unseren Kurs MIN 201 besuchen. Sie werden die Funktionsweise und die Rolle des Proof-of-Work sowie die Mechanismen der Mining-Industrie kennenlernen. Wir erklären Ihnen auch, wie Sie einen ASIC in eine Heizung umwandeln können, so dass Sie Ihre ersten Satoshis schürfen können, während Sie Ihr Haus heizen!
 
-https://planb.network/courses/min201
+https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 ## Bitcoin und Ökologie
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>

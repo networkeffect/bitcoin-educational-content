@@ -2749,7 +2749,7 @@ Although these robots do not have a specific technical functionality within the 
 ---
 *In the following sections of this chapter devoted to BIP47, we will examine its operation in detail, focusing in particular on the cryptographic methods used. To fully understand these rather technical explanations, it is first essential to understand the structure of HD wallets, key derivation processes, and the basic principles of elliptic curve-based cryptography. If you would like to learn more about these concepts, another free course is available from Plan ₿ Network:*
 
-https://planb.network/courses/cyp201
+https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 *I highly recommend you follow it, because understanding the technical workings of BIP47 will help you much more easily understand other similar proposals that we will discuss in the coming chapters.*
 
 ---
