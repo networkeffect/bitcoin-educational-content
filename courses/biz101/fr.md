@@ -26,7 +26,7 @@ Que vous soyez une **petite entreprise ou une grande société**, l'intégration
 
 <chapterId>1be42be9-4080-49f5-b5b2-6b531dd55f5f</chapterId>
 
-Démarrez le voyage de votre entreprise sur le réseau Bitcoin avec ce cours de formation complet - une passerelle pour comprendre comment Bitcoin et le Lightning Network peuvent révolutionner les opérations commerciales traditionnelles. Ce cours est conçu pour les détaillants, les entrepreneurs, les gestionnaires et les décideurs d'entreprise qui souhaitent explorer les capacités pratiques de Bitcoin en tant que réseau monétaire mondial natif de l'Internet et en tant que moyen robuste d'échange de valeurs.
+Démarrez le voyage de votre entreprise sur le réseau Bitcoin avec ce cours de formation complet - une passerelle pour comprendre comment Bitcoin et le Lightning Network peuvent révolutionner les opérations commerciales traditionnelles. Ce cours est conçu pour les marchands, les entrepreneurs, les gestionnaires et les décideurs d'entreprise qui souhaitent explorer les capacités pratiques de Bitcoin en tant que réseau monétaire mondial natif de l'Internet et en tant que moyen robuste d'échange de valeurs.
 
 Tout au long du cours, vous serez initié aux principes fondamentaux qui font de Bitcoin et du Lightning Network des outils de transformation distincts. Vous apprendrez comment ces technologies offrent un éventail de cas d'utilisation, du stockage de capital numérique aux paiements rapides, économiques et évolutifs, et comment elles apportent des améliorations essentielles par rapport à la monnaie traditionnelle et aux systèmes de paiement. Le cours BIZ101 relie la théorie économique aux applications du monde réel, en clarifiant comment la décentralisation peut réduire les dépendances aux intermédiaires et surmonter les limitations inhérentes aux systèmes existants.
 
@@ -46,7 +46,7 @@ Que vous représentiez une petite entreprise ou une grande société, ce cours v
 
 Les monnaies sont fondamentalement des réseaux qui permettent l'échange efficace de valeurs.
 
-En l'absence de monnaie, les individus doivent s'en remettre au **barbotage**, un système dans lequel les biens ou les services sont échangés directement. Le troc n'est pas pratique car il exige une "double coïncidence des désirs" : les deux parties doivent désirer ce que l'autre offre en même temps. Par exemple, si un agriculteur disposant d'un surplus de blé veut des chaussures, il doit trouver un cordonnier qui a spécifiquement besoin de blé. Cette situation est rare et inefficace. En outre, **avec n produits dans une économie de troc, il faut ~n(n-1)/2 taux de change**, ce qui crée un système extrêmement complexe et lourd. Par exemple, il faudrait plus de ~124 000 taux de change pour seulement 500 produits.
+En l'absence de monnaie, les individus doivent s'en remettre au **troc**, un système dans lequel les biens ou les services sont échangés directement. Le troc n'est pas pratique car il exige une "double coïncidence des besoins" : les deux parties doivent désirer ce que l'autre offre en même temps. Par exemple, si un agriculteur disposant d'un surplus de blé veut des chaussures, il doit trouver un cordonnier qui a spécifiquement besoin de blé. Cette situation est rare et inefficace. En outre, **avec n produits dans une économie de troc, il faut ~n(n-1)/2 taux de change**, ce qui crée un système extrêmement complexe et lourd. Par exemple, il faudrait plus de ~124 000 taux de change pour seulement 500 produits.
 
 La monnaie simplifie cela en agissant comme un intermédiaire, créant **un réseau qui réduit le nombre de taux de change à n** - un pour chaque produit par rapport à la monnaie. Cela rend les transactions beaucoup plus simples et **permet aux gens d'échanger des biens et des services sans avoir besoin de désirs mutuels en même temps**. Au lieu d'échanger directement du blé contre des chaussures, l'agriculteur peut vendre son blé contre de la monnaie et utiliser ensuite cette monnaie pour acheter des chaussures ou toute autre chose dont il a besoin.
 
@@ -63,22 +63,16 @@ En conclusion, les monnaies sont des réseaux conçus pour transférer efficacem
 Une bonne monnaie possède plusieurs propriétés essentielles qui la rendent efficace pour faciliter l'échange de valeurs. Voici une explication concise de chacune d'entre elles :
 
 
-- Sécurisée** : Une monnaie doit être protégée contre le vol ou l'accès non autorisé, afin que les utilisateurs puissent la détenir et la transférer en toute confiance. La sécurité est essentielle pour instaurer la confiance dans le système.
-- Inattaquable par la contrefaçon** : Une monnaie doit être extrêmement difficile, voire impossible à contrefaire. Cela garantit que chaque unité est authentique, conserve sa valeur et empêche l'inflation causée par la mise en circulation de fausses unités. Par exemple, historiquement, l'or a été apprécié non seulement pour sa beauté et sa rareté, mais aussi parce qu'il est extrêmement difficile à produire. Contrairement aux billets de banque ou aux entrées numériques, il est impossible de "fabriquer" de l'or : il faut l'extraire de la terre. Cette rareté naturelle et cette difficulté de production ont permis à l'or de conserver son statut de réserve de valeur fiable et de référence en matière d'authenticité.
-- Rareté** : Une bonne monnaie doit avoir une offre limitée ou une émission contrôlée. La rareté permet de préserver sa valeur dans le temps et d'éviter la surproduction, qui éroderait le pouvoir d'achat. Par exemple, certaines tribus amérindiennes utilisaient des perles comme monnaie. Au départ, ces perles étaient difficiles à produire, ce qui maintenait leur rareté et leur valeur. Cependant, lorsque les commerçants européens ont commencé à produire en masse et à inonder le marché de perles, leur rareté a disparu. À mesure que l'offre augmentait, les perles perdaient leur pouvoir d'achat, ce qui compromettait leur rôle de réserve de valeur fiable.
-- Sans autorisation** : Dans le passé, les monnaies telles que les pièces d'or et d'argent étaient souvent frappées par des particuliers, des autorités locales ou des marchands qui avaient accès aux matières premières. Ce système fonctionnait parfois dans le cadre d'accords ou de licences accordés par des rois ou des dirigeants. Au fil du temps, les rois et les gouvernements ont centralisé ce processus afin de mieux contrôler la stabilité économique, la fiscalité et le système monétaire. Un exemple célèbre est le **thaler**, une pièce d'argent frappée pour la première fois en 1518 dans la **vallée de Joachimsthal** (aujourd'hui Jáchymov en République tchèque) par les mineurs et les autorités locales. Le nom "thaler" dérive du mot allemand **"Thal "** qui signifie "vallée" Ces pièces, réputées pour la qualité de leur argent, ont été largement diffusées dans toute l'Europe. Au fil du temps, le terme a évolué d'un point de vue linguistique et géographique, pour finalement donner naissance au nom "dollar", adopté par les États-Unis pour leur monnaie.
-
-À l'ère moderne, les monnaies sont devenues entièrement autorisées dans le cadre du système de seigneuriage, ce qui signifie que seules les entités autorisées - telles que les banques centrales ou les trésors - peuvent frapper des pièces de monnaie ou imprimer des billets de banque. Les particuliers ne sont plus légalement autorisés à produire de la monnaie, ce qui garantit un contrôle centralisé de son émission et de son approvisionnement.
-
-Aujourd'hui, le principe du seigneuriage est remis en question par la crypto-monnaie Bitcoin, qui fonctionne sans contrôle centralisé. Le bitcoin est un système "sans permission" dans lequel chacun peut participer à l'utilisation de la monnaie sans en demander la permission et, par le biais du minage, à sa création. Cette décentralisation retire aux gouvernements le monopole de l'émission, ce qui soulève des questions quant à un éventuel retour à des systèmes monétaires concurrentiels de marché libre.
-
-
-- Unité de compte** : Une monnaie doit fournir une mesure standard pour comparer la valeur des biens et des services. Cela simplifie les échanges et rend la fixation des prix transparente et cohérente d'une transaction à l'autre.
-- Durable** : Une monnaie doit résister à l'usure du temps. Les monnaies physiques, comme les pièces ou les billets, doivent résister aux dommages, tandis que les monnaies numériques doivent rester stockées en toute sécurité sans risque de perte de données.
-- Portable** : Une monnaie doit être facile à transporter et à utiliser, afin de permettre les échanges à distance. Cet objectif peut être atteint grâce à la portabilité physique (pièces ou billets légers) ou à des systèmes de transfert numérique.
-- Divisible** : Une monnaie doit être divisible en unités plus petites afin de faciliter les transactions de différentes tailles. Cette flexibilité garantit qu'elle est pratique tant pour les petits achats que pour les échanges à grande échelle.
-- Fongible** : Toutes les unités d'une monnaie doivent être interchangeables et de même valeur. Par exemple, un billet de un dollar doit être équivalent à n'importe quel autre billet de un dollar. Cette uniformité garantit l'équité et la simplicité des transactions.
-- Reconnaissable** : Une monnaie doit être facilement identifiable et digne de confiance. Les monnaies physiques y parviennent grâce à un design et à des dispositifs de sécurité uniques, tandis que les monnaies numériques peuvent s'appuyer sur des protocoles de vérification. Cela garantit une large acceptation et réduit le risque de fraude.
+- **Sécurisée** : Une monnaie doit être protégée contre le vol ou l'accès non autorisé, afin que les utilisateurs puissent la détenir et la transférer en toute confiance. La sécurité est essentielle pour instaurer la confiance dans le système.
+- **Inattaquable par la contrefaçon** : Une monnaie doit être extrêmement difficile, voire impossible à contrefaire. Cela garantit que chaque unité est authentique, conserve sa valeur et empêche l'inflation causée par la mise en circulation de fausses unités. Par exemple, historiquement, l'or a été apprécié non seulement pour sa beauté et sa rareté, mais aussi parce qu'il est extrêmement difficile à produire. Contrairement aux billets de banque ou aux entrées numériques, il est impossible de "fabriquer" de l'or : il faut l'extraire de la terre. Cette rareté naturelle et cette difficulté de production ont permis à l'or de conserver son statut de réserve de valeur fiable et de référence en matière d'authenticité.
+- **Rareté** : Une bonne monnaie doit avoir une offre limitée ou une émission contrôlée. La rareté permet de préserver sa valeur dans le temps et d'éviter la surproduction, qui éroderait le pouvoir d'achat. Par exemple, certaines tribus amérindiennes utilisaient des perles comme monnaie. Au départ, ces perles étaient difficiles à produire, ce qui maintenait leur rareté et leur valeur. Cependant, lorsque les commerçants européens ont commencé à produire en masse et à inonder le marché de perles, leur rareté a disparu. À mesure que l'offre augmentait, les perles perdaient leur pouvoir d'achat, ce qui compromettait leur rôle de réserve de valeur fiable.
+- **Sans autorisation** : Dans le passé, les monnaies telles que les pièces d'or et d'argent étaient souvent frappées par des particuliers, des autorités locales ou des marchands qui avaient accès aux matières premières. Ce système fonctionnait parfois dans le cadre d'accords ou de licences accordés par des rois ou des dirigeants. Au fil du temps, les rois et les gouvernements ont centralisé ce processus afin de mieux contrôler la stabilité économique, la fiscalité et le système monétaire. Un exemple célèbre est le **thaler**, une pièce d'argent frappée pour la première fois en 1518 dans la **vallée de Joachimsthal** (aujourd'hui Jáchymov en République tchèque) par les mineurs et les autorités locales. Le nom "thaler" dérive du mot allemand **"Thal "** qui signifie "vallée". Ces pièces, réputées pour la qualité de leur argent, ont été largement diffusées dans toute l'Europe. Au fil du temps, le terme a évolué d'un point de vue linguistique et géographique, pour finalement donner naissance au nom "dollar", adopté par les États-Unis pour leur monnaie. À l'ère moderne, les monnaies sont devenues entièrement autorisées dans le cadre du système de seigneuriage, ce qui signifie que seules les entités autorisées - telles que les banques centrales ou les trésors - peuvent frapper des pièces de monnaie ou imprimer des billets de banque. Les particuliers ne sont plus légalement autorisés à produire de la monnaie, ce qui garantit un contrôle centralisé de son émission et de son approvisionnement. Aujourd'hui, le principe du seigneuriage est remis en question par la crypto-monnaie Bitcoin, qui fonctionne sans contrôle centralisé. Le bitcoin est un système "sans permission" dans lequel chacun peut participer à l'utilisation de la monnaie sans en demander la permission et, par le biais du minage, à sa création. Cette décentralisation retire aux gouvernements le monopole de l'émission, ce qui soulève des questions quant à un éventuel retour à des systèmes monétaires concurrentiels de marché libre.
+- **Unité de compte** : Une monnaie doit fournir une mesure standard pour comparer la valeur des biens et des services. Cela simplifie les échanges et rend la fixation des prix transparente et cohérente d'une transaction à l'autre.
+- **Durable** : Une monnaie doit résister à l'usure du temps. Les monnaies physiques, comme les pièces ou les billets, doivent résister aux dommages, tandis que les monnaies numériques doivent rester stockées en toute sécurité sans risque de perte de données.
+- **Portable** : Une monnaie doit être facile à transporter et à utiliser, afin de permettre les échanges à distance. Cet objectif peut être atteint grâce à la portabilité physique (pièces ou billets légers) ou à des systèmes de transfert numérique.
+- **Divisible** : Une monnaie doit être divisible en unités plus petites afin de faciliter les transactions de différentes tailles. Cette flexibilité garantit qu'elle est pratique tant pour les petits achats que pour les échanges à grande échelle.
+- **Fongible** : Toutes les unités d'une monnaie doivent être interchangeables et de même valeur. Par exemple, un billet de un dollar doit être équivalent à n'importe quel autre billet de un dollar. Cette uniformité garantit l'équité et la simplicité des transactions.
+- **Reconnaissable** : Une monnaie doit être facilement identifiable et digne de confiance. Les monnaies physiques y parviennent grâce à un design et à des dispositifs de sécurité uniques, tandis que les monnaies numériques peuvent s'appuyer sur des protocoles de vérification. Cela garantit une large acceptation et réduit le risque de fraude.
 
 Ces caractéristiques rendent une monnaie pratique, fiable et efficace pour faciliter les échanges et stocker de la valeur dans une économie.
 
@@ -96,11 +90,11 @@ Le passage de la monnaie papier à la monnaie électronique a encore amélioré 
 
 Cette évolution a également démocratisé l'accès à la monnaie. Les systèmes bancaires et de paiement électroniques ont réduit les barrières à l'entrée pour les particuliers et les entreprises, permettant ainsi la participation à l'économie mondiale. La rapidité et la commodité de la monnaie électronique ont permis d'étendre les réseaux commerciaux et de favoriser de nouveaux modèles d'entreprise qui auraient été impossibles à mettre en œuvre dans un système fondé sur le papier.
 
-Ces réseaux monétaires modernes s'accompagnent d'un inconvénient majeur : un **manque d'auditabilité et de transparence dans la gestion de la masse monétaire**, qui se traduit souvent par une inflation incontrôlée et une perte de confiance dans les systèmes centralisés. Par exemple, plus de 20 % de tous les dollars américains en circulation ont été imprimés au cours des quatre dernières années seulement. Cette tentation persistante d'émettre davantage de monnaie - et donc de dévaloriser la valeur détenue par les détenteurs actuels - peut être largement attribuée à un défaut systémique : les hommes politiques sont souvent incités à éviter les décisions budgétaires difficiles, choisissant plutôt de reporter les défis sur les administrations futures en "jetant l'éponge"
+Ces réseaux monétaires modernes s'accompagnent d'un inconvénient majeur : un **manque d'auditabilité et de transparence dans la gestion de la masse monétaire**, qui se traduit souvent par une inflation incontrôlée et une perte de confiance dans les systèmes centralisés. Par exemple, plus de 20 % de tous les dollars américains en circulation ont été imprimés au cours des quatre dernières années seulement. Cette tentation persistante d'émettre davantage de monnaie - et donc de dévaloriser la valeur détenue par les détenteurs actuels - peut être largement attribuée à un défaut systémique : les hommes politiques sont souvent incités à éviter les décisions budgétaires difficiles, choisissant plutôt de reporter les défis sur les administrations futures en "jetant l'éponge".
 
 **De la monnaie centralisée à la monnaie décentralisée : Renforcer la confiance et la souveraineté**
 
-Aujourd'hui, l'émergence de la monnaie décentralisée Bitcoin représente le prochain saut dans les réseaux monétaires. La monnaie électronique traditionnelle repose sur des autorités centralisées, telles que les banques ou les gouvernements, pour gérer et vérifier les transactions. Bien qu'efficaces, ces systèmes sont vulnérables aux inefficacités, à la censure et aux points de défaillance uniques. Les monnaies décentralisées améliorent ces propriétés de réseau en **distribuant la confiance et en supprimant les intermédiaires**. Cela signifie également que l'argent peut circuler beaucoup **plus vite** et **moins cher**, car il n'y a pas d'étapes d'autorisation. Enfin, aucun humain ne peut être tenté de modifier le calendrier d'approvisionnement de la monnaie Bitcoin, c'est le logiciel qui s'en charge.
+Aujourd'hui, l'émergence de la monnaie décentralisée Bitcoin représente le prochain saut dans les réseaux monétaires. La monnaie électronique traditionnelle repose sur des autorités centralisées, telles que les banques ou les gouvernements, pour gérer et vérifier les transactions. Bien qu'efficaces, ces systèmes sont vulnérables aux inefficacités, à la censure et aux points de défaillance uniques. Les monnaies décentralisées améliorent ces propriétés de réseau en **distribuant la confiance et en supprimant les intermédiaires**. Cela signifie également que l'argent peut circuler beaucoup **plus vite** et **pour moins cher**, car il n'y a pas d'étapes d'autorisation. Enfin, aucun humain ne peut être tenté de modifier le calendrier d'approvisionnement de la monnaie Bitcoin, c'est le logiciel qui s'en charge.
 
 Dans les systèmes décentralisés, les transactions sont vérifiées par un réseau mondial de participants utilisant la technologie blockchain, ce qui garantit la sécurité, la transparence et la résilience. Cette structure minimise le risque de fraude, réduit la dépendance à l'égard des autorités centrales et permet aux individus de mieux contrôler leurs finances. En éliminant les barrières géographiques et institutionnelles, les monnaies décentralisées offrent un système monétaire véritablement mondial et inclusif.
 
@@ -122,20 +116,20 @@ Les systèmes de paiement sont des méthodes et des infrastructures qui permette
 
 2. **Chèques:** Documents papier donnant l'ordre à une banque de verser au bénéficiaire un montant spécifié prélevé sur le compte du payeur.
 
-3. **Les virements électroniques : ** Transfert électronique de fonds entre banques, souvent utilisé pour des sommes plus importantes et des paiements transfrontaliers.
+3. **Les virements électroniques :** Transfert électronique de fonds entre banques, souvent utilisé pour des sommes plus importantes et des paiements transfrontaliers.
 
-4. **Cartes de paiement (crédit/débit):** Cartes en plastique ou numériques connectées à un réseau de cartes, permettant de transférer des fonds du compte bancaire (ou de la ligne de crédit) du titulaire de la carte à un commerçant.
+4. **Cartes de paiement (crédit/débit):** Cartes à puce en plastique ou numériques connectées à un réseau, permettant de transférer des fonds du compte bancaire (ou de la ligne de crédit) du titulaire de la carte à un commerçant.
 
-5. **Portefeuilles numériques et paiements mobiles:** Applications ou dispositifs stockant des informations de paiement (par exemple, Apple Pay, WeChatPay, AliPay, PayPal), permettant des transferts rapides et souvent sans contact.
+5. **Portefeuilles numériques et paiements mobiles:** Applications ou dispositifs stockant des informations de paiement (par exemple, Apple Pay, WeChatPay, AliPay, PayPal), permettant des transferts rapides et généralement sans contact.
 
 **Utilisation dans les secteurs B2C et B2B:**
 
 
-- B2C (Business-to-Consumer):**
+- **B2C (Business-to-Consumer):**
     - Les consommateurs utilisent fréquemment des espèces, des cartes et des portefeuilles numériques pour leurs achats quotidiens, qu'il s'agisse de courses, d'achats en ligne ou de services tels que le covoiturage.
     - La rapidité, la commodité et la modicité des frais (pour le consommateur) sont souvent des priorités essentielles.
     - Les paiements sans contact et mobiles sont de plus en plus populaires dans cet espace en raison de leur facilité d'utilisation.
-- B2B (Business-to-Business):**
+- **B2B (Business-to-Business):**
     - Les entreprises ont souvent recours aux virements électroniques, aux chèques et aux systèmes de facturation pour payer leurs fournisseurs, régler des factures importantes ou gérer des paiements récurrents.
     - L'accent est souvent mis sur la traçabilité, la documentation et la capacité à traiter des montants de transaction plus élevés.
     - L'utilisation de la carte existe mais tend à être moins courante en raison des frais et des limites de transaction plus élevés. Des solutions numériques telles que les plateformes de paiement intégrées apparaissent pour rationaliser et automatiser les processus de gestion des comptes clients et des comptes fournisseurs.
@@ -146,57 +140,44 @@ Les systèmes de paiement sont des méthodes et des infrastructures qui permette
 
 ### La complexité d'un simple paiement par carte
 
-Lorsqu'un client utilise une carte de crédit dans un magasin, la carte est lue par le terminal de point de vente, qui transmet en toute sécurité les données de la transaction à la banque acquéreur du commerçant. L'acquéreur transmet ces informations au réseau de cartes concerné (par exemple, Visa ou Mastercard), qui achemine ensuite la demande à l'émetteur - la banque qui a fourni la carte du client. L'émetteur vérifie le compte ou la ligne de crédit du client et renvoie une autorisation par l'intermédiaire du réseau et de l'acquéreur, ce qui permet au commerçant d'accepter le paiement.
+Lorsqu'un client utilise une carte de crédit dans un magasin, la carte est lue par le terminal de point de vente, qui transmet en toute sécurité les données de la transaction à la banque acquéreur du commerçant. L'acquéreur transmet ces informations au réseau concerné (par exemple, Visa ou Mastercard), qui achemine ensuite la demande à l'émetteur - la banque qui a fourni la carte du client. L'émetteur vérifie le compte ou la ligne de crédit du client et renvoie une autorisation par l'intermédiaire du réseau et de l'acquéreur, ce qui permet au commerçant d'accepter le paiement.
 
 ![BIZ101](assets/en/02.webp)
 
 Cette transaction apparemment simple comporte en réalité plus de 15 étapes, 7 intermédiaires et prend en moyenne entre 48 heures et 5 jours pour que le commerçant reçoive les fonds. Au cours des jours suivants, un processus de compensation et de règlement se met en place. Le réseau de cartes regroupe les transactions de la journée et coordonne l'échange de fonds entre l'acquéreur et l'émetteur. Une banque centrale garantit l'exactitude et la stabilité de ces règlements interbancaires. Finalement, le compte bancaire du commerçant reçoit le montant net (moins les frais) crédité par l'acquéreur, achevant ainsi le cycle de vie de la transaction.
 
-Dans l'ensemble, ce processus est complexe, long et coûteux pour ce qui devrait être un simple acte de transfert de valeur d'une partie à l'autre.
+Dans l'ensemble, ce processus est **complexe, long et coûteux** pour ce qui devrait être un simple acte de transfert de valeur d'une partie à l'autre.
 
-### Comparaison des modes de paiement
+### Comparaison des Méthodes de Paiement
 
-| Mode de paiement | Autorisation nécessaire ?           | Temps d'approbation de la transaction (vue du commerçant) | Vitesse de règlement (fonds entièrement réglés) | Finalité (facilité d'annulation) | Nombre d'intermédiaires | Frais typiques (pour le bénéficiaire)
+| Méthode de Paiement            | Autorisation Requise ?          | Délai d'Approbation de la Transaction (Vue Commerçant) | Vitesse de Règlement (Fonds Complètement Règlementés) | Finalité (Facilité d'Annulation)         | Nombre d'Intermédiaires       | Frais Typiques (pour le Bénéficiaire) |
+| ------------------------------ | ------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------- | ------------------------------ | ------------------------------------ |
+| **Espèces**                    | Non                             | Immédiat (Échange Physique)                             | Immédiat (Aucun Délai de Règlement)                  | Élevée (Irréversible Une Fois Payé)      | Aucun                          | Aucun                                 |
+| **Chèques**                    | Oui (Compensation Bancaire)     | Acceptation au Dépôt (Non Garantie)                     | Plusieurs Jours (Processus de Compensation)           | Moyenne (Peut Être Rejeté/Annulé avant Compensation) | Banque                         | **Faible à Moyen** (Frais Bancaires) |
+| **Virements Bancaires**         | Oui (Banque/Réseau)             | Confirmation en Quelques Heures                         | Le Jour Même ou le Jour Suivant (Domestique)          | Élevée (Généralement Irréversible Une Fois Envoyé) | Banques, Réseaux de Paiement   | **Moyen** (Fixe/Pourcentage)         |
+| **Cartes de Paiement**          | Oui (Autorisation de l'Émetteur) | Quelques Secondes à Minutes (Code d'Autorisation)       | Quelques Jours (Règlement Interbancaire)             | Moyenne (Rétrofacturation Possible)      | Émetteur, Acquéreur, Réseau de Cartes | **Variable (1-3% de la Transaction)** |
+| **Portefeuilles Numériques/Paiement Mobile** | Oui (Fournisseur de Portefeuille/Banque) | Secondes (Confirmation Instantanée)            | Typiquement 1-2 Jours (Selon la Source de Financement) | Moyenne (Remboursement/Litige Possible) | Banques, Opérateurs de Portefeuille | **Faible à Moyen (Variable)**      |
 
-| ------------------------------ | ------------------------------- | ----------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ------------------------------ | ---------------------------------- |
 
-**Cash** | Non | Immédiat (échange physique) | Immédiat (pas de délai de règlement) | Élevé (irréversible une fois payé) | Aucun | Aucun | Aucun | Aucun
+### Limitations des solutions existantes
 
-| Chèques** - Oui (compensation bancaire) - Acceptation au dépôt (non garantie) - Plusieurs jours (processus de compensation des chèques) - Moyen (peut rebondir ou s'arrêter avant la compensation) - Banque - **Faible à moyen** (frais bancaires) - Oui (compensation bancaire) - Oui (compensation bancaire) - Oui (compensation bancaire) - Oui (compensation bancaire) - Oui (compensation bancaire) - Oui (compensation bancaire) - Oui (compensation bancaire) - Oui (compensation bancaire)
+L'industrie traditionnelle des paiements représente une économie annuelle d'environ 2 200 milliards de dollars, soit environ un dixième du PIB des États-Unis ou l'équivalent du PIB de la France. Comme les devises fonctionnent comme des réseaux autorisés, la concurrence est limitée, faisant de ce "service" une sorte de taxe imposée à l'économie productive. En plus des coûts qu'elle génère, cette industrie présente plusieurs autres limites, comme indiqué ci-dessous.
 
-| Oui (banque/réseau) | Confirmation dans les heures qui suivent | Le jour même ou le jour suivant (national) | Élevé (généralement irréversible une fois envoyé) | Banques, réseaux de paiement | **Moyen** (fixe/pourcentage)
+| Limitation                           | Explication                                                                                                                                                                                                                                                                                                             | Impact                                                                                                                                       |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frais de carte élevés                | Les frais d'interchange (~0,3 %), les frais de réseau (fixes ou 0,3 %-1 %), les abonnements aux terminaux/PSP et les marges bancaires (0,5 %-1,7 %) s'accumulent en un coût substantiel — semblable à une "taxe" mondiale sur les secteurs productifs, représentant des milliers de milliards de dollars.               | Augmente les coûts pour les commerçants, réduisant leurs marges et pouvant entraîner une hausse des prix pour les consommateurs.             |
+| Règlement final très lent            | Le règlement des fonds peut prendre jusqu'à 5 jours, ralentissant la circulation de l'argent et l'activité économique globale.                                                                                                                                                                                          | Retarde la liquidité des commerçants et réduit la vitesse de circulation de l'économie.                                                      |
+| Fraude                               | Les canaux de commerce en ligne sont fortement ciblés par les fraudeurs, entraînant des pertes considérables (par ex. 28 milliards de dollars). Les rétrofacturations pourraient atteindre environ 174 milliards de dollars dans le monde d'ici 2024. La gestion de ces litiges demande du temps et engendre du stress. | Augmente les coûts opérationnels, nécessite des mesures complexes de prévention et réduit la confiance des clients.                          |
+| Abandon de panier                    | Les étapes de sécurité supplémentaires (codes uniques, authentification à deux facteurs selon la PSD2) introduisent des frictions lors du paiement.                                                                                                                                                                     | Une complexité accrue au moment du paiement entraîne une augmentation des abandons de panier et des ventes perdues.                          |
+| Montants minimums élevés             | Les seuils de dépenses minimales imposés par les cartes peuvent contraindre les commerçants et les consommateurs à des conditions de prix ou d'achat peu pratiques, décourageant les transactions de faible valeur.                                                                                                     | Réduit la satisfaction et la flexibilité des clients, limitant les achats impulsifs ou de faible montant.                                    |
+| Autorisation lente                   | Les systèmes actuels ne peuvent pas gérer des transactions à des vitesses de millisecondes ni prendre en charge des flux de paiement en continu et en temps réel.                                                                                                                                                       | Limite les cas d'usage nécessitant des paiements instantanés ou en streaming, freinant l'innovation et l'évolutivité.                        |
+| Besoin d'un compte bancaire/carte    | L'accès à ces méthodes de paiement nécessite un compte bancaire ou une carte associée, excluant automatiquement les personnes n'en disposant pas.                                                                                                                                                                       | Limite l'inclusion financière, en réduisant l'accès pour les populations non bancarisées ou sous-bancarisées.                                |
+| Création répétée de comptes en ligne | Les utilisateurs doivent souvent créer plusieurs comptes en ligne, ce qui engendre de la fatigue, réduit la commodité et augmente l'exposition de leurs données personnelles.                                                                                                                                           | Dégrade l'expérience utilisateur, soulève des préoccupations en matière de confidentialité et augmente les risques de violations de données. |
+| Frais de change                      | L'absence d'une unité de compte universelle entraîne des conversions coûteuses pour les transactions transfrontalières.                                                                                                                                                                                                 | Ajoute des coûts supplémentaires au commerce international, rendant les transactions mondiales moins abordables.                             |
 
-les cartes de paiement ** Oui (autorisation de l'émetteur de la carte) | Quelques secondes à quelques minutes (code d'autorisation) | Quelques jours (règlement interbancaire) | Moyen (possibilité de rétrofacturation) | Émetteur, acquéreur, réseau de cartes | **Variable (1-3% de la transaction)** | Les cartes de paiement ** Oui (autorisation de l'émetteur de la carte) | Quelques secondes à quelques minutes (code d'autorisation) | Quelques jours (règlement interbancaire) | Moyen (possibilité de rétrofacturation)
 
-les portefeuilles numériques/paiements par téléphone mobile** | Oui (fournisseur de portefeuilles/banque) | Quelques secondes (confirmation instantanée) | Généralement 1 à 2 jours (selon la source de financement) | Moyen (remboursement/contestation possible) | Banques, opérateurs de portefeuilles | **Faible à moyen (variable)** | Les portefeuilles numériques/paiements par téléphone mobile **Faible à moyen (variable)** | Les portefeuilles numériques/paiements par téléphone mobile **Faible à moyen (variable)
+Tout comme nous sommes passés du paiement à la minute pour les appels vocaux à l'utilisation quasi gratuite des communications IP (internet), l'émergence de réseaux plus ouverts et plus efficaces peut redéfinir les paiements, en réduisant les coûts et les intermédiaires et en favorisant de nouveaux modèles d'entreprise.
 
-### Limites des solutions existantes
-
-Le secteur des paiements traditionnels représente une économie annuelle d'environ 2 200 milliards de dollars, soit environ un dixième du PIB des États-Unis ou l'équivalent du PIB de la France. Comme les monnaies fonctionnent comme des réseaux autorisés, la concurrence est limitée, ce qui fait que ce "service" s'apparente davantage à une taxe imposée à l'économie productive. Outre les coûts qu'il engendre, ce service présente plusieurs autres limites, décrites ci-dessous.
-
-| Le projet de loi sur l'immigration et la protection des réfugiés (LIPR) est en cours d'élaboration
-
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-
-| Les frais d'interchange (~0,3 %), les frais de réseau (fixes ou de 0,3 % à 1 %), les abonnements aux terminaux/PSP et les marges bancaires (0,5 % à 1,7 %) s'ajoutent aux coûts substantiels, comme une "taxe" mondiale sur les secteurs productifs, s'élevant à des milliers de milliards de dollars.     | L'augmentation des coûts pour les commerçants, la réduction des marges et l'augmentation potentielle des prix à la consommation.                  |
-
-| Le règlement des fonds peut prendre jusqu'à 5 jours, ce qui ralentit la circulation de l'argent et l'activité économique en général.                                                                                                                                | Le règlement final peut prendre jusqu'à 5 jours, ce qui ralentit la circulation de l'argent et l'activité économique en général.                        |
-
-| Fraude - Les canaux de commerce électronique sont fortement ciblés par la fraude, ce qui contribue à des pertes importantes (par exemple, 28 milliards de dollars). Les rétrocessions pourraient atteindre environ 174 milliards de dollars dans le monde d'ici à 2024. La gestion de ces litiges prend du temps et entraîne une charge mentale. | L'augmentation des coûts opérationnels, la complexité des mesures de prévention de la fraude et la perte de confiance des clients.       |
-
-| Les étapes de sécurité supplémentaires (codes à usage unique, authentification à deux facteurs dans le cadre de la DSP2) créent des frictions lors du passage en caisse.                                                                                                                   | L'augmentation de la complexité du passage en caisse entraîne une augmentation de l'abandon du panier et des pertes de chiffre d'affaires.                       |
-
-| Les seuils de dépenses minimales sur les cartes peuvent contraindre les commerçants et les consommateurs à des conditions de prix ou d'achat peu pratiques, décourageant ainsi les transactions de faible valeur.                                                                       | La satisfaction et la flexibilité des clients s'en trouvent réduites, ce qui risque de limiter les achats impulsifs ou de faible valeur.  |
-
-| Les systèmes actuels ne peuvent pas traiter les transactions à la milliseconde ni prendre en charge des flux de paiement continus et en temps réel.                                                                                                                   | Cela limite les cas d'utilisation qui nécessitent des paiements instantanés ou en continu, restreignant ainsi l'innovation et l'évolutivité. |
-
-| Nécessité d'un compte bancaire/carte | L'accès à ces méthodes de paiement nécessite un compte bancaire ou une carte liée, ce qui exclut automatiquement les personnes qui n'ont pas ce type de compte.                                                                                                       | L'accès à ces méthodes de paiement nécessite un compte bancaire ou une carte, ce qui exclut automatiquement les personnes qui n'ont pas ce type de compte.                 |
-
-| Les utilisateurs doivent souvent créer plusieurs comptes en ligne, ce qui entraîne une certaine lassitude, un manque de commodité et une exposition accrue des données personnelles.                                                                                                | Les utilisateurs doivent souvent créer plusieurs comptes en ligne, ce qui entraîne une certaine lassitude, une diminution de la commodité et une exposition accrue des données personnelles.          |
-
-| L'absence d'unité de compte universelle impose des conversions de devises coûteuses pour les transactions transfrontalières.                                                                                                                              | L'absence d'unité de compte universelle entraîne des conversions de devises coûteuses pour les transactions transfrontalières, ce qui ajoute des coûts supplémentaires au commerce international et rend les transactions mondiales moins abordables.             |
-
-Tout comme nous sommes passés du paiement à la minute pour les appels vocaux à l'utilisation quasi gratuite des communications IP, l'émergence de réseaux plus ouverts et plus efficaces peut redéfinir les paiements, en réduisant les coûts et les intermédiaires et en favorisant de nouveaux modèles d'entreprise.
 
 ## Bitcoin pour les entreprises : une monnaie émergente
 
@@ -207,49 +188,49 @@ Tout comme nous sommes passés du paiement à la minute pour les appels vocaux �
 Le bitcoin est un **système d'échange de monnaie numérique de pair à pair** (monnaie électronique). Le terme "bitcoin" désigne les éléments suivants :
 
 
-- Protocole informatique** qui facilite l'échange de valeurs sur l'internet sans intermédiaire, sans demander d'autorisation et de manière pseudonyme. Il utilise des principes cryptographiques avancés.
-- Réseau physique** de machines connectées à Internet (nœuds, mineurs, etc.) exploitées par des particuliers et des entreprises, formant un système décentralisé (sans autorité centrale ni point de contrôle unique).
-- L'unité de compte** au sein du système. Il n'y aura jamais plus de 21 millions de bitcoins en circulation. Chaque bitcoin est divisible en 100 millions d'unités appelées "satoshis", en l'honneur de son créateur anonyme.
+- **Protocole informatique** qui facilite l'échange de valeurs sur l'internet sans intermédiaire, sans demander d'autorisation et de manière pseudonyme. Il utilise des principes cryptographiques avancés.
+- **Réseau physique** de machines connectées à Internet (nœuds, mineurs, etc.) exploitées par des particuliers et des entreprises, formant un système décentralisé (sans autorité centrale ni point de contrôle unique).
+- **L'unité de compte** au sein du système. Il n'y aura jamais plus de 21 millions de bitcoins en circulation. Chaque bitcoin est divisible en 100 millions d'unités appelées "satoshis", en l'honneur de son créateur anonyme.
 
-Ensemble, ils font du bitcoin un **bearer asset** et une monnaie numérique **sans émetteur**. La propriété est garantie uniquement par la détention de la **clé cryptographique privée**, ce qui permet un contrôle total **sans intermédiaire ni tiers de confiance**. En cas de transfert, la **finalité** de la propriété est immédiate : le nouveau détenteur en est pleinement propriétaire, sans dépendre d'une autorité centrale pour la protection ou la convertibilité. Les transactions sont **immuables** : une fois enregistrées sur la blockchain, elles ne peuvent être ni modifiées ni supprimées.
+Ensemble, ils font du bitcoin **un actif au porteur** et une monnaie numérique **sans émetteur**. La propriété est garantie uniquement par la détention de la **clé cryptographique privée**, ce qui permet un contrôle total **sans intermédiaire ni tiers de confiance**. En cas de transfert, la **finalité** de la propriété est immédiate : le nouveau détenteur en est pleinement propriétaire, sans dépendre d'une autorité centrale pour la protection ou la convertibilité. Les transactions sont **immuables** : une fois enregistrées sur la blockchain, elles ne peuvent être ni modifiées ni supprimées.
 
 ![BIZ101](assets/en/11.webp)
 
 Le bitcoin a une politique monétaire fixe, avec un **cap de 21 millions de bitcoins**, dont ~19,8 millions ont déjà été distribués. Cela le rend **déflationniste**, sa valeur augmentant au fil du temps à mesure que les utilisateurs y stockent leurs économies et leurs gains de productivité.
 
-Ses caractéristiques techniques dépassent celles de l'or et du dollar réunis, ce qui en fait l'actif financier le plus dur jamais créé. Le bitcoin est à la fois une réserve de valeur et un moyen d'échange, une monnaie en devenir. Imaginez que vous puissiez transférer de la valeur de la trésorerie d'une entreprise à une autre rapidement, sans intermédiaire, à un coût minime, sans fraude, 24 heures sur 24, 7 jours sur 7, et sans l'intervention d'une tierce partie.
+Ses caractéristiques techniques dépassent celles de l'or et du dollar réunis, ce qui en fait l'actif financier le plus "dur" jamais créé. Le bitcoin est à la fois une réserve de valeur et un moyen d'échange, une monnaie en devenir. Imaginez que vous puissiez transférer de la valeur, depuis la trésorerie d'une entreprise à une autre, rapidement, sans intermédiaire, à un coût minime, sans fraude, 24 heures sur 24, 7 jours sur 7, et sans l'intervention d'une tierce partie.
 
 ![BIZ101](assets/en/03.webp)
 
-Le bitcoin préserve efficacement sa valeur car son grand livre de comptes est infalsifiable. Sa valeur augmente en raison de l'offre rare et limitée, combinée au nombre croissant d'opportunités d'échange, induit par l'augmentation du nombre d'utilisateurs.
+Le bitcoin préserve efficacement sa valeur car son grand livre de comptes est infalsifiable. Sa valeur augmente en raison de l'offre rare et limitée, combinée au nombre croissant d'opportunités d'échanges, induit par l'augmentation du nombre d'utilisateurs.
 
 Le bitcoin est perturbateur parce qu'il nous encourage à apprendre des concepts de mathématiques, de cryptographie, d'économie et d'histoire qui ne nous ont jamais été enseignés. Souvent perçu comme complexe, il s'agit en fait d'une innovation accessible par la pratique et l'expérimentation.
 
-Le bitcoin nous pousse à reconsidérer la nature même de l'argent. Pourriez-vous nous expliquer ce qu'est vraiment l'argent ? Un salarié ou un entrepreneur peut passer 50 000 à 100 000 heures de sa vie à gagner de l'argent, mais combien **consacrent ne serait-ce que 100 heures à mieux le comprendre** et à le préserver ? Le bitcoin nous incite à nous interroger sur les raisons fondamentales de notre besoin d'argent et sur notre perspective temporelle. L'argent est-il un luxe immédiat ou une résilience à long terme ? Si nous disposions d'un actif qui s'apprécie et nous permettait de retarder nos achats, quels choix ferions-nous ? Quelles conversations souhaiterions-nous avoir avec nous-mêmes dans 20 ou 30 ans ?
+Le bitcoin nous pousse à reconsidérer la nature même de l'argent. Pourriez-vous nous expliquer ce qu'est vraiment l'argent ? Un salarié ou un entrepreneur va passer 50 000 à 100 000 heures de sa vie à gagner de l'argent, mais combien **consacrent ne serait-ce que 100 heures à mieux le comprendre** et à le préserver ? Le bitcoin nous incite à nous interroger sur les raisons fondamentales de notre besoin d'argent et sur notre perspective temporelle. L'argent est-il un luxe immédiat ou une résilience à long terme ? Si nous disposions d'un actif qui s'apprécie et nous permettait de retarder nos achats, quels choix ferions-nous ? Quelles conversations souhaiterions-nous avoir avec nous-mêmes dans 20 ou 30 ans ?
 
-**CARTE D'IDENTITÉ BITCOIN**
+**CARTE D'IDENTITÉ DE BITCOIN**
 
 
-- Âge:** 15 ans (3 janvier 2009)
-- Valeur boursière quotidienne:** 10 milliards de dollars (> CAC40)
-- Capitalisation boursière:** 1,8 trillion de dollars (> Meta, Visa, Argent ; < Apple, Google, Or)
-- Utilisateurs:** ~100 à 200 millions (1-2% de la population mondiale)
-- Volatilité:** Intrinsèquement nulle (1 bitcoin = 1 bitcoin), extérieurement très élevée (dans les échanges de monnaies fiduciaires)
-- Performance:** Première transaction à 0,0009 $ ; maintenant 100 000 $ (x100 millions)
-- Disponibilité du réseau (temps de fonctionnement):** 100% depuis 2013
-- Déclaré mort ou critiqué:** Une fois par mois
+- **Âge:** 15 ans (3 janvier 2009)
+- **Valeur boursière quotidienne:** 10 milliards de dollars (> CAC40)
+- **Capitalisation boursière:** 1,8 trillion de dollars (> Meta, Visa, Argent ; < Apple, Google, Or)
+- **Utilisateurs:** ~100 à 200 millions (1-2% de la population mondiale)
+- **Volatilité:** Intrinsèquement nulle (1 bitcoin = 1 bitcoin), extérieurement très élevée (dans les échanges de monnaies fiduciaires)
+- **Performance:** Première transaction à 0,0009 $ ; maintenant 100 000 $ (x100 millions)
+- **Disponibilité du réseau (temps de fonctionnement):** 100% depuis 2013
+- **Déclaré mort ou critiqué:** Une fois par mois
 
-**A Marvel of Human Cooperation:**
+**Un prodige de la coopération humaine:**
 
 
 - Entièrement **open-source**
-- Entité juridique:** Aucune
-- PDG:** Aucun
-- Investissement en capital-risque:** Aucun
-- Marketing:** Aucun
-- R&D:** axé sur le volontariat
-- Gouvernance:** Par les utilisateurs
-- Modèle économique innovant:** La création de blocs est subventionnée par les frais de transaction (vente aux enchères)
+- **Entité juridique:** Aucune
+- **PDG:** Aucun
+- **Investissement en capital-risque:** Aucun
+- **Marketing:** Aucun
+- **R&D:** axé sur le volontariat
+- **Gouvernance:** Par les utilisateurs
+- **Modèle économique innovant:** La création de blocs est subventionnée par les frais de transaction (vente aux enchères)
 
 Pour plus d'informations sur le bitcoin, son histoire, son fonctionnement et son utilisation, je vous suggère également de suivre cet autre cours complet :
 
@@ -258,20 +239,20 @@ https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
 
-**QU'EST-CE QUE LA FOUDRE?**
+**QU'EST-CE QUE LE LIGHTNING NETWORK?**
 
 Le Lightning Network est **un protocole et un réseau** qui facilite les transactions Bitcoin avec une interaction minimale avec la blockchain principale de Bitcoin. Voici comment il fonctionne :
 
 
-- Configuration initiale:** Les fonds sont bloqués (séquestrés) sur la blockchain principale afin d'établir un canal de paiement entre deux parties.
-- Réseau de paiement:** Un réseau de canaux de paiement entre plusieurs parties constitue un réseau de paiement (routage et interconnexion).
-- Transactions hors chaîne:** Des transactions ont lieu entre les parties mais ne sont **pas immédiatement publiées** sur la chaîne de blocs principale de Bitcoin (**"hors chaîne "**).
-- Règlements sur la chaîne** : seul le **solde final** des transactions d'une chaîne est publié sur la chaîne principale de Bitcoin (**"sur la chaîne**"), ce qui permet à de nombreuses transactions de se produire entre-temps. Ce regroupement de paiements multiples réduit l'encombrement et donc les frais par rapport à la réalisation de nombreuses transactions sur la chaîne.
-- Fermeture du canal:** Un utilisateur peut fermer son canal à tout moment et récupérer ses bitcoins en publiant le dernier état de la transaction. C'est le principe des transactions qui sont **"publiables" à tout moment mais "non publiées "** jusqu'à ce que cela soit nécessaire. La sortie (fermeture du canal) peut être unilatérale (décidée par l'une ou l'autre des deux parties à tout moment) ou décidée mutuellement (ce qui permet de réduire les frais sur la chaîne)
+- **Configuration initiale:** Les fonds sont bloqués (séquestrés) sur la blockchain principale (bitcoin) afin d'établir un **canal de paiement entre deux parties**.
+- **Réseau de paiement:** Le maillage des canaux de paiement entre plusieurs parties constitue un réseau de paiement (routage et interconnexion).
+- **Transactions hors chaîne:** Des transactions ont lieu entre les parties mais ne sont **pas immédiatement publiées** sur la chaîne de blocs principale de Bitcoin (**"off chain"**).
+- **Règlements sur la chaîne** : seul le **solde final** des transactions est publié sur la chaîne principale de Bitcoin (**"on chain**"), ce qui permet à de nombreuses transactions de se produire entre-temps. Ce regroupement de paiements multiples réduit l'encombrement, et donc les frais, par rapport à la réalisation de nombreuses transactions sur la blockchain Bitcoin.
+- **Fermeture du canal:** Un utilisateur peut fermer son canal à tout moment et récupérer ses bitcoins en publiant le dernier état de la transaction. C'est le principe des transactions qui sont **"publiables" à tout moment mais "non publiées "** jusqu'à ce que cela soit nécessaire. La sortie (fermeture du canal) peut être unilatérale (décidée par l'une ou l'autre des deux parties à tout moment) ou décidée mutuellement (ce qui permet de réduire les frais sur la chaîne)
 
 ![BIZ101](assets/en/04.webp)
 
-Cette approche permet d'éviter la lenteur et la complexité de l'exécution de chaque transaction directement sur la blockchain principale de Bitcoin, en n'enregistrant que les soldes finaux et en conservant sa sécurité. Le Lightning Network est une couche "au-dessus" de Bitcoin mais reste ancré à celui-ci.
+Cette approche permet d'éviter la lenteur et la complexité de l'exécution de chaque transaction directement sur la blockchain principale de Bitcoin, en n'enregistrant que les soldes finaux et en conservant sa sécurité. Le Lightning Network est une couche (réseau applicatif) "au-dessus" de Bitcoin mais reste ancré à celui-ci.
 
 **Un réseau mondial de paiement**
 
@@ -284,11 +265,11 @@ Le Lightning Network permet l'échange instantané de valeurs à la vitesse de l
 **Avantages clés:**
 
 
-- Rapidité:** Transactions instantanées.
-- Frais réduits:** Des frais bien inférieurs à ceux des réseaux bancaires traditionnels.
-- Facilité d'adoption:** Les entreprises peuvent rapidement accepter les paiements Lightning à l'aide d'une application pour smartphone ou d'un bouton de paiement sur leur site web.
+- **Rapidité:** Transactions instantanées.
+- **Frais réduits:** Des frais bien inférieurs à ceux des réseaux bancaires traditionnels.
+- **Facilité d'adoption:** Les entreprises peuvent rapidement accepter les paiements Lightning à l'aide d'une application pour smartphone ou d'un bouton de paiement sur leur site web.
 
-L'infrastructure Lightning surpasse les systèmes de paiement traditionnels en termes de vitesse, de coût et d'efficacité énergétique. Avec l'adoption croissante par les commerçants, la dynamique va s'accélérer : si les paiements peuvent contourner le réseau interbancaire captif, pourquoi continuer à céder un pourcentage important de revenus aux intermédiaires actuels ?
+L'infrastructure Lightning surpasse les systèmes de paiement traditionnels en termes de vitesse, de coût et d'efficacité énergétique. Avec l'adoption croissante par les commerçants, la dynamique va s'accélérer : si les paiements peuvent contourner le réseau interbancaire captif, pourquoi continuer à céder un pourcentage important de ses revenus aux intermédiaires actuels ?
 
 **Cas d'utilisation infinis:**
 
@@ -298,7 +279,7 @@ Les applications de Lightning vont bien au-delà des frais réduits et de la rap
 
 Lightning amplifie le rôle de Bitcoin en tant que "moyen d'échange" En augmentant la fréquence et la liberté des transactions, il renforce la fonction première de la monnaie : faciliter les échanges économiques et la création de valeur pour tous les participants.
 
-L'essor futur de l'"économie des machines intelligentes" nécessitera un système de paiement ultra-rapide et à haute fréquence, une norme technique que seul Lightning peut respecter. Cela permet de créer davantage de biens et de services. L'offre de bitcoins restant limitée, le pouvoir d'achat de chaque unité augmentera. Bitcoin et Lightning se renforcent ensemble à mesure que leurs réseaux s'étendent.
+L'essor futur de l'"économie des machines intelligentes" nécessitera un système de paiement ultra-rapide et à haute fréquence, une norme technique que seul Lightning peut respecter. Cela permettra de créer davantage de biens et de services. L'offre de bitcoins restant limitée, le pouvoir d'achat de chaque unité augmentera. Bitcoin et Lightning se renforcent ensemble à mesure que leurs réseaux s'étendent.
 
 Lightning offre un aperçu d'un avenir où toutes les entreprises basées sur l'internet le seront également sur le bitcoin.
 
@@ -307,23 +288,23 @@ Lightning offre un aperçu d'un avenir où toutes les entreprises basées sur l'
 Le Lightning Network est idéal pour les paiements en bitcoins dans les magasins physiques ou en ligne en raison de sa rapidité et de la finalité du paiement.
 
 
-- Vitesse:** Lightning (~500ms à quelques secondes) est nettement plus rapide que le réseau principal de Bitcoin, où les transactions peuvent prendre environ 30 minutes pour être confirmées. Pour les achats importants (bien plus de 1 000 dollars), le réseau principal de Bitcoin peut encore être préféré, car la vitesse est moins critique. Toutefois, ces détails sont souvent cachés à l'utilisateur moyen, car les applications gèrent ces décisions de manière transparente en arrière-plan.
-- Finalité:** Une fois qu'un paiement est effectué sur Lightning, il est définitif. Il n'y a pas de possibilité de rétrofacturation par des tiers ou de litiges liés à la fraude.
-- Frais:** Les frais de transaction sur le Lightning Network sont minimes et payés par l'utilisateur, pas par le commerçant. Les commerçants ne paient des frais que s'ils ont besoin de transférer leurs bitcoins vers un autre réseau ou service.
+- **Vitesse:** Lightning (~500ms à quelques secondes) est nettement plus rapide que le réseau principal de Bitcoin, où les transactions peuvent prendre environ 30 minutes pour être confirmées. Pour les achats importants (bien plus de 1 000 dollars), le réseau principal de Bitcoin peut encore être préféré, car la vitesse est moins critique. Toutefois, ces détails sont souvent cachés à l'utilisateur lambda, car les applications gèrent ces décisions de manière transparente en arrière-plan.
+- **Finalité:** Une fois qu'un paiement est effectué sur Lightning, il est définitif. Il n'y a pas de possibilité de rétro-facturation par des tiers ou de litiges liés à la fraude.
+- **Frais:** Les frais de transaction sur le Lightning Network sont minimes et payés par l'utilisateur, pas par le commerçant. Les commerçants ne paient des frais que s'ils ont besoin de transférer leurs bitcoins vers un autre réseau ou service.
 
-**CARTE D'IDENTITÉ ÉCLAIR**
+**CARTE D'IDENTITÉ DE LIGHTNING**
 
 
-- Invention:** 2015
-- Lancement:** 2016
-- Âge:** 7 ans (première transaction : 28 décembre 2017)
-- Capacité technique du réseau:** à grande échelle, il peut traiter 1 000 fois plus de transactions instantanées que les systèmes traditionnels.
-- Taille des transactions:** La taille des transactions est de l'ordre de 1 à 1 000 fois inférieure à celle des systèmes traditionnels.
-- Vitesse de transaction:** Jusqu'à 100 fois plus rapide.
-- Frais:** Jusqu'à 90 % de réduction.
-- Finalité du paiement:** Presque instantané (souvent ~500 millisecondes, parfois quelques secondes).
-- Consommation d'énergie:** ~8% du système monétaire mondial traditionnel.
-- Caractéristiques:**
+- **Invention:** 2015
+- **Lancement:** 2016
+- **Âge:** 7 ans (première transaction : 28 décembre 2017)
+- **Capacité technique du réseau:** à grande échelle, il peut traiter 1 000 fois plus de transactions instantanées que les systèmes traditionnels.
+- **Montant des transactions:** La taille des transactions sont de tout ordre et jusqu'à 1 000 fois inférieure à celle des systèmes traditionnels.
+- **Vitesse de transaction:** Jusqu'à 100 fois plus rapide.
+- **Frais:** Jusqu'à 90 % de réduction.
+- **Finalité du paiement:** Presque instantané (souvent ~500 millisecondes, parfois quelques secondes).
+- **Consommation d'énergie:** ~8% du système monétaire mondial traditionnel.
+- **Caractéristiques:**
     - Peer-to-peer
     - Universel
     - Sans autorisation
@@ -339,7 +320,7 @@ https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 <partId>bf45c1e8-af97-4b6b-af42-2866f493b14d</partId>
 
-## Profits, capital et clés de la résilience des entreprises
+## Profits, capital et les clés de la résilience des entreprises
 
 <chapterId>656ad88f-3c27-4054-a94e-b29727009b8e</chapterId>
 
@@ -363,17 +344,17 @@ Dans la théorie économique traditionnelle (keynésienne), le capital est souve
 
 le "capital" est souvent présenté comme un outil d'exploitation, et cette perspective a profondément influencé divers mouvements qui considèrent le capital comme intrinsèquement opposé aux intérêts des travailleurs. Mais est-ce vrai ? Ou cette perception peut-elle être déformée par.. :
 
-1. Un manque de compréhension des mécanismes économiques (y compris de la part des économistes eux-mêmes) ?
+6. Un manque de compréhension des mécanismes économiques (y compris de la part des économistes eux-mêmes) ?
 
-2. Interventionnisme gouvernemental et manipulation du marché ?
+7. Interventionnisme gouvernemental et manipulation du marché ?
 
-3. Confusion entre le capitalisme de connivence et le capitalisme de marché ?
+8. Confusion entre le capitalisme de connivence et le capitalisme de marché ?
 
-4. Le traitement médiatique des crises économiques ?
+9. Le traitement médiatique des crises économiques ?
 
-5. Un désir de solutions rapides et de justice sociale immédiate ?
+10. Un désir de solutions rapides et de justice sociale immédiate ?
 
-6. La normalisation culturelle de la rhétorique anticapitaliste ?
+11. La normalisation culturelle de la rhétorique anticapitaliste ?
 
 Heureusement, le bitcoin nous oblige à tout repenser et à remettre en cause ces idées reçues. Il existe une école de pensée, l'école autrichienne d'économie, qui peut nous éclairer sur ces questions et nous aider à reconsidérer la véritable nature du capital.
 
