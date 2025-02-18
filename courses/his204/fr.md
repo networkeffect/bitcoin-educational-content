@@ -1054,3 +1054,15 @@ Eli Heckscher, Mercantilism, 2 vols. London: Allen and Unwin. 1935
 33. Condorcet, Mélanges d’économie politique, dans Eugène Daire (éd.), Mélanges d’économie politique, Paris, 1847
 34. P. Jolly, Du Pont de Nemours, soldat de la liberté, Paris, P.U.F., 1956
 
+# Conclusion
+
+
+## Avis & Notes
+
+<isCourseReview>true</isCourseReview>
+
+
+## Conclusion
+
+<isCourseConclusion>true</isCourseConclusion>
+
