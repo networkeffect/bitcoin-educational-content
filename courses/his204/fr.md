@@ -18,8 +18,8 @@ Enfin, l’État doit autoriser la libre circulation des marchandises — ce pou
 
 +++
 
-
-## Introduction
+# Les Précurseurs
+## Introduction et contexte historique
 
 ![](https://youtu.be/tCivmh-SdsA?si=X6NEIManI0BBI0q9)
 
@@ -190,6 +190,9 @@ Enfin, cinquième point. Malgré quelques restes de mercantilisme, Cantillon a u
 
 Parmi ces cinq grandes idées de son Essai, la plus importante est certainement celle à laquelle on a donné son nom : les effets Cantillon. Avec cette théorie des effets de l’inflation, Cantillon nous apporte des réponses à quelques maux contemporains. Il permet en outre de comprendre les conséquences des récentes politiques monétaires expansionnistes et inflationnistes, qui ont appauvri les classes moyennes et le monde rural, et enrichi principalement les opérateurs des marchés financiers ainsi que l’État, ses agences et ses fonctionnaires, du fait de leur proximité conjointe à la source de l’émission nouvelle : la banque centrale et les banques commerciales.
 
+
+
+# Les Réformateurs et Penseurs du Début 18e Siècle
 ## L’abbé de Saint-Pierre
 
 ![](https://youtu.be/eqzCQ2xaY84?si=fcxQlMhQrYCLlrCJ)
@@ -482,6 +485,9 @@ Ensuite des ouvrages : outre les livres des disciples, un recueil important qui 
 
 Ce livre reprend les principales contributions de Quesnay. On y retrouve exposé l’idéal économique du chef des Physiocrates, l’idéal d’une économie agricole, où la loi garantit à chacun son droit de propriété et la liberté des échanges.
 
+
+# L'École Physiocratique
+
 ## Les Physiocrates (1) Histoire
 
 [](https://youtu.be/s5Fqi1FpX58?si=fdH_jSR63aI-lrXW)
@@ -695,6 +701,9 @@ Le Roi lui dit : "Monsieur Dupont, on vous trouve toujours là où on a besoin d
 [image](assets/fr/095.webp)
 
 Malgré cette vie bien remplie, pendant laquelle il publia des dizaines et des dizaines d’articles, de brochures et de livres, il est resté jusqu’à ce jour encore assez peu connu. Il paye peut-être le fait d’être resté un Physiocrate convaincu jusqu’à une époque où cette doctrine était entièrement passé de mode. Car en effet, comme l’écrira Schumpeter, Dupont de Nemours resta fidèle à la Physiocratie "tout au long d’une carrière au cours de laquelle les occasions de la renier ne manquèrent pas". C’était un homme de conviction.
+
+
+# Les Lumières et L'Économie Politique
 
 ## Voltaire et les philosophes
 
@@ -1054,8 +1063,8 @@ Eli Heckscher, Mercantilism, 2 vols. London: Allen and Unwin. 1935
 33. Condorcet, Mélanges d’économie politique, dans Eugène Daire (éd.), Mélanges d’économie politique, Paris, 1847
 34. P. Jolly, Du Pont de Nemours, soldat de la liberté, Paris, P.U.F., 1956
 
-# Conclusion
 
+# Conclusion
 
 ## Avis & Notes
 
