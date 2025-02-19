@@ -9,7 +9,7 @@ objectives:
   - Être prêt à gérer les exigences fiscales et comptables
 
 ---
-# Commencez le voyage de votre entreprise sur le réseau bitcoin
+# Demarrez le voyage de votre entreprise sur le réseau bitcoin
 
 Découvrez les capacités pratiques du Bitcoin et du Lightning Network, et explorez comment, à l'instar d'Internet, ils peuvent **transformer les opérations de votre entreprise**. Du capital numérique aux paiements rapides, économiques et évolutifs, Bitcoin offre un vaste éventail de **cas d'utilisation pour les entreprises**.
 
@@ -22,7 +22,7 @@ Que vous soyez une **petite entreprise ou une grande société**, l'intégration
 
 <partId>326cf945-5d3f-4d86-8c3e-4d1c35959799</partId>
 
-## Faites passer votre entreprise au bitcoin
+## Lancez votre entreprise sur le bitcoin
 
 <chapterId>1be42be9-4080-49f5-b5b2-6b531dd55f5f</chapterId>
 
