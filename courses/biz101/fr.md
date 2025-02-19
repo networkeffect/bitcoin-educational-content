@@ -342,35 +342,30 @@ Redécouvrons ce qu'est réellement le capital, terme si souvent mal compris et 
 
 Dans la théorie économique traditionnelle (keynésienne), le capital est souvent considéré de manière simplifiée comme un stock homogène d'actifs physiques ou financiers, principalement utilisé pour stimuler la demande globale par le biais de l'investissement. Il est souvent associé à la concentration des richesses et au pouvoir économique détenu par une petite élite. Dans un contexte où les écarts de richesse continuent de se creuser, nombreux sont ceux qui considèrent le capital comme un symbole d'inégalité économique, en particulier lorsque la richesse accumulée ne semble offrir aucun avantage à la majorité.
 
-le "capital" est souvent présenté comme un outil d'exploitation, et cette perspective a profondément influencé divers mouvements qui considèrent le capital comme intrinsèquement opposé aux intérêts des travailleurs. Mais est-ce vrai ? Ou cette perception peut-elle être déformée par.. :
+Le "capital" est souvent présenté comme un outil d'exploitation, et cette perspective a profondément influencé divers mouvements qui considèrent le capital comme intrinsèquement opposé aux intérêts des travailleurs. Mais est-ce vrai ? Ou cette perception peut-elle être déformée par.. :
 
-6. Un manque de compréhension des mécanismes économiques (y compris de la part des économistes eux-mêmes) ?
-
-7. Interventionnisme gouvernemental et manipulation du marché ?
-
-8. Confusion entre le capitalisme de connivence et le capitalisme de marché ?
-
-9. Le traitement médiatique des crises économiques ?
-
-10. Un désir de solutions rapides et de justice sociale immédiate ?
-
-11. La normalisation culturelle de la rhétorique anticapitaliste ?
+1. Un manque de compréhension des mécanismes économiques (y compris de la part des économistes eux-mêmes) ?
+2. Interventionnisme gouvernemental et manipulation du marché ?
+3. Confusion entre le capitalisme de connivence et le capitalisme de marché ?
+4. Le traitement médiatique des crises économiques ?
+5. Un désir de solutions rapides et de justice sociale immédiate ?
+6. La normalisation culturelle de la rhétorique anticapitaliste ?
 
 Heureusement, le bitcoin nous oblige à tout repenser et à remettre en cause ces idées reçues. Il existe une école de pensée, l'école autrichienne d'économie, qui peut nous éclairer sur ces questions et nous aider à reconsidérer la véritable nature du capital.
 
-**Il était une fois**
+**Il était une fois**...
 
 Commençons par une petite histoire :
 
-"Sur une petite île déserte vit un pêcheur solitaire. Chaque jour, il passe des heures à attraper des poissons à mains nues, une activité qui lui prend beaucoup de temps et d'énergie. Un jour, il a une idée : construire une lance qui lui permettra de pêcher plus efficacement. Mais il sait que cela lui demandera un sacrifice.
+"*Sur une petite île déserte vit un pêcheur solitaire. Chaque jour, il passe des heures à attraper des poissons à mains nues, une activité qui lui prend beaucoup de temps et d'énergie. Un jour, il a une idée : construire une lance qui lui permettra de pêcher plus efficacement. Mais il sait que cela lui demandera un sacrifice.*
 
-Avant de commencer à fabriquer la lance, le pêcheur décide de mettre de côté quelques poissons pour subvenir à ses besoins pendant le processus de fabrication. Il mange moins que d'habitude pendant quelques jours, mettant de côté suffisamment de poissons pour se concentrer sur son projet. Ce poisson mis de côté représente son **capital**, une petite réserve qui lui permet de poursuivre son objectif.
+*Avant de commencer à fabriquer la lance, le pêcheur décide de mettre de côté quelques poissons pour subvenir à ses besoins pendant le processus de fabrication. Il mange moins que d'habitude pendant quelques jours, mettant de côté suffisamment de poissons pour se concentrer sur son projet. Ce poisson mis de côté représente son **capital**, une petite réserve qui lui permet de poursuivre son objectif.*
 
-Tout en consacrant son temps à la construction de la lance, il compte sur ses réserves, retardant volontairement une partie de son confort immédiat (ce qui reflète sa **préférence pour le temps**). Après plusieurs jours de travail acharné, il achève une lance solide.
+*Tout en consacrant son temps à la construction de la lance, il compte sur ses réserves, retardant volontairement une partie de son confort immédiat (ce qui reflète sa **préférence temporelle**). Après plusieurs jours de travail acharné, il achève une lance solide.*
 
 ![BIZ101](assets/en/05.webp)
 
-Grâce à la lance, il peut désormais attraper des poissons beaucoup plus rapidement et avec moins d'efforts. Il n'a plus besoin de s'épuiser comme avant et commence même à accumuler un surplus de poissons. Ce surplus lui ouvre de nouvelles possibilités : il peut le stocker, le partager ou l'investir dans d'autres projets sur l'île. En retardant sa consommation immédiate et en utilisant son capital, le pêcheur a considérablement amélioré son efficacité et ses perspectives d'avenir"
+*Grâce à la lance, il peut désormais attraper des poissons beaucoup plus rapidement et avec moins d'efforts. Il n'a plus besoin de s'épuiser comme avant et commence même à accumuler un surplus de poissons. Ce surplus lui ouvre de nouvelles possibilités : il peut le stocker, le partager ou l'investir dans d'autres projets sur l'île. En retardant sa consommation immédiate et en utilisant son capital, le pêcheur a considérablement amélioré son efficacité et ses perspectives d'avenir.*"
 
 Cette histoire illustre le rôle fondamental du capital, de la patience et de la prévoyance dans la construction d'un avenir meilleur - des concepts essentiels à la croissance économique et au progrès humain.
 
@@ -383,16 +378,16 @@ L'école autrichienne d'économie tire son nom de ses fondateurs et de ses premi
 Dans la vision autrichienne, le capital est profondément lié à l'idée de différer la consommation pour construire des outils ou des ressources productives qui améliorent la production future. Ce processus, connu sous le nom d'accumulation de capital, est au cœur de la théorie économique autrichienne. Les éléments clés de cette perspective sont les suivants :
 
 
-- Préférence temporelle et consommation différée** : Les individus préfèrent naturellement consommer maintenant plutôt que plus tard, mais ils peuvent choisir de différer leur consommation s'ils s'attendent à de plus grandes récompenses à l'avenir. En épargnant aujourd'hui, les ressources peuvent être investies dans des biens d'équipement (outils, machines, infrastructures) qui améliorent la productivité au fil du temps. Les sociétés ou les individus qui ont une préférence temporelle moins marquée épargnent davantage et investissent dans des projets à long terme, ce qui favorise une croissance durable.
-- Le capital, moteur de la production future** : Les biens d'équipement sont considérés comme des outils intermédiaires utilisés pour produire des biens de consommation finaux. En accumulant du capital, les entrepreneurs peuvent améliorer la productivité et créer plus de richesse à l'avenir. Par exemple, au lieu de produire immédiatement des biens de consommation, les ressources peuvent être utilisées pour construire des usines ou des machines. Bien que cela réduise la consommation à court terme, l'efficacité qui en résulte permet d'accroître la production et la prospérité ultérieurement.
-- Production indirecte et efficacité** : Les économistes autrichiens, comme Eugen Böhm-Bawerk, ont mis en évidence l'idée de production indirecte - des processus de production plus longs et plus complexes impliquant de multiples étapes. Bien que ces processus prennent du temps, ils produisent en fin de compte des résultats plus efficaces et plus productifs, comme la construction d'une scierie pour traiter le bois plutôt que le ramassage manuel des grumes.
-- Les taux d'intérêt comme signaux** : Les taux d'intérêt, selon le point de vue autrichien, reflètent naturellement les préférences temporelles des individus. Des taux élevés indiquent une préférence pour la consommation immédiate, tandis que des taux bas encouragent l'épargne et l'investissement à long terme. Lorsque les banques centrales manipulent artificiellement les taux d'intérêt, elles faussent ces signaux naturels, ce qui entraîne une mauvaise allocation des ressources et des investissements non durables (malinvestissement).
+- **Préférence temporelle et consommation différée** : Les individus préfèrent naturellement consommer maintenant plutôt que plus tard, mais ils peuvent choisir de différer leur consommation s'ils s'attendent à de plus grandes récompenses à l'avenir. En épargnant aujourd'hui, les ressources peuvent être investies dans des biens d'équipement (outils, machines, infrastructures) qui améliorent la productivité au fil du temps. Les sociétés ou les individus qui ont une préférence temporelle moins marquée épargnent davantage et investissent dans des projets à long terme, ce qui favorise une croissance durable.
+- **Le capital, moteur de la production future** : Les biens d'équipement sont considérés comme des outils intermédiaires utilisés pour produire des biens de consommation finaux. En accumulant du capital, les entrepreneurs peuvent améliorer la productivité et créer plus de richesse à l'avenir. Par exemple, au lieu de produire immédiatement des biens de consommation, les ressources peuvent être utilisées pour construire des usines ou des machines. Bien que cela réduise la consommation à court terme, l'efficacité qui en résulte permet d'accroître la production et la prospérité ultérieurement.
+- **Production indirecte et efficacité** : Les économistes autrichiens, comme Eugen Böhm-Bawerk, ont mis en évidence l'idée de production indirecte - des processus de production plus longs et plus complexes impliquant de multiples étapes. Bien que ces processus prennent du temps, ils produisent en fin de compte des résultats plus efficaces et plus productifs, comme la construction d'une scierie pour traiter le bois plutôt que le traitement manuel des grumes.
+- **Les taux d'intérêt comme signaux** : Les taux d'intérêt, selon le point de vue autrichien, reflètent naturellement les préférences temporelles des individus. Des taux élevés indiquent une préférence pour la consommation immédiate, tandis que des taux bas encouragent l'épargne et l'investissement à long terme. Lorsque les banques centrales manipulent artificiellement les taux d'intérêt, elles faussent ces signaux naturels, ce qui entraîne une mauvaise allocation des ressources et des investissements non durables (malinvestissement).
 
 **Deux formes de capital dans les économies modernes**
 
 Dans le cadre du système monétaire basé sur la dette dans lequel nous opérons, **il existe un deuxième type de capital** : celui qui est généré instantanément lorsqu'une banque crée un prêt par le biais d'un simple mécanisme de crédit. Il s'agit d'une création de liquidité ex nihilo, où la banque prête de l'argent qu'elle ne détient pas à l'avance, mais qu'elle crée sur la base d'une promesse de remboursement.
 
-D'une part, le capital "autrichien" est le résultat d'une épargne réelle, un processus qui implique des décisions économiques réfléchies et des sacrifices méticuleux. D'autre part, le capital généré par la création de monnaie basée sur la dette est une construction instantanée et artificielle. Ces deux types de capitaux, bien que **superficiellement similaires dans leur utilisation pour financer des projets, sont fondamentalement différents par nature**.
+D'une côté, le capital "autrichien" est le résultat d'une épargne réelle, un processus qui implique des décisions économiques réfléchies et des sacrifices méticuleux. De l'autre, le capital "keynesien" généré par la création de monnaie basée sur la dette est une construction instantanée et artificielle. Ces deux types de capital, bien que **superficiellement similaires dans leur utilisation pour financer des projets, sont fondamentalement différents par nature**.
 
 Ces deux formes de capital ne devraient jamais être confondues. Pourtant, dans un système basé sur l'endettement, elles le sont souvent, **détournant les signaux économiques** et conduisant fréquemment à un mal-investissement. Ce malentendu explique pourquoi le capitalisme fait souvent l'objet de critiques injustifiées
 
@@ -408,21 +403,21 @@ Le bitcoin offre un moyen d'accumuler et de préserver le capital à long terme 
 
 ### En savoir plus sur l'école autrichienne d'économie
 
-L'école autrichienne d'économie** est une tradition de pensée économique qui valorise les marchés libres, la liberté individuelle et l'importance de l'action humaine dans les processus économiques. Elle critique l'intervention de l'État, en particulier dans le domaine de la monnaie et des marchés, et affirme que les individus, guidés par leurs préférences subjectives, sont les meilleurs juges de leurs propres intérêts.
+**L'école autrichienne d'économie** est une tradition de pensée économique qui valorise les marchés libres, la liberté individuelle et l'importance de l'action humaine dans les processus économiques. Elle critique l'intervention de l'État, en particulier dans le domaine de la monnaie et des marchés, et affirme que les individus, guidés par leurs préférences subjectives, sont les meilleurs juges de leurs propres intérêts.
 
 **Figures clés de l'école autrichienne**
 
 
-- Carl Menger** : Fondateur de l'école autrichienne, Menger a développé la théorie de la valeur subjective, qui affirme que la valeur des biens dépend des préférences individuelles plutôt que des coûts de production.
-- Ludwig von Mises** : Pierre angulaire de l'école autrichienne, Mises a introduit la praxéologie (la théorie de l'action humaine) et a écrit _Human Action_, une critique profonde du socialisme et de la planification centrale.
-- Friedrich Hayek** : Élève de Mises, Hayek a reçu le prix Nobel d'économie en 1974 pour ses travaux sur la décentralisation des connaissances et la spontanéité du marché. Dans son livre "The Road to Serfdom", il a fortement critiqué le contrôle centralisé.
-- Murray Rothbard** : Disciple de Mises et fervent défenseur du libertarianisme, Rothbard a développé la théorie de l'anarcho-capitalisme, envisageant une société sans État gouvernée par des contrats volontaires. Son livre _Man, Economy, and State_ (L'homme, l'économie et l'État) est un ouvrage fondateur de l'économie autrichienne.
+- **Carl Menger** : Fondateur de l'école autrichienne, Menger a développé la théorie de la valeur subjective, qui affirme que la valeur des biens dépend des préférences individuelles plutôt que des coûts de production.
+- **Ludwig von Mises** : Pierre angulaire de l'école autrichienne, Mises a introduit la praxéologie (la théorie de l'action humaine) et a écrit _Human Action_, une critique profonde du socialisme et de la planification centrale.
+- **Friedrich Hayek** : Élève de Mises, Hayek a reçu le prix Nobel d'économie en 1974 pour ses travaux sur la décentralisation des connaissances et la spontanéité du marché. Dans son livre "The Road to Serfdom", il a fortement critiqué le contrôle centralisé.
+- **Murray Rothbard** : Disciple de Mises et fervent défenseur du libertarianisme, Rothbard a développé la théorie de l'anarcho-capitalisme, envisageant une société sans État gouvernée par des contrats volontaires. Son livre _Man, Economy, and State_ (L'homme, l'économie et l'État) est un ouvrage fondateur de l'économie autrichienne.
 
 **Autres économistes influents
 
 
-- Milton Friedman** : Bien qu'il ne soit pas directement associé à l'école autrichienne, Friedman a soutenu de nombreuses idées libérales et favorables au marché. Sa politique monétariste diffère de la pensée autrichienne mais partage leur critique de l'intervention excessive de l'État dans l'économie.
-- Frédéric Bastiat** : Économiste français du XIXe siècle, Bastiat a influencé l'école autrichienne par ses travaux sur le libre-échange et les conséquences invisibles des politiques économiques. Son essai _Ce que l'on voit et ce que l'on ne voit pas_ est un texte fondateur du libéralisme économique.
+- **Milton Friedman** : Bien qu'il ne soit pas directement associé à l'école autrichienne, Friedman a soutenu de nombreuses idées libérales et favorables au marché. Sa politique monétariste diffère de la pensée autrichienne mais partage leur critique de l'intervention excessive de l'État dans l'économie.
+- **Frédéric Bastiat** : Économiste français du XIXe siècle, Bastiat a influencé l'école autrichienne par ses travaux sur le libre-échange et les conséquences invisibles des politiques économiques. Son essai _Ce que l'on voit et ce que l'on ne voit pas_ est un texte fondateur du libéralisme économique.
 
 ![BIZ101](assets/en/06.webp)
 
@@ -447,27 +442,26 @@ La trésorerie est l'endroit où l'on met les choses précieuses. Une entreprise
 
 Pour un horizon très long, certaines entreprises utilisent des actifs illiquides comme l'immobilier sans se rendre compte de certains dangers :
 
-
 - Illiquidité en cas de crise
-- En fin de compte, les rendements sont plutôt faibles une fois les frais déduits
+- Des rendements  plutôt faibles une fois les frais déduits
 - Un rendement qui ne dépasse pas l'inflation réelle, celle de la masse monétaire (~7% par an, voir ci-dessous)
-- Le risque caché que l'immobilier perde une partie de sa fonction "épargne" au profit d'actifs comme le bitcoin. Il pourrait ainsi se rapprocher de sa "valeur d'usage" : se loger.
+- Le risque caché que l'immobilier perde une partie de sa fonction "épargne" au profit d'actifs comme le bitcoin. Il pourrait ainsi se rapprocher de sa "valeur d'usage" : c-à-d se loger.
 
 Passons rapidement en revue l'environnement dans lequel les entreprises opèrent.
 
-**L'inflation réelle** : Au grand dam de leur mandat, les banques centrales visent une inflation annuelle de 2 %, ce qui signifie une perte de 40 % de la valeur de la monnaie sur 20 ans. Si l'on ajoute les périodes d'inflation plus prononcée, il devient évident que les entreprises ne peuvent pas utiliser uniquement la monnaie pour stocker le fruit de leur travail. Elles doivent mettre en œuvre des stratégies financières complexes, qui s'accompagnent nécessairement d'une série de risques. Ces stratégies sont évidemment **inaccessibles aux très petites entreprises**, déjà fortement accaparées par leurs activités de base.
+**L'inflation réelle** : Au grand dam de leur mandat, les banques centrales visent une inflation annuelle de 2 %, ce qui signifie une perte de 40 % de la valeur de la monnaie sur 20 ans. Si l'on ajoute les périodes d'inflation plus prononcée, il devient évident que les entreprises ne peuvent pas utiliser uniquement la monnaie pour stocker le fruit de leur travail. Elles doivent mettre en œuvre des stratégies financières complexes, qui s'accompagnent nécessairement d'une série de risques. Ces stratégies sont évidemment **inaccessibles aux très petites entreprises**, déjà fortement accaparées par leur activité principale.
 
 **L'inflation cachée** : Dans un système monétaire fondé sur l'endettement et les réserves fractionnaires, soutenu par les banques centrales, la **masse monétaire globale augmente d'environ 7 % par an en moyenne** (par exemple, M1 dans la zone euro ou aux États-Unis). Cela signifie que votre "part du gâteau" est réduite de moitié en quelques années, à moins que vous n'ayez un accès privilégié au robinet financier et que vous puissiez continuer à croître en utilisant l'effet de levier et en achetant rapidement des actifs à leurs "anciens prix" avant que l'argent nouvellement créé ne les fasse grimper. C'est l'effet Cantillon, qui explique en partie le transfert de richesse vers les plus aisés, alors que le "capital" est accusé à tort d'être le coupable (voir notre introduction sur le capital ci-dessus).
 
-**Risques de contrepartie** : Le système financier actuel est risqué et vous n'aurez peut-être pas toujours accès à "votre argent" Sans évoquer l'image d'un château de cartes, force est de constater que les institutions financières privatisent les profits et socialisent les pertes à la moindre crise. Dans un système de monnaie "scripturale" (monnaie inscrite dans un grand livre), l'argent à la banque n'est qu'une "créance" ; vous ne le possédez pas vraiment, et les banques elles-mêmes "ne le possèdent pas" (réserves fractionnaires). Cet argent est en quelque sorte magique. Certaines banques prestigieuses qui se sont moquées du bitcoin n'existent plus aujourd'hui, comme le Crédit Suisse.
+**Risques de contrepartie** : Le système financier actuel est risqué et vous n'aurez peut-être pas toujours accès à "votre argent". Sans évoquer l'image d'un château de cartes, force est de constater que les institutions financières privatisent les profits et socialisent les pertes à la moindre crise. Dans un système de monnaie "scripturale" (monnaie inscrite dans un grand livre), l'argent à la banque n'est qu'une "créance" ; vous ne le possédez pas vraiment, et les banques elles-mêmes "ne le possèdent pas" (réserves fractionnaires). Cet argent est en quelque sorte magique. Certaines banques prestigieuses qui se sont moquées du bitcoin n'existent plus aujourd'hui, comme le Crédit Suisse.
 
 Ce manque de confiance entraîne une résurgence des actifs "au porteur" comme l'or (même s'il est compliqué à sécuriser, à transporter, à diviser, etc.) et, bien sûr, le nouveau venu, le bitcoin.
 
 ### Le bitcoin en tant qu'actif financier
 
-Le bitcoin offre une alternative radicale. Il s'agit d'un **actif au porteur, sans émetteur central**, presque impossible à saisir, et qui bénéficie des effets de réseau. les "vrais" utilisateurs de Bitcoin choisissent de l'utiliser pour stocker le fruit de leur travail, car il est considéré comme une réserve de valeur résistante à la censure et à l'inflation. Grâce à l'effet de réseau, illustré par la loi de Metcalfe, chaque nouvel utilisateur convaincu augmente la valeur du réseau ; à mesure que le nombre de participants augmente, l'utilité du bitcoin croît de manière exponentielle. Ce modèle en fait une forme de capital originale et prometteuse, fondée sur l'adoption et la confiance des utilisateurs.
+Le bitcoin offre une alternative radicale. Il s'agit d'un **actif au porteur, sans émetteur central**, presque impossible à saisir, et qui bénéficie des effets de réseau. Les "vrais" utilisateurs de Bitcoin choisissent de l'utiliser pour stocker le fruit de leur travail, car il est considéré comme une réserve de valeur résistante à la censure et à l'inflation. Grâce à l'effet de réseau, illustré par la loi de Metcalfe, chaque nouvel utilisateur convaincu augmente la valeur du réseau ; à mesure que le nombre de participants augmente, l'utilité du bitcoin croît de manière exponentielle. Ce modèle en fait une forme de capital originale et prometteuse, fondée sur l'adoption et la confiance des utilisateurs.
 
-Le bitcoin est l'actif **le plus liquide au monde**, fonctionnant 24 heures sur 24 et 7 jours sur 7 sans interruption, contrairement aux marchés financiers traditionnels qui ont des heures de fermeture et des "coupe-circuits" Cette liquidité permet aux utilisateurs d'acheter ou de vendre des bitcoins à tout moment, que ce soit en réponse à une bonne ou à une mauvaise nouvelle (lancement de missiles, guerres, etc.).
+Le bitcoin est l'actif **le plus liquide au monde**, fonctionnant 24 heures sur 24 et 7 jours sur 7 sans interruption, contrairement aux marchés financiers traditionnels qui ont des heures de fermeture et des "coupe-circuits". Cette liquidité permet aux utilisateurs d'acheter ou de vendre des bitcoins à tout moment, que ce soit en réponse à une bonne ou à une mauvaise nouvelle (lancement de missiles, guerres, etc.).
 
 En dix ans, le bitcoin a enregistré une croissance annuelle moyenne de plus de 60 %. Cette performance unique a permis aux détenteurs à long terme de préserver leur capital initial, contrairement à d'autres instruments.
 
@@ -481,7 +475,7 @@ Deuxièmement, le bitcoin a connu jusqu'à présent des cycles de **4 ans**, ce 
 
 *MICHAEL SAYLOR : "Le meilleur signal de prix du Bitcoin est la moyenne mobile simple sur 4 ans "* Voir le graphique ci-dessus.
 
-En outre, il est conseillé de maintenir une exposition au bitcoin **proportionnelle** à son niveau de compréhension. Il est également important de ne pas être pressé ou d'essayer de synchroniser parfaitement le marché.
+En outre, il est conseillé de maintenir une exposition au bitcoin **proportionnelle** à son niveau de compréhension. Il est également important de ne pas être pressé ou d'essayer de prédire parfaitement le marché.
 
 Enfin, le bitcoin est considéré comme **volatile**. Pour être précis, son prix exprimé en unités de monnaie fiduciaire l'est. Cette volatilité est en partie naturelle pour un actif encore jeune, mais elle est également amplifiée par la présence de spéculateurs qui ne l'utilisent pas comme une réserve de valeur à long terme, mais recherchent plutôt des gains rapides. En outre, les opérations à effet de levier (utilisation de fonds empruntés pour augmenter les positions de négociation) accentuent les mouvements de prix à la hausse et à la baisse, empêchant le bitcoin de suivre une trajectoire ascendante rectiligne. Cela conduit à des fluctuations plus prononcées, mais au fil du temps, à mesure que la base d'utilisateurs engagés s'élargit, cette volatilité semble se stabiliser. En résumé, il est **impossible d'avoir un actif aussi performant que le bitcoin sans volatilité**, mais on peut certainement avoir des actifs beaucoup moins performants avec moins de volatilité.
 
@@ -489,7 +483,7 @@ Enfin, le bitcoin est considéré comme **volatile**. Pour être précis, son pr
 
 L'adoption du bitcoin par les institutions financières renforce encore sa position sur le marché mondial.
 
-Les récentes déclarations de **BlackRock** soulignent le potentiel du bitcoin en tant que réserve de valeur et outil de diversification des portefeuilles. Le géant institutionnel mondial a récemment suggéré que **la croissance du nombre d'utilisateurs de Bitcoin dépasse celle d'Internet** ou des téléphones mobiles, notamment en raison de **changements démographiques et générationnels**, ainsi que d'une méfiance croissante à l'égard des institutions financières traditionnelles ( !). En raison de sa rareté, de sa nature non souveraine et décentralisée, certains investisseurs considèrent le bitcoin comme une valeur refuge **en période d'instabilité fiscale et monétaire**, de peur ou d'événements géopolitiques perturbateurs.
+Les récentes déclarations de **BlackRock** soulignent le potentiel du bitcoin en tant que réserve de valeur et outil de diversification des portefeuilles. Le géant institutionnel mondial a récemment suggéré que **la croissance du nombre d'utilisateurs de Bitcoin dépasse celle d'Internet** ou des téléphones mobiles, notamment en raison de **changements démographiques et générationnels**, ainsi que d'une méfiance croissante à l'égard des institutions financières traditionnelles (!). En raison de sa rareté, de sa nature non souveraine et décentralisée, certains investisseurs considèrent le bitcoin comme une valeur refuge **en période d'instabilité fiscale et monétaire**, de peur ou d'événements géopolitiques perturbateurs.
 
 Les **Spot Bitcoin ETF**, lancés en janvier 2024, ont connu un succès phénoménal - le lancement d'ETF le **plus réussi** de l'histoire - avec près de 20 milliards de dollars d'entrées nettes de janvier à novembre. C'est environ quatre fois plus que le lancement de l'ETF suivant, le Nasdaq-100 QQQ. Ces ETF offrent un accès plus facile et plus réglementé au bitcoin, ce qui l'a **légitimé** davantage et a attiré un afflux important de capitaux institutionnels.
 
@@ -497,37 +491,22 @@ Les ETF Bitcoin sont largement en tête en termes d'**adoption institutionnelle*
 
 Le bitcoin joue aujourd'hui sur le **marché de la réserve de valeur**. Il ne représente qu'une goutte d'eau en termes d'échelle : environ 1 800 milliards de dollars, contre 18 000 milliards pour l'or ou 500 000 milliards pour l'immobilier. Cependant, sa part de marché d'environ 0,1 % lui confère une énorme marge de croissance, d'autant plus que ses concurrents peinent à attirer de nouveaux utilisateurs.
 
-flux 1D (M USD) | Flux 1W (M USD) | Flux 1M (M USD) | Flux 3M (M USD) | Flux YTD (M USD) | Flux 1M (M USD) | Flux 1M (M USD) | Flux 1M (M USD) | Flux 1M (M USD) | Flux 1M (M USD) | Flux 1M (M USD)
-
-| ------- | --------------- | --------------- | --------------- | --------------- | ---------------- |
-
-| **Somme** | +457,19 | +1 507,95 | +2 888,01 | +3 672,29 | **+20 262,94** |
-
-| IBIT | +393,40 | +750,91 | +1 536,47 | +3 821,37 | +22 460,44 |
-
-| FBTC | +14,81 | +372,40 | +627,16 | +458,71 | +10 266,69 |
-
-| ARKB | +11,51 | +163,26 | +295,92 | -3,88 | +2 647,32 |
-
-| BITB | +12,93 | +146,50 | +263,30 | +97,46 | +2 262,69 |
-
-| HODL | +5.75 | +38.77 | +94.54 | +100.39 | +682.03 |
-
-| BRRR | +1,92 | +4,72 | +17,76 | +20,54 | +540,19 |
-
-| EZBC | +11,79 | +17,53 | +39,29 | +47,48 | +439,45 |
-
-bTC | .00 | -3.13 | +36.59 | +419.18 | +419.18 | +419.18 |
-
-| BTCO | +6.43 | +19.25 | +47.30 | +56.41 | +394.82 |
-
-| BTCW | .00 | +2.84 | +6.04 | +146.69 | +217.47 |
-
-| YBIT | -1.34 | -10.26 | +5.06 | +13.81 | +76.30 |
-
-| DEFI | .00 | .00 | .00 | -2.03 | -1.79 |
-
-| GBTC | .00 | +5.16 | -81.42 | -1503.84 | -20,141.85 |
+| Ticker    | flux 1D (M USD) | Flux 1W (M USD) | Flux 1M (M USD) | Flux 3M (M USD) | Flux YTD (M USD) |
+| --------- | --------------- | --------------- | --------------- | --------------- | ---------------- |
+| **Somme** | +457,19         | +1 507,95       | +2 888,01       | +3 672,29       | **+20 262,94**   |
+| IBIT      | +393,40         | +750,91         | +1 536,47       | +3 821,37       | +22 460,44       |
+| FBTC      | +14,81          | +372,40         | +627,16         | +458,71         | +10 266,69       |
+| ARKB      | +11,51          | +163,26         | +295,92         | -3,88           | +2 647,32        |
+| BITB      | +12,93          | +146,50         | +263,30         | +97,46          | +2 262,69        |
+| HODL      | +5.75           | +38.77          | +94.54          | +100.39         | +682.03          |
+| BRRR      | +1,92           | +4,72           | +17,76          | +20,54          | +540,19          |
+| EZBC      | +11,79          | +17,53          | +39,29          | +47,48          | +439,45          |
+| bTC       | .00             | -3.13           | +36.59          | +419.18         | +419.18          |
+| BTCO      | +6.43           | +19.25          | +47.30          | +56.41          | +394.82          |
+| BTCW      | .00             | +2.84           | +6.04           | +146.69         | +217.47          |
+| YBIT      | -1.34           | -10.26          | +5.06           | +13.81          | +76.30           |
+| DEFI      | .00             | .00             | .00             | -2.03           | -1.79            |
+| GBTC      | .00             | +5.16           | -81.42          | -1503.84        | -20,141.85       |
 
 *20 milliards de dollars en 10 mois : Les ETF bitcoin ont réalisé en moins d'un an ce que les ETF or ont mis 5 ans à accomplir. Source : Flux d'investissement des fonds en USD. Bloomberg Terminal, Bloomberg L.P., 2024.*
 
@@ -540,7 +519,6 @@ D'un point de vue purement financier, le bitcoin est reconnu comme un actif de d
 En résumé, pour le cas d'utilisation le plus courant - investir des excédents de trésorerie pendant au moins quatre ans - le bitcoin convient parfaitement. Il est intéressant de le combiner avec une stratégie d'entrée progressive : investir des montants fixes à intervalles réguliers pour lisser le point d'entrée ou de sortie.
 
 D'autres cas d'utilisation font du bitcoin un actif de trésorerie stratégique, par exemple :
-
 
 - Être en mesure de déposer des **collatéraux** ou des liquidités 24 heures sur 24 et 7 jours sur 7
 - Possibilité de transfert vers la trésorerie d'une autre entreprise **rapidement et à tout moment**
@@ -559,17 +537,16 @@ Rappelons que sa capitalisation boursière totale relativement faible, comparée
 
 ### La décision d'allouer la trésorerie de l'entreprise en bitcoins
 
-Le **processus de prise de décision** pour investir dans le bitcoin sera fortement influencé par votre position au sein de l'entreprise. Si vous êtes **majoritaire, vous êtes libre** d'allouer les excédents de trésorerie selon votre propre jugement. En revanche, si vous êtes associé ou actionnaire au sein d'une structure de décision collective, vous devrez passer par des délibérations communes, ce qui peut compliquer les choses.
+Le **processus de prise de décision** pour investir dans le bitcoin sera fortement influencé par votre position au sein de l'entreprise. Si vous êtes dirigeant **majoritaire, vous êtes libre** d'allouer les excédents de trésorerie selon votre propre jugement. En revanche, si vous êtes associé ou actionnaire au sein d'une structure de décision collective, vous devrez passer par des délibérations communes, ce qui peut compliquer les choses.
 
 Dans ce deuxième scénario, l'harmonisation des différents points de vue devient essentielle, car elle **dépend en grande partie de la compréhension de l'actif bitcoin par chaque partie prenante**. Comme le dit l'adage : "Bitcoin, c'est tout ce que les gens ne savent pas sur les ordinateurs combiné à tout ce qu'ils ne comprennent pas sur l'argent" Même si l'un des partenaires a fait l'effort de bien comprendre le bitcoin, il peut être difficile de transmettre ces connaissances aux autres. Dans ce cas, il est **conseillé de faire appel à une ressource extérieure** afin d'éviter que l'idée ne soit trop étroitement identifiée à une seule personne, ce qui pourrait susciter des résistances.
 
 Actuellement, le scénario d'un propriétaire majoritaire prenant la décision est le plus représentatif parmi les entreprises qui détiennent des bitcoins. Voici quelques exemples concrets :
 
-
-- Les professionnels indépendants** : Consultants, professionnels de la santé ou avocats qui investissent une partie de leur trésorerie à long terme dans le bitcoin. En général, ces professionnels détiennent déjà des comptes d'épargne ou de dépôt à terme dont les rendements sont maigres.
-- Cadres du secteur technologique** : Un cadre qui a vendu son entreprise et investi une partie du produit de sa holding personnelle dans le bitcoin il y a quelques années. Aujourd'hui, il jouit d'une situation financière confortable et réinvestit dans de nouvelles entreprises.
-- Les propriétaires de très petites entreprises** : Entrepreneurs dans les services, l'agriculture ou l'artisanat qui ont compris le potentiel du bitcoin et y consacrent une partie de leur trésorerie. Leur motivation première réside dans la diversification et la liberté qu'elle procure
-- Des sociétés cotées en bourse** comme MicroStrategy ont créé un précédent en convertissant une part importante de leur trésorerie en bitcoins, ce qui témoigne d'un changement global dans les stratégies d'allocation des capitaux des entreprises. À l'automne 2024, de nombreuses autres entreprises avaient suivi le mouvement, légitimant encore davantage cette tendance.
+- **Les professionnels indépendants** : Consultants, professionnels de la santé ou avocats qui investissent une partie de leur trésorerie à long terme dans le bitcoin. En général, ces professionnels détiennent déjà des comptes d'épargne ou de dépôt à terme dont les rendements sont maigres.
+- **Cadres du secteur technologique** : Un cadre qui a vendu son entreprise et investi une partie du produit de sa holding personnelle dans le bitcoin il y a quelques années. Aujourd'hui, il jouit d'une situation financière confortable et réinvestit dans de nouvelles entreprises.
+- **Les propriétaires de très petites entreprises** : Entrepreneurs dans les services, l'agriculture ou l'artisanat qui ont compris le potentiel du bitcoin et y consacrent une partie de leur trésorerie. Leur motivation première réside dans la diversification et la liberté qu'elle procure
+- **Des sociétés cotées en bourse** comme MicroStrategy ont créé un précédent en convertissant une part importante de leur trésorerie en bitcoins, ce qui témoigne d'un changement global dans les stratégies d'allocation des capitaux des entreprises. À l'automne 2024, de nombreuses autres entreprises avaient suivi le mouvement, légitimant encore davantage cette tendance.
 
 ### Taxation des bitcoins détenus par les entreprises
 
@@ -577,7 +554,7 @@ Pour les entreprises qui ne sont pas structurées comme des entités juridiques 
 
 Cependant, les **entreprises constituées en société** - celles qui sont soumises à l'impôt sur les sociétés - bénéficient souvent d'un cadre fiscal plus favorable. Contrairement aux particuliers, qui peuvent être confrontés à des restrictions concernant la compensation des gains et des pertes entre différentes catégories d'actifs, les sociétés peuvent généralement intégrer les gains ou les pertes réalisés sur les transactions en bitcoins directement dans leurs comptes annuels de pertes et profits. Cela peut conduire à une position fiscale plus flexible et parfois plus avantageuse.
 
-Les taux d'imposition et les traitements spécifiques varient considérablement d'une juridiction à l'autre. Par exemple, en France et dans de nombreux pays occidentaux, les sociétés peuvent être soumises à un taux d'imposition d'environ 25 %, ce qui peut être inférieur à l'impôt forfaitaire que les particuliers paient sur les gains d'investissement.
+Les taux d'imposition et les traitements spécifiques varient considérablement d'une juridiction à l'autre. Par exemple, en France et dans de nombreux pays occidentaux, les sociétés peuvent être soumises à un taux d'imposition de 15% à 25 %, ce qui peut être inférieur au prélèvement forfaitaire que les particuliers paient sur les gains d'investissement (~30%).
 
 En raison de ces différences, **certains propriétaires d'entreprises choisissent d'acheter et de détenir des bitcoins par l'intermédiaire de leur structure d'entreprise**, car cela peut offrir **des opportunités de planification fiscale plus efficaces**. Comme toujours, il est conseillé de consulter un professionnel de la fiscalité qui connaît bien les règles en vigueur dans la ou les juridictions concernées afin de s'assurer de la conformité et d'optimiser la stratégie fiscale.
 
@@ -592,21 +569,21 @@ Il existe trois façons d'acquérir des bitcoins :
 ![BIZ101](assets/en/09.webp)
 
 
-- En échange de biens ou de services:**
+- **En échange de biens ou de services:**
 
 Le bitcoin fonctionnant comme un moyen d'échange, il est possible d'envisager une économie circulaire. Bien que cela reste peu courant aujourd'hui, de plus en plus d'entreprises commencent à accepter les paiements en bitcoins - pourquoi pas la vôtre ? (Voir notre prochain chapitre)
 
 
-- Extraction de bitcoins:**
+- **"Minage" de bitcoins:**
 
-Il s'agit de tirer des revenus de l'exploitation de machines minières. Pour les entreprises non spécialisées, cela reste relativement marginal. Vous pouvez participer par le biais d'intermédiaires qui vous vendront ou vous loueront l'ordinateur, le réseau et la maintenance. Si vous possédez les machines, vous pouvez les comptabiliser comme des actifs amortissables. À grande échelle, vous devrez calculer soigneusement le retour sur investissement, car le marché est très concurrentiel et nécessite une bonne anticipation des coûts, notamment de l'électricité.
+Il s'agit de tirer des revenus de l'exploitation de machines dites "minières" (ordinateurs). Pour les entreprises non spécialisées dans cette activité, cela reste relativement marginal. Vous pouvez participer par le biais d'intermédiaires qui vous vendront ou vous loueront l'ordinateur, le réseau et la maintenance. Si vous possédez les machines, vous pouvez les comptabiliser comme des actifs amortissables. À grande échelle, vous devrez calculer soigneusement le retour sur investissement, car le marché est très concurrentiel et nécessite une bonne anticipation des coûts, notamment de l'électricité.
 
 Pour en savoir plus sur les méthodes d'exploitation minière, vous pouvez [consulter la section "exploitation minière" de nos tutoriels] (https://planb.network/tutorials/mining).
 
 
-- Acheter des bitcoins:**
+- **Acheter des bitcoins:**
 
-C'est de loin la méthode la plus courante, qui s'effectue soit par l'intermédiaire d'échanges peer-to-peer, soit, plus généralement, sur des plateformes d'échange spécialisées. Cependant, lorsqu'elles acquièrent des bitcoins en tant qu'actifs de trésorerie, les entreprises doivent se conformer à des normes réglementaires strictes et à des procédures de connaissance du client (KYC). Lorsqu'elles l'achètent sur des plateformes d'échange spécialisées, les entreprises doivent généralement fournir des informations détaillées sur leur société, notamment des documents d'identité, des états financiers et un justificatif de domicile, afin de satisfaire aux exigences en matière de connaissance du client et de lutte contre le blanchiment d'argent (AML).
+C'est de loin la méthode la plus courante, qui s'effectue soit par l'intermédiaire d'échanges pair-à-pair (P2P), soit, plus généralement, sur des plateformes d'échange spécialisées. Cependant, lorsqu'elles acquièrent des bitcoins en tant qu'actifs de trésorerie, les entreprises doivent se conformer à des normes réglementaires strictes et à des procédures de connaissance du client (KYC/KYB). Lorsqu'elles l'achètent sur des plateformes d'échange spécialisées, les entreprises doivent généralement fournir des informations détaillées sur leur société, notamment des documents d'identité, des états financiers et un justificatif de domicile, afin de satisfaire aux exigences en matière de connaissance du client et de lutte contre le blanchiment d'argent (AML).
 
 Pour savoir comment ouvrir un compte professionnel et l'utiliser pour acheter, vendre et transférer des bitcoins, vous pouvez consulter ces deux tutoriels spécialement conçus pour les entreprises, qui couvrent les plateformes Kraken et Bitfinex dans leurs versions professionnelles :
 
@@ -636,7 +613,7 @@ Il n'y a pas de règle absolue. Essayer d'anticiper le marché en recherchant le
 
 En réalité, le potentiel d'appréciation du bitcoin est tel que même si vous ne commencez que dans quelques années, vous obtiendrez probablement des gains à long terme. Il est vrai qu'il est probable que les fluctuations importantes des cours perdront de leur intensité avec le temps. Cependant, en tant que monnaie déflationniste, le bitcoin est conçu pour stocker efficacement la valeur et refléter les gains de productivité de ses utilisateurs. Pour faire une analogie, nous sommes actuellement dans la "phase de lancement" du bitcoin, une monnaie en devenir, et personne ne connaît encore sa juste valeur. Plus tard, peut-être dans 20 ou 40 ans, lorsqu'il sera dans une "phase de croisière" stable, il pourrait être incroyablement stable et croître régulièrement avec les gains de productivité de la société.
 
-Le secteur de l'immobilier répète souvent que "c'est toujours le bon moment pour acheter", oubliant que si l'immobilier perdait sa fonction de réserve de valeur - au profit d'actifs comme le bitcoin - les prix pourraient revenir plus près de leur valeur d'utilité (abri). Le bitcoin, en revanche, ne sert à rien d'autre qu'à stocker de la valeur, ce qui pourrait signifier que "c'est toujours le bon moment d'acheter" L'avenir nous le dira.
+Le secteur de l'immobilier répète souvent que "c'est toujours le bon moment pour acheter", oubliant que si l'immobilier perdait sa fonction de réserve de valeur - au profit d'actifs comme le bitcoin - les prix pourraient revenir plus près de leur valeur d'utilité (abri). Le bitcoin, en revanche, ne sert à rien d'autre qu'à stocker et échanger de la valeur, ce qui pourrait signifier que "c'est toujours le bon moment d'acheter". L'avenir nous le dira.
 
 ![BIZ101](assets/en/13.webp)
 
@@ -651,17 +628,17 @@ Cette clé cryptographique est un nombre aléatoire extrêmement grand. Pour sim
 Cela nous amène à la question de la garde : détenir des bitcoins signifie détenir la (les) clé(s). Soit vous les détenez vous-même, soit vous déléguez cette tâche à un tiers. Il existe également des solutions intermédiaires. Passons en revue les scénarios les plus courants :
 
 
-- Autodétention:**
+- **Autodétention:**
 
 C'est l'option recommandée par les vrais amateurs de bitcoins, car elle est conforme à la conception originale du bitcoin. Vous agissez comme votre propre banque : il n'y a aucun risque qu'un tiers vous escroque, mais vous êtes responsable de la sécurisation de la (des) clé(s). Vous avez un accès total à vos fonds 24 heures sur 24 et 7 jours sur 7. Dans un contexte professionnel, si plusieurs personnes doivent effectuer des transactions, vous aurez besoin d'outils et de procédures appropriés pour gérer l'accès et la sécurité.
 
 
-- Garde par un tiers:**
+- **Garde par un tiers:**
 
 Par exemple, une bourse ou un service d'achat peut créer un compte pour vous, convertir votre monnaie traditionnelle en bitcoins et les conserver en votre nom à l'aide de leurs systèmes de sécurité. La plupart de ces services vous permettent de retirer vos bitcoins vers un portefeuille dont vous êtes le seul à détenir la clé. Jusqu'à ce que vous le fassiez, vous ne possédez pas vraiment les bitcoins ; vous comptez sur leur promesse de vous rembourser. Cela implique de trouver un équilibre entre les risques de sécurité (les leurs contre les vôtres) et le risque de contrepartie (ils pourraient faire faillite ou disparaître). Certaines entreprises trouvent cette solution acceptable, mais elle n'est généralement pas conseillée pour le stockage à long terme ou pour 100 % de votre allocation. Les services de conservation peuvent également facturer des frais de stockage.
 
 
-- "Bitcoin papier" (ETF ou ETP):**
+- **"Bitcoin papier" (ETF ou ETP):**
 
 Il s'agit d'instruments financiers traditionnels qui représentent des fractions de bitcoin, reproduisant l'évolution de son cours. L'institution à l'origine du produit achète et détient théoriquement le bitcoin sous-jacent. Vos contributions et retraits sont effectués en monnaie traditionnelle (par exemple, en dollars ou en euros), et non en bitcoins. À l'exception de certains produits qui permettent un retrait en bitcoins réels (pour éviter un événement imposable dans certaines juridictions), ces instruments impliquent des frais de gestion annuels. Dans ce cas, vous dépendez de la sécurité de l'institution et êtes confronté au risque de contrepartie (par exemple, si un gouvernement décidait de saisir tous les bitcoins détenus par une institution, comme cela s'est produit pour l'or en 1933 en vertu de l'Executive Order 6102 des États-Unis). Leur principal avantage est leur facilité d'accès, puisqu'ils sont distribués par les canaux financiers traditionnels. Ils évitent la nécessité de sécuriser les clés cryptographiques, mais n'offrent aucune des propriétés inhérentes au bitcoin : il est impossible d'utiliser le réseau bitcoin 24 heures sur 24, 7 jours sur 7, pour déplacer librement de la valeur sans autorisation. Ils ne font que reproduire la performance financière, et non la fonctionnalité ou la souveraineté du bitcoin lui-même.
 
@@ -678,17 +655,16 @@ Si vous optez pour le "bitcoin papier", vous vous adresserez à des institutions
 Si vous choisissez d'acheter des bitcoins par l'intermédiaire d'une place de marché (bourse) ou d'un courtier, vous avez le choix entre plusieurs catégories :
 
 
-- Grandes plateformes internationales ou étrangères:**
+- **Grandes plateformes internationales ou étrangères:**
 
 Il s'agit par exemple de Kraken, Coinbase ou Binance, historiquement utilisés par de nombreux particuliers. Certains ont rencontré des problèmes et il est difficile de faire une recommandation claire. Un conseil : si vous les utilisez, ne laissez pas vos bitcoins plus longtemps que nécessaire.
 
 
-- Fournisseurs de services réglementés (fournisseurs de services de biens numériques enregistrés):**
+- **Fournisseurs de services réglementés (fournisseurs de services de biens numériques enregistrés):**
 
 En France, par exemple, des plateformes comme Paymium (bourse) ou BullBitcoin (courtier) sont connues pour avoir à leur tête de véritables passionnés de Bitcoin et pour avoir acquis une solide expérience. Aux États-Unis, on trouve des prestataires de services comme River ou Swann. En général, il est important d'examiner le pedigree du fournisseur : sa réputation, ses antécédents, sa popularité au sein de la communauté Bitcoin et l'adéquation de son leadership avec les valeurs fondamentales de Bitcoin.
 
-**Bourse d'échange ou courtier:**
-
+- **Bourse d'échange ou courtier:**
 
 - Une **bourse** vous permet de placer des ordres d'achat au prix que vous choisissez, mais vous devez attendre pour l'exécution que le prix du marché et les vendeurs s'alignent.
 - Un **courtier** vous offre un prix fixe et peut réaliser la transaction plus rapidement.
@@ -696,12 +672,12 @@ En France, par exemple, des plateformes comme Paymium (bourse) ou BullBitcoin (c
 Au-delà des frais et de la vitesse d'exécution - qui ont moins d'importance si vous pensez à long terme (plusieurs années) - une entreprise doit également prendre en compte les éléments suivants :
 
 
-- Interface utilisateur:** La plateforme est-elle conviviale ?
-- Fonctionnalités comptables:** Au minimum, la possibilité d'exporter l'historique des transactions au format CSV.
-- Garde et sécurité:** La plateforme détient-elle les bitcoins en votre nom ou vous en transfère-t-elle la propriété ? Quel est leur dispositif de sécurité ? Existe-t-il des "verrous de retrait" ou d'autres limitations de retrait ?
-- Le support client:** La qualité, la réactivité et l'assistance personnalisée, en particulier lorsque vous débutez.
-- Réputation et éthique:** Fiabilité et valeurs de la plateforme.
-- Prise en charge des achats récurrents:** Si vous prévoyez d'accumuler des bitcoins au fil du temps grâce à des achats programmés.
+- **Interface utilisateur:** La plateforme est-elle conviviale ?
+- **Fonctionnalités comptables:** Au minimum, la possibilité d'exporter l'historique des transactions au format CSV.
+- **Garde et sécurité:** La plateforme détient-elle les bitcoins en votre nom ou vous en transfère-t-elle la propriété ? Quel est leur dispositif de sécurité ? Existe-t-il des "verrous de retrait" ou d'autres limitations de retrait ?
+- **Le support client:** La qualité, la réactivité et l'assistance personnalisée, en particulier lorsque vous débutez.
+- **Réputation et éthique:** Fiabilité et valeurs de la plateforme.
+- **Prise en charge des achats récurrents:** Si vous prévoyez d'accumuler des bitcoins au fil du temps grâce à des achats programmés.
 
 # Des solutions de paiement en bitcoins adaptées à chaque entreprise
 
@@ -721,35 +697,29 @@ Bitcoin est une infrastructure de confiance dont la première application est de
 
 Considérons maintenant le point de vue d'une entreprise pratique dont l'activité principale n'a rien à voir avec Bitcoin. Pourquoi choisirait-elle d'accepter les paiements en bitcoins ?
 
+- **Construire une trésorerie en bitcoins:**
 
-- Construire une trésorerie en bitcoins:**
+Voir notre précédent article sur l'achat de bitcoins. Que ce soit par conviction ou par stratégie de diversification, certains professionnels choisissent d'accepter les paiements en bitcoins. Certains bitcoineurs affirment que moins une entreprise a de moyens financiers - ce qui signifie qu'elle n'a ni le temps ni les outils pour s'engager dans des manœuvres financières complexes -**plus il est essentiel pour elle d'être payée sous la forme d'argent la plus "dure" qui soit**. Ce faisant, ils mettent tout le monde sur un pied d'égalité, permettant même aux petites entreprises soumises à des contraintes de temps de préserver leur valeur sans se laisser entraîner dans des jeux financiers.
 
-Voir notre précédent article sur l'achat de bitcoins. Que ce soit par conviction ou par stratégie de diversification, certains professionnels choisissent d'accepter les paiements en bitcoins. Certains bitcoiners affirment que moins une entreprise a de moyens financiers - ce qui signifie qu'elle n'a ni le temps ni les outils pour s'engager dans des manœuvres financières complexes -** plus il est essentiel pour elle d'être payée sous la forme d'argent la plus dure qui soit**. Ce faisant, ils mettent tout le monde sur un pied d'égalité, permettant même aux petites entreprises soumises à des contraintes de temps de préserver leur valeur sans se laisser entraîner dans des jeux financiers.
+- **Atteindre un nouveau groupe démographique:**
 
+Les utilisateurs de bitcoins sont de plus en plus nombreux et disposent d'un pouvoir d'achat important. Ils se dirigeront naturellement vers les commerces qui acceptent leur monnaie. De plus, comme il s'agit de la première monnaie universelle native d'internet, vous pouvez également attirer une clientèle internationale de passage, ou bien faire du e-commerce à l'international.
 
-- Atteindre un nouveau groupe démographique:**
+- **Accroître la visibilité:**
 
-Les utilisateurs de bitcoins sont de plus en plus nombreux et disposent d'un pouvoir d'achat important. Ils se dirigeront naturellement vers les commerces qui acceptent leur monnaie. De plus, comme il s'agit de la première monnaie universelle native d'internet, vous pouvez également attirer une clientèle internationale de passage.
+En inscrivant votre entreprise sur des plateformes telles que BTCmap.org, par exemple. Peu d'entreprises acceptent actuellement les bitcoins, le bouche-à-oreille joue donc en votre faveur, et vous permet de vous démarquer de vos concurrents.
 
+- **Frais réduits:**
 
-- Accroître la visibilité:**
+Les paiements instantanés en bitcoins s'effectuent sur le Lightning Network. **Les frais sont minimes et payés par l'acheteur**. Il n'y a pas de frais de terminal de paiement, pas d'échec d'autorisation de paiement et pas de fraude. À titre de comparaison, le secteur des paiements (cartes, terminaux, transferts, PSP, etc.) coûte environ 2 200 milliards de dollars par an dans le monde. Si l'on ajoute à cela les rétrocessions et la fraude, c'est au total près d'un dixième de l'équivalent du PIB des États-Unis qui est "prélevé" sur les entreprises productives du monde entier, simplement pour transférer de la valeur. Quelle que soit votre activité, les frais financiers sont un fardeau qu'il convient d'optimiser et, dans certains cas, des frais élevés peuvent étouffer certains modèles économiques.
 
-En inscrivant votre entreprise sur des plateformes telles que BTCmap.org, par exemple. Peu d'entreprises acceptent actuellement les bitcoins, le bouche-à-oreille joue donc en votre faveur. Le bouche-à-oreille joue donc en votre faveur et vous permet de vous démarquer de vos concurrents.
-
-
-- Frais réduits:**
-
-Les paiements instantanés en bitcoins s'effectuent sur le Lightning Network. **Les frais sont minimes et payés par l'acheteur**. Il n'y a pas de frais de terminal de paiement, pas d'échec d'autorisation de paiement et pas de fraude. À titre de comparaison, le secteur des paiements (cartes, terminaux, transferts, PSP, etc.) coûte environ 2 200 milliards de dollars par an dans le monde. Si l'on ajoute à cela les rétrocessions et la fraude, c'est au total près d'un dixième de l'équivalent du PIB des États-Unis qui est "prélevé" sur les entreprises productives du monde entier, simplement pour transférer de la valeur. Quelle que soit votre activité, les frais financiers sont un fardeau qu'il convient d'optimiser et, dans certains cas, des frais élevés peuvent étouffer certains modèles d'entreprise.
-
-
-- La liberté et l'absence de permission, 24/7:**
+- **La liberté et l'absence de permission, 24/7:**
 
 Il n'est pas nécessaire de demander la permission pour utiliser le bitcoin. Tout le monde peut participer à l'économie en quelques minutes à l'aide d'une application pour smartphone. Vous pouvez envoyer ou recevoir un paiement de n'importe qui - particulier ou entreprise - à tout moment, sans contrainte de calendrier ni retard.
 
+- **Tirer parti des avantages du réseau Bitcoin:**
 
-- Tirer parti des avantages du réseau Bitcoin:**
-
-Vous n'êtes pas obligé de conserver vos paiements sous forme de bitcoins, surtout si vous devez payer des fournisseurs ou verser la TVA. Certains services peuvent convertir tout ou partie de vos paiements en bitcoins dans la devise de votre choix (par exemple, des euros vers votre IBAN) moyennant une commission. Dans ce scénario, l'intérêt d'accepter Bitcoin peut résider dans l'attraction de nouveaux utilisateurs ou dans les avantages intrinsèques de Bitcoin (tels que des frais moins élevés, un fonctionnement 24 heures sur 24 et l'absence de risque de fraude ou de rétrofacturation).
+Vous n'êtes pas obligé de conserver vos paiements sous forme de bitcoins, surtout si vous devez payer des fournisseurs ou verser la TVA. Certains services peuvent convertir tout ou partie de vos paiements en bitcoins dans la devise de votre choix (par exemple, des euros vers votre IBAN) moyennant une commission. Dans ce scénario, l'intérêt d'accepter Bitcoin peut résider dans l'attraction de nouveaux utilisateurs ou dans les avantages intrinsèques de Bitcoin (tels que des frais moins élevés, un fonctionnement 24 heures sur 24 et l'absence de risque de fraude ou de rétro-facturation).
 
 ### Quelle solution de paiement choisir ?
 
@@ -765,159 +735,105 @@ Pour simplifier le processus de prise de décision, nous avons défini quatre pr
 
 #### Profil 1 - Le débutant
 
-attribut de l'utilisateur | Attribut de l'utilisateur | Attribut de l'utilisateur | Attribut de l'utilisateur
+| Attribut                            | Le Débutant                                                                                                                                                |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **État d'Esprit**                   | "essayer mon premier paiement physique", "recevoir un pourboire pour mon contenu en ligne", "viser de très petits revenus"                                 |
+| **Fréquence des Transactions**      | "première transaction pour apprendre", "recevoir un paiement de temps en temps"                                                                            |
+| **Exemples de Types d'Activités**   | Économie créative (créateurs de contenu, blogs, articles, etc.), pourboires occasionnels, ventes ponctuelles en personne, associations, événements uniques |
+| **Type de Paiement**                | Généralement quelques centimes à quelques euros/dollars ; moins de ~300 euros/dollars par article                                                          |
+| **Complexité des Paramètres**       | Aucune                                                                                                                                                     |
+| **Exemple de Solution Recommandée** | Un portefeuille Lightning custodial comme Wallet of Satoshi ou un portefeuille non-custodial comme Phoenix                                                 |
+| **Interface Commerçant**            | Portefeuille Bitcoin Lightning simple : une application sur un téléphone mobile                                                                            |
+| **Interface Client**                | Code QR de paiement Bitcoin, scanné via le portefeuille personnel du client                                                                                |
+| **Frais**                           | Le client paie les frais de transaction Bitcoin Lightning ainsi que les éventuels frais de l'application                                                   |
+| **Dispositif de Point de Vente**    | Application mobile gratuite ou option pour un terminal physique (ex. Bitcoinize)                                                                           |
+| **Gestion et Rôles**                | Gestion via une application unique ; différenciation minimale des rôles                                                                                    |
+| **Exports Comptables**              | Liste basique de l'historique des transactions                                                                                                             |
+| **API**                             | Non                                                                                                                                                        |
 
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-
-| Les entreprises ont besoin d'un soutien financier de la part de l'État, mais elles ne sont pas en mesure d'offrir des services de qualité
-
-| Les personnes interrogées ont indiqué qu'elles n'avaient pas l'habitude d'effectuer des transactions, mais qu'elles avaient l'habitude d'effectuer des paiements de temps en temps                                                                    |
-
-| Exemples de types d'activités ** Économie créative (créateurs de contenu, blogs, articles, etc.), conseils occasionnels, ventes ponctuelles de produits en personne, associations, événements ponctuels..
-
-| Généralement de quelques centimes à quelques euros/dollars ; en dessous de ~300 euros/dollars par article
-
-| Les paramètres de l'interface utilisateur doivent être configurés de manière à ce qu'ils ne soient pas trop compliqués
-
-| Un portefeuille Lightning de garde comme Wallet of Satoshi ou un portefeuille sans garde comme Phoenix
-
-| Le portefeuille Bitcoin Lightning : une application sur un téléphone portable
-
-| Le code de paiement QR Bitcoin, scanné via le portefeuille personnel du client
-
-| Le client paie les frais de Bitcoin Lightning et tous les frais d'application applicables
-
-| Le système de point de vente est une application gratuite pour smartphone ou une option pour un terminal physique (p. ex. Bitcoinize)
-
-| La gestion de l'application unique ; la différenciation des rôles est minimale
-
-| Exportations comptables** | Listes de base de l'historique des transactions
-
-**API** | Non |
 
 #### Profil 2 - L'essentiel
 
-| Attribut de l'utilisateur - Attribut de l'utilisateur - Attribut de l'utilisateur - Attribut de l'utilisateur
+| Attribut                         | L'Essentiel                                                                                                                              |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **État d'Esprit**                | "J'accepte le Bitcoin dans mon entreprise, mais je ne m'attends pas à un volume significatif"                                           |
+| **Fréquence des Transactions**   | Quelques transactions par mois                                                                                                           |
+| **Exemples de Types d'Activités** | Bars, restaurants, ventes semi-régulières de produits frais ou en circuit court, plusieurs magasins sous un même propriétaire, économie créative pour artistes |
+| **Type de Paiement**             | Généralement de quelques euros/dollars à quelques centaines par article ; moins de ~300 par article et moins de ~3 000 par mois         |
+| **Complexité des Paramètres**    | Minimale (application mobile)                                                                                                           |
+| **Exemple de Solution Recommandée** | Swiss Bitcoin Pay                                                                                                                      |
+| **Interface Commerçant**         | Portefeuille Bitcoin Lightning simple : une application sur un téléphone mobile ; facturation simple avec détails minimaux             |
+| **Interface Client**             | Code QR de paiement Bitcoin, scanné via le portefeuille personnel du client                                                            |
+| **Frais**                        | Typiquement <1 % pour un envoi vers une adresse Bitcoin, et <1,5 % pour une conversion en monnaie fiduciaire                            |
+| **Dispositif de Point de Vente** | Application mobile gratuite ou option pour un terminal physique (ex. Bitcoinize)                                                       |
+| **Gestion et Rôles**             | Option pour un rôle de vente uniquement pour les employés ; tableau de bord en ligne pour l'administration                             |
+| **Exports Comptables**           | Export CSV avec détails complets des transactions                                                                                      |
+| **API**                          | Oui                                                                                                                                     |
 
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-
-| Les entreprises qui acceptent les bitcoins dans le cadre de leurs activités ne s'attendent pas à des volumes importants
-
-| Les frais d'inscription sont à la charge de l'employeur et sont à la charge du client
-
-| Exemples de types d'entreprises : bars, restaurants, vente semi-régulière de produits frais ou provenant de sources directes, magasins multiples sous l'égide d'un seul propriétaire, économie créative pour les artistes, etc
-
-| Les frais d'inscription sont généralement compris entre quelques euros/dollars et quelques centaines par article ; moins de ~300 par article et moins de ~3 000 par mois
-
-| Les paramètres de l'application mobile peuvent être modifiés en fonction de la complexité des réglages
-
-| Les solutions recommandées **Exemple de solution** | Swiss Bitcoin Pay |
-
-| Interface avec les commerçants ** Portefeuille Bitcoin Lightning simple : une application sur un téléphone portable ; facturation simple avec un minimum de détails
-
-| Le code de paiement QR Bitcoin, scanné via le portefeuille personnel du client
-
-| Les frais sont généralement inférieurs à 1 % pour l'envoi vers une adresse Bitcoin et inférieurs à 1,5 % pour la conversion en monnaie fiduciaire
-
-| Le système de point de vente est une application gratuite pour smartphone ou une option pour un terminal physique (p. ex. Bitcoinize)
-
-| Les employés ont la possibilité de choisir un rôle à vendre uniquement ; un tableau de bord en ligne est disponible pour l'administration
-
-| Exportation CSV avec tous les détails de la transaction
-
-| **API** | Oui |
 
 #### Profil 3 - Le professionnel
 
-| Le professionnel - Attribut - Le professionnel - Attribut - Attribut - Attribut
-
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-| Un mode de paiement comme un autre pour mon commerce électronique - Ou une gestion commune pour un groupe d'entreprises prêtes à augmenter leurs volumes
-
-| Les opérations peuvent être effectuées à l'aide d'une carte de crédit ou d'une carte d'identité
-
-| Exemples de types d'entreprises : sites de commerce électronique à volume modéré, petites places de marché, groupes de magasins physiques (par exemple, Click & Collect), opérations de PME, etc
-
-| Les paiements sont généralement compris entre quelques euros/dollars et quelques centaines ; aucune limite n'est fixée pour le montant des paiements ; moins de 250 000 par an
-
-| Les sites de vente en ligne peuvent être très complexes à configurer : ils peuvent être légers ou complets (hébergement local ou dans le nuage), et nécessitent souvent une vitrine de commerce électronique
-
-| BTC Pay Server pour le commerce électronique et/ou les environnements physiques ; ZapRite, Musqet ou PayWithFlash pour la caisse, Be-BOP pour un magasin électronique intégré
-
-| Le site web (mobile et bureau) avec édition de factures, options de panier et création de boutons de paiement ; facturation automatisée avec intégration du commerce électronique
-
-| Le code de paiement QR Bitcoin, scanné via le portefeuille personnel du client
-
-| Les frais d'entrée comprennent les frais Bitcoin Lightning et les frais de conversion <1,5 %
-
-| Les sites de vente en ligne, l'affichage physique optionnel (par exemple, un iPad montrant le site ou un terminal Bitcoin)
-
-| Gestion et rôles** | Boutique complète avec plusieurs rôles d'administrateur ; les employés et les clients interagissent avec le système
-
-| Exportation CSV avec tous les détails de la transaction
-
-| **API** | Oui |
+| Attribut                            | Le Professionnel                                                                                                                                                                   |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **État d'Esprit**                   | Un moyen de paiement comme un autre pour mon e-commerce - Ou une gestion conjointe pour un groupe d'entreprises prêtes pour des volumes plus élevés                                |
+| **Fréquence des Transactions**      | Plusieurs transactions par jour                                                                                                                                                    |
+| **Exemples de Types d'Activités**   | Sites e-commerce avec volume modéré, petites places de marché, groupes de magasins physiques (ex. Click & Collect), PME                                                            |
+| **Type de Paiement**                | Généralement de quelques euros/dollars à quelques centaines ; pas de limite de taille de paiement ; moins de 250 000 par an                                                        |
+| **Complexité des Paramètres**       | De léger à entièrement fonctionnel (hébergement local ou cloud), nécessite souvent une boutique e-commerce                                                                         |
+| **Exemple de Solution Recommandée** | BTC Pay Server pour e-commerce et/ou environnements physiques ; ZapRite, Musqet ou PayWithFlash pour le checkout, Be-BOP pour une boutique intégrée                                |
+| **Interface Commerçant**            | Site web (mobile et desktop) avec édition de factures, options de panier et création de bouton de paiement ; facturation automatisée avec intégration e-commerce                   |
+| **Interface Client**                | Code QR de paiement Bitcoin, scanné via le portefeuille personnel du client                                                                                                        |
+| **Frais**                           | Mix entre un backend open-source gratuit et des frais d'hébergement/service Lightning payants ; les frais côté client incluent les frais Bitcoin Lightning et <1,5 % de conversion |
+| **Dispositif de Point de Vente**    | Boutique en ligne, affichage physique optionnel (ex. iPad affichant le site ou terminal Bitcoin)                                                                                   |
+| **Gestion et Rôles**                | Boutique entièrement fonctionnelle avec plusieurs rôles administrateurs ; les employés et les clients interagissent avec le système                                                |
+| **Exports Comptables**              | Export CSV avec détails complets des transactions                                                                                                                                  |
+| **API**                             | Oui                                                                                                                                                                                |
 
 #### Profil 4 - L'entreprise
 
-| Attribut | L'entreprise
-
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-
-| La méthode de paiement est une méthode stratégique pour l'entreprise - Avec un peu de développement pour s'intégrer dans la plateforme de service selon des spécifications spécifiques
-
-| Les transactions à haute fréquence sont illimitées
-
-| Les entreprises de taille moyenne, les sociétés de services informatiques, les grandes entreprises, les grandes places de marché, les entreprises de taille moyenne, les entreprises de taille moyenne, les entreprises de taille moyenne, les sociétés de services informatiques, les grandes places de marché
-
-| Les frais d'inscription sont à la charge de l'utilisateur
-
-| Les paramètres de l'interface utilisateur peuvent être modifiés en fonction de la complexité de l'architecture de l'application
-
-| L'architecture ou l'orchestration sur mesure de solutions hébergées en mode SaaS, potentiellement en utilisant des services LSP (*Lightning Service Provider*) tiers, est une solution recommandée
-
-| Interface marchand** | Interfaces front-end et back-end entièrement personnalisées et totalement intégrées aux flux et processus de l'entreprise
-
-| L'interface client peut aller d'un code de paiement Bitcoin QR à une interface utilisateur entièrement personnalisée et/ou à l'intégration d'une API
-
-| Le client paie les frais de Bitcoin Lightning ainsi que les frais de transaction des fournisseurs de services
-
-| Les solutions personnalisées sont adaptées à l'environnement de l'entreprise
-
-| Gestion et rôles** | Rôles entièrement personnalisés dans les domaines de la vente, de l'administration, du développement, de la comptabilité et de la finance
-
-**Exportations comptables** | Exportations comptables entièrement personnalisées | Exportations comptables entièrement personnalisées
-
-| **API** | Oui |
+| Attribut                            | L'Entreprise                                                                                                                                                            |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **État d'Esprit**                   | Un moyen de paiement stratégique pour l'entreprise - Avec un certain développement pour l'intégration dans la plateforme de service selon des spécifications précises   |
+| **Fréquence des Transactions**      | Illimitée, transactions à haute fréquence                                                                                                                               |
+| **Exemples de Types d'Activités**   | Entreprises de taille moyenne, sociétés de services informatiques, grandes entreprises, grandes places de marché                                                        |
+| **Type de Paiement**                | Tout montant ou volume                                                                                                                                                  |
+| **Complexité des Paramètres**       | Moyenne à élevée, selon le choix de l'architecture                                                                                                                      |
+| **Exemple de Solution Recommandée** | Architecture sur mesure ou orchestration de solutions SaaS hébergées, pouvant inclure des services tiers LSP (*Lightning Service Provider*)                             |
+| **Interface Commerçant**            | Interfaces front-end et back-end entièrement personnalisées et intégrées aux workflows et processus de l'entreprise                                                     |
+| **Interface Client**                | Allant d'un simple code QR Bitcoin à une interface utilisateur totalement personnalisée et/ou une intégration API                                                       |
+| **Frais**                           | Combinaison de coûts de développement interne et de frais tiers ; le client paie les frais Bitcoin Lightning ainsi que les éventuels frais des prestataires de services |
+| **Dispositif de Point de Vente**    | Solutions sur mesure adaptées à l'environnement de l'entreprise                                                                                                         |
+| **Gestion et Rôles**                | Rôles entièrement personnalisés pour la vente, l'administration, le DevOps, la comptabilité et la finance                                                               |
+| **Exports Comptables**              | Exports comptables entièrement personnalisés                                                                                                                            |
+| **API**                             | Oui                                                                                                                                                                     |
 
 Dans les chapitres suivants, nous détaillerons chaque profil d'entreprise et les solutions adaptées à chacun d'entre eux.
 
-## L'entrée en matière
+## Le débutant
 
 <chapterId>7edda53d-5b9f-432a-8493-115de8c94a67</chapterId>
 
-Le profil Starter est conçu pour les entreprises, les créateurs et les particuliers qui souhaitent explorer les paiements en bitcoins sans engager de ressources ou d'expertise substantielles. Il s'agit généralement de personnes qui gèrent un très faible volume de transactions (peut-être quelques pourboires, dons ou ventes occasionnelles) et qui recherchent une introduction simple et légère à l'écosystème de Bitcoin et du Lightning Network. La principale valeur de l'approche Starter réside dans son installation minimale : dans la plupart des cas, il suffit d'un smartphone ou d'une tablette équipé(e) d'un portefeuille de base compatible avec Lightning.
+Le profil Débutant  est conçu pour les entreprises, les créateurs et les particuliers qui souhaitent explorer les paiements en bitcoins sans engager de ressources ou d'expertise substantielles. Il s'agit généralement de personnes qui gèrent un très faible volume de transactions (peut-être quelques pourboires, dons ou ventes occasionnelles) et qui recherchent une introduction simple et légère à l'écosystème de Bitcoin et du Lightning Network. La principale valeur de l'approche Débutant réside dans son installation minimale : dans la plupart des cas, il suffit d'un smartphone ou d'une tablette équipé(e) d'un portefeuille de base compatible avec Lightning.
 
 ![BIZ101-profiles](assets/en/18.webp)
 
 L'une des caractéristiques de ce profil est qu'il se concentre sur les paiements à faible volume qui dépassent rarement quelques centaines d'euros ou de dollars par mois. Cette échelle modeste en fait un excellent choix pour tous ceux qui souhaitent tester le marché avec Bitcoin, sans les complexités inhérentes aux déploiements de volumes plus importants. En outre, elle permet un apprentissage pratique immédiat ; comme il y a moins de pressions opérationnelles et des enjeux monétaires moindres, les erreurs peuvent être contenues et les leçons sont tirées rapidement. Qu'il s'agisse d'artistes qui vendent de l'artisanat lors de foires du week-end ou de groupes à but non lucratif qui acceptent des dons ponctuels, les utilisateurs de cette catégorie privilégient souvent l'accessibilité et la facilité d'utilisation plutôt que les fonctionnalités avancées.
 
-Les deux configurations de portefeuille les plus courantes pour le profil "Starter" impliquent de choisir entre des solutions avec ou sans dépositaire. Un portefeuille dépositaire (tel que Wallet of Satoshi ou Blink) permet à un service tiers de gérer les clés privées et les opérations de backend, réduisant ainsi les responsabilités techniques pour l'utilisateur. Cette formule est particulièrement attrayante pour ceux qui privilégient la commodité par-dessus tout et souhaitent une prise en main aussi simple que possible. D'autre part, les portefeuilles Lightning non gardiens (comme Phoenix ou Breez) placent les clés privées et le contrôle total entre les mains du propriétaire de l'entreprise, offrant une plus grande autonomie et une plus grande confidentialité en échange d'un effort initial légèrement plus important. Dans les deux cas, les interfaces modernes sont généralement si conviviales que n'importe qui peut effectuer les tâches essentielles (générer un code QR, saisir un montant de paiement et confirmer les transactions) en l'espace de quelques minutes.
+Les deux configurations de portefeuille les plus courantes pour le profil "Débutant" impliquent de choisir entre des solutions avec ou sans dépositaire. Un portefeuille dépositaire (tel que Wallet of Satoshi ou Blink) permet à un service tiers de gérer les clés privées et les opérations de backend, réduisant ainsi les responsabilités techniques pour l'utilisateur. Cette formule est particulièrement attrayante pour ceux qui privilégient la commodité par-dessus tout et souhaitent une prise en main aussi simple que possible. D'autre part, les portefeuilles Lightning non-custodiaux (comme Phoenix ou Breez) placent les clés privées et le contrôle total entre les mains du propriétaire de l'entreprise, offrant une plus grande autonomie et une plus grande confidentialité en échange d'un effort initial légèrement plus important. Dans les deux cas, les interfaces modernes sont généralement si conviviales que n'importe qui peut effectuer les tâches essentielles (générer un code QR, saisir un montant de paiement et confirmer les transactions) en l'espace de quelques minutes.
 
 ![BIZ101-profiles](assets/en/19.webp)
 
 Bien que les questions de sécurité puissent sembler moins urgentes lorsque les transactions sont peu importantes, il est néanmoins crucial de mettre en place des mesures de protection de base. Même un simple smartphone ou tablette utilisé pour recevoir des paiements en bitcoins devrait être verrouillé par un mot de passe ou une sécurité biométrique, et les procédures de sauvegarde (allant de la conservation des identifiants de connexion pour un portefeuille de garde à la sauvegarde d'une phrase de semence pour un portefeuille sans garde) doivent être prises au sérieux. Les membres du personnel qui traitent les transactions dans un cadre physique gagneraient à connaître les principes de base : comment ouvrir l'application, comment présenter un code QR au client et comment vérifier si le paiement est bien arrivé.
 
-La comptabilité et l'établissement de rapports, bien que relativement simples dans le cadre du profil Starter, méritent une attention particulière. Bien que les volumes de transactions puissent être minimes, la conservation d'enregistrements précis permet d'éviter toute confusion ultérieure et contribue à maintenir la transparence en cas d'audits financiers ou de déclarations fiscales. De nombreuses applications de portefeuilles permettent aux utilisateurs d'exporter un historique des transactions de base sous la forme d'un fichier CSV ; pour une petite entreprise ou un entrepreneur unique, l'enregistrement régulier de ces fichiers peut faciliter grandement le rapprochement des comptes. Il est également judicieux de suivre la valeur approximative en monnaie fiduciaire (par exemple, en euros ou en dollars) au moment où chaque transaction est reçue. Le cours du bitcoin pouvant fluctuer, il est très utile de disposer d'un registre des taux de conversion pour la tenue de la comptabilité et la conformité fiscale.
+La comptabilité et l'établissement de rapports, bien que relativement simples dans le cadre du profil Débutant, méritent une attention particulière. Bien que les volumes de transactions puissent être minimes, la conservation d'enregistrements précis permet d'éviter toute confusion ultérieure et contribue à maintenir la transparence en cas d'audits financiers ou de déclarations fiscales. De nombreuses applications de portefeuilles permettent aux utilisateurs d'exporter un historique des transactions de base sous la forme d'un fichier CSV ; pour une petite entreprise ou un entrepreneur unique, l'enregistrement régulier de ces fichiers peut faciliter grandement le rapprochement des comptes. Il est également judicieux de suivre la valeur approximative en monnaie fiduciaire (par exemple, en euros ou en dollars) au moment où chaque transaction est reçue. Le cours du bitcoin pouvant fluctuer, il est très utile de disposer d'un registre des taux de conversion pour la tenue de la comptabilité et la conformité fiscale.
 
 ![BIZ101-profiles](assets/en/20.webp)
 
-Pour les entreprises qui souhaitent compléter leurs paiements physiques ou en personne par des dons ou des pourboires en ligne, il est désormais facile d'intégrer un bouton de pourboire Lightning ou un widget de don sur un site web ou un blog. Des plateformes telles que BTCPay Server offrent des boutons de paiement faciles à configurer, tandis que certains médias sociaux et services de diffusion en direct prennent déjà en charge les pourboires Lightning avec adresses. Par conséquent, même une entreprise Starter peut construire un réseau modeste mais mondial de mécènes. Par ailleurs, ceux qui préfèrent ne pas détenir de bitcoins à long terme peuvent envisager une conversion partielle ou automatique en monnaie fiduciaire à l'aide de certains portefeuilles de dépôt ou de services tiers. Bien que cette option implique des frais supplémentaires et d'éventuelles obligations KYC, elle permet aux entreprises d'éviter la volatilité des taux de change et de maintenir leurs flux financiers existants avec un minimum de perturbations.
+Pour les entreprises qui souhaitent compléter leurs paiements physiques ou en personne par des dons ou des pourboires en ligne, il est désormais facile d'intégrer un bouton de pourboire Lightning ou un widget de don sur un site web ou un blog. Des plateformes telles que BTCPay Server offrent des boutons de paiement faciles à configurer, tandis que certains médias sociaux et services de diffusion en direct prennent déjà en charge les pourboires Lightning avec adresses. Par conséquent, même une entreprise "Débutant" peut construire un réseau modeste mais mondial. Par ailleurs, ceux qui préfèrent ne pas détenir de bitcoins à long terme peuvent envisager une conversion partielle ou automatique en monnaie fiduciaire à l'aide de certains portefeuilles de dépôt ou de services tiers. Bien que cette option implique des frais supplémentaires et d'éventuelles obligations KYC, elle permet aux entreprises d'éviter la volatilité des taux de change et de maintenir leurs flux financiers existants avec un minimum de perturbations.
 
-Un cas d'utilisation simple illustre la façon dont tous ces éléments se combinent. Imaginons un artisan local qui vend des confitures maison sur un marché de producteurs le samedi. Armé d'un téléphone équipé d'un portefeuille Lightning, il fixe le prix de chaque pot en euros ; lorsqu'un client demande à payer en bitcoins, le commerçant saisit rapidement le montant en fiats correspondant, et l'application calcule automatiquement les sats dus. Le code QR résultant est scanné par le portefeuille du client, le paiement est effectué en quelques secondes et l'artisan sait instantanément que la transaction a réussi. À la fin de la journée, tous les détails de la transaction peuvent être exportés à des fins d'archivage, et le solde de la journée peut être envoyé en totalité ou en partie à une plateforme d'échange pour être converti en monnaie fiduciaire.
+Un cas d'utilisation simple illustre la façon dont tous ces éléments se combinent. Imaginons un artisan local qui vend des confitures maison sur un marché de producteurs le samedi. Armé d'un téléphone équipé d'un portefeuille Lightning, il fixe le prix de chaque pot en euros ; lorsqu'un client demande à payer en bitcoins, le commerçant saisit rapidement le montant en fiats correspondant, et l'application calcule automatiquement le montant du. Le code QR résultant est scanné par le portefeuille du client, le paiement est effectué en quelques secondes et l'artisan sait instantanément que la transaction a réussi. À la fin de la journée, tous les détails de la transaction peuvent être exportés à des fins d'archivage, et le solde de la journée peut être envoyé en totalité ou en partie à une plateforme d'échange pour être converti en monnaie fiduciaire.
 
-En équilibrant les outils conviviaux, les exigences minimales en matière de matériel et la simplicité de l'enregistrement, les solutions Starter fournissent l'essentiel sans submerger les entreprises débutantes. Si les volumes de transactions augmentent et que les exigences opérationnelles d'une entreprise évoluent, la mise à niveau vers les catégories plus avancées détaillées dans les chapitres suivants devient une progression naturelle.
+En équilibrant les outils conviviaux, les exigences minimales en matière de matériel et la simplicité de l'enregistrement, les solutions '"Débutant"' fournissent l'essentiel sans submerger les entreprises débutantes. Si les volumes de transactions augmentent et que les exigences opérationnelles d'une entreprise évoluent, la mise à niveau vers les catégories plus avancées détaillées dans les chapitres suivants devient une progression naturelle.
 
 Pour des tutoriels détaillés sur les portefeuilles recommandés et la configuration de base, veuillez consulter les guides suivants :
 
